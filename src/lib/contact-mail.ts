@@ -2,6 +2,7 @@ import { STUDIO_EMAIL } from "./contact";
 import type { ContactPayload } from "./contact-schema";
 
 const MAIL_FROM = `FluX Design and Construction <${STUDIO_EMAIL}>`;
+const MAIL_CC = "fluxdesignstudio.info@gmail.com";
 
 export function contactMailText(data: ContactPayload): string {
   return [
@@ -37,6 +38,7 @@ export async function sendContactMail(
       body: JSON.stringify({
         from: MAIL_FROM,
         to: [STUDIO_EMAIL],
+        cc: [MAIL_CC],
         subject: `Enquiry from ${data.name.replace(/\s+/g, " ")}`,
         text: contactMailText(data),
       }),
