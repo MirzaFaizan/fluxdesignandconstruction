@@ -1,0 +1,12 @@
+{
+  "name": "flux-image-pipeline",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "derive": "node derive.mjs",
+    "logo": "python3 export-logo.py"
+  },
+  "dependencies": {
+    "sharp": "^0.34.4"
+  }
+}

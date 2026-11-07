@@ -1,0 +1,453 @@
+{
+  "maxWidthHero": 2400,
+  "maxEdgeSquare": 1200,
+  "avifQuality": 75,
+  "webpQuality": 88,
+  "items": [
+    {
+      "id": "hero-iqbal-1-kanal-pgshf",
+      "roles": ["hero"],
+      "folder": "heroes",
+      "src": "Architecture/Residential/Iqbal House 1 kanal Pgshf.png",
+      "maxWidth": 2400,
+      "priority": true,
+      "style": "modern",
+      "plot": "1 kanal",
+      "society": "PGSHF",
+      "caption": {
+        "en": "1-kanal house, PGSHF",
+        "ur": "1 کنال گھر، پی جی ایس ایچ ایف"
+      }
+    },
+    {
+      "id": "hero-courtyard-night",
+      "roles": ["hero"],
+      "folder": "heroes",
+      "src": "Architecture/Residential/CourtYard Night View.jpeg",
+      "maxWidth": 2400,
+      "style": "modern",
+      "plot": null,
+      "society": null,
+      "caption": {
+        "en": "Courtyard at dusk",
+        "ur": "شام کے وقت صحن"
+      }
+    },
+    {
+      "id": "hero-i16-5-marla",
+      "roles": ["hero"],
+      "folder": "heroes",
+      "src": "Architecture/Residential/I16  (islamabad)5 Marla .png",
+      "maxWidth": 2400,
+      "style": "modern",
+      "plot": "5 marla",
+      "society": "I-16 Islamabad",
+      "caption": {
+        "en": "5 marla house, I-16 Islamabad",
+        "ur": "5 مرلہ گھر، آئی-16 اسلام آباد"
+      }
+    },
+    {
+      "id": "hero-annexy-1-kanal",
+      "roles": ["hero"],
+      "folder": "heroes",
+      "src": "Architecture/Residential/1 kanal Annexy # mandibhudin.png",
+      "maxWidth": 2400,
+      "style": "classical",
+      "plot": "1 kanal",
+      "society": "Mandi Bahauddin",
+      "caption": {
+        "en": "1-kanal annex, Mandi Bahauddin",
+        "ur": "1 کنال اینیکس، منڈی بہاؤالدین"
+      }
+    },
+    {
+      "id": "hero-ahsan-aftab-10-marla",
+      "roles": ["hero"],
+      "folder": "heroes",
+      "src": "Architecture/Residential/82 ,Ahsan Aftab ,10 Marla.png",
+      "maxWidth": 2400,
+      "style": "classical",
+      "plot": "10 marla",
+      "society": null,
+      "caption": {
+        "en": "10 marla classical house",
+        "ur": "10 مرلہ کلاسکل گھر"
+      }
+    },
+    {
+      "id": "hero-khurram-10-marla",
+      "roles": ["hero"],
+      "folder": "heroes",
+      "src": "Architecture/Residential/Client Khurram 10marla  Exterior Elevation.png",
+      "maxWidth": 2400,
+      "style": "modern",
+      "plot": "10 marla",
+      "society": null,
+      "caption": {
+        "en": "10 marla house, dusk",
+        "ur": "10 مرلہ گھر، شام"
+      }
+    },
+    {
+      "id": "hero-zahid-5-marla-pgshf",
+      "roles": ["hero"],
+      "folder": "heroes",
+      "src": "Architecture/Residential/Client Zahid 250 D, 5 marla  Pgshf.png",
+      "maxWidth": 2400,
+      "style": "modern",
+      "plot": "5 marla",
+      "society": "PGSHF",
+      "caption": {
+        "en": "5 marla house, PGSHF 250-D",
+        "ur": "5 مرلہ گھر، پی جی ایس ایچ ایف 250-ڈی"
+      }
+    },
+    {
+      "id": "hero-khursheed-586a-dusk",
+      "roles": ["hero", "proof-cgi"],
+      "folder": "heroes",
+      "src": "Architecture/Residential/client Khursheed Plot # 586 A Pgshf .png",
+      "maxWidth": 2400,
+      "style": "modern",
+      "plot": "5–10 marla",
+      "society": "PGSHF",
+      "pair": "586a",
+      "kind": "cgi",
+      "caption": {
+        "en": "Plot 586-A, PGSHF — CGI",
+        "ur": "پلاٹ 586-اے، پی جی ایس ایچ ایف — سی جی آئی"
+      }
+    },
+    {
+      "id": "proof-352c-cgi",
+      "roles": ["proof-cgi"],
+      "folder": "proof",
+      "src": "Construction/352 C(pgshf)/Render/X-352 C.png",
+      "maxWidth": 2400,
+      "pair": "352c",
+      "kind": "cgi",
+      "plot": null,
+      "society": "PGSHF",
+      "caption": {
+        "en": "Plot 352-C, PGSHF — CGI",
+        "ur": "پلاٹ 352-سی، پی جی ایس ایچ ایف — سی جی آئی"
+      }
+    },
+    {
+      "id": "proof-352c-site",
+      "roles": ["proof-site"],
+      "folder": "proof",
+      "src": "Construction/352 C(pgshf)/construction/1.png",
+      "maxEdge": 1200,
+      "pair": "352c",
+      "kind": "site",
+      "plot": null,
+      "society": "PGSHF",
+      "caption": {
+        "en": "Plot 352-C, PGSHF, Adyala Road — under construction",
+        "ur": "پلاٹ 352-سی، پی جی ایس ایچ ایف، اڈیالہ روڈ — زیر تعمیر"
+      }
+    },
+    {
+      "id": "proof-629d-cgi",
+      "roles": ["proof-cgi"],
+      "folder": "proof",
+      "src": "Construction/629 D(pgshf)/Renders/629d (2).png",
+      "maxWidth": 2400,
+      "pair": "629d",
+      "kind": "cgi",
+      "society": "PGSHF",
+      "caption": {
+        "en": "Plot 629-D, PGSHF — CGI",
+        "ur": "پلاٹ 629-ڈی، پی جی ایس ایچ ایف — سی جی آئی"
+      }
+    },
+    {
+      "id": "proof-629d-site",
+      "roles": ["proof-site"],
+      "folder": "proof",
+      "src": "Construction/629 D(pgshf)/IMG_9923.jpg",
+      "maxEdge": 1800,
+      "pair": "629d",
+      "kind": "site",
+      "society": "PGSHF",
+      "caption": {
+        "en": "Plot 629-D, PGSHF — brickwork",
+        "ur": "پلاٹ 629-ڈی، پی جی ایس ایچ ایف — اینٹوں کا کام"
+      }
+    },
+    {
+      "id": "proof-iftikhar-cgi",
+      "roles": ["proof-cgi"],
+      "folder": "proof",
+      "src": "Construction/iftikhar(pgshf)/renders/1.1.png",
+      "maxWidth": 2400,
+      "pair": "iftikhar",
+      "kind": "cgi",
+      "society": "PGSHF",
+      "caption": {
+        "en": "Iftikhar house, PGSHF — CGI",
+        "ur": "افتخار ہاؤس، پی جی ایس ایچ ایف — سی جی آئی"
+      }
+    },
+    {
+      "id": "proof-iftikhar-site",
+      "roles": ["proof-site"],
+      "folder": "proof",
+      "src": "Construction/iftikhar(pgshf)/construction/1.png",
+      "maxEdge": 1200,
+      "pair": "iftikhar",
+      "kind": "site",
+      "society": "PGSHF",
+      "caption": {
+        "en": "Iftikhar house, PGSHF — grey structure",
+        "ur": "افتخار ہاؤس، پی جی ایس ایچ ایف — گرے سٹرکچر"
+      }
+    },
+    {
+      "id": "proof-644a-cgi",
+      "roles": ["proof-cgi"],
+      "folder": "proof",
+      "src": "Construction/644A(pgshf)/render/kanal.png",
+      "maxWidth": 2400,
+      "pair": "644a",
+      "kind": "cgi",
+      "style": "classical",
+      "society": "PGSHF",
+      "caption": {
+        "en": "Plot 644-A, PGSHF — CGI",
+        "ur": "پلاٹ 644-اے، پی جی ایس ایچ ایف — سی جی آئی"
+      }
+    },
+    {
+      "id": "proof-644a-site",
+      "roles": ["proof-site"],
+      "folder": "proof",
+      "src": "Construction/644A(pgshf)/1.jpeg",
+      "maxEdge": 1800,
+      "pair": "644a",
+      "kind": "site",
+      "society": "PGSHF",
+      "caption": {
+        "en": "Plot 644-A, PGSHF — foundations",
+        "ur": "پلاٹ 644-اے، پی جی ایس ایچ ایف — بنیاد"
+      }
+    },
+    {
+      "id": "proof-586a-site",
+      "roles": ["proof-site"],
+      "folder": "proof",
+      "src": "Construction/586 A (pgshf)/586A    (1).jpg",
+      "maxEdge": 1800,
+      "pair": "586a",
+      "kind": "site",
+      "society": "PGSHF",
+      "caption": {
+        "en": "Plot 586-A, PGSHF — on site",
+        "ur": "پلاٹ 586-اے، پی جی ایس ایچ ایف — سائٹ پر"
+      }
+    },
+    {
+      "id": "proof-gulberg-green-site",
+      "roles": ["proof-site"],
+      "folder": "proof",
+      "src": "Construction/Gulberg Green/construction/1.png",
+      "maxEdge": 1200,
+      "pair": null,
+      "kind": "site",
+      "society": "Gulberg Green",
+      "caption": {
+        "en": "Gulberg Green — under construction",
+        "ur": "گلبرگ گرین — زیر تعمیر"
+      }
+    },
+    {
+      "id": "proof-dha-iii-pour",
+      "roles": ["proof-site"],
+      "folder": "proof",
+      "src": "Construction/DHA III/1.jpg",
+      "maxEdge": 1200,
+      "pair": null,
+      "kind": "site",
+      "society": "DHA III",
+      "caption": {
+        "en": "DHA III, Plot 3 Sector A — pouring",
+        "ur": "ڈی ایچ اے 3، پلاٹ 3 سیکٹر اے — کنکریٹ"
+      }
+    },
+    {
+      "id": "interior-park-view-kitchen",
+      "roles": ["interior"],
+      "folder": "interiors",
+      "src": "Interior/Park View City (Islamabad)/Kitchen/Kitchen 01.jpg",
+      "maxWidth": 2400,
+      "room": "kitchen",
+      "society": "Park View City",
+      "city": "Islamabad",
+      "caption": {
+        "en": "Kitchen, Park View City Islamabad",
+        "ur": "باورچی خانہ، پارک ویو سٹی اسلام آباد"
+      }
+    },
+    {
+      "id": "interior-park-view-drawing",
+      "roles": ["interior"],
+      "folder": "interiors",
+      "src": "Interior/Park View City (Islamabad)/Lounge and Drawing room/Drawing room 01.jpg",
+      "maxWidth": 2400,
+      "room": "lounge",
+      "society": "Park View City",
+      "city": "Islamabad",
+      "caption": {
+        "en": "Drawing room, Park View City Islamabad",
+        "ur": "ڈرائنگ روم، پارک ویو سٹی اسلام آباد"
+      }
+    },
+    {
+      "id": "interior-attock-tv-wall",
+      "roles": ["interior"],
+      "folder": "interiors",
+      "src": "Interior/Attock interior/ATTOCK INTERIOR 01.jpg",
+      "maxWidth": 2400,
+      "room": "tv-lounge",
+      "city": "Attock",
+      "caption": {
+        "en": "TV lounge, Attock",
+        "ur": "ٹی وی لاؤنج، اٹک"
+      }
+    },
+    {
+      "id": "interior-attock-drawing",
+      "roles": ["interior"],
+      "folder": "interiors",
+      "src": "Interior/Attock interior/Drawing room 01.jpg",
+      "maxWidth": 2400,
+      "room": "lounge",
+      "city": "Attock",
+      "caption": {
+        "en": "Drawing room, Attock",
+        "ur": "ڈرائنگ روم، اٹک"
+      }
+    },
+    {
+      "id": "interior-mansehra-kitchen",
+      "roles": ["interior"],
+      "folder": "interiors",
+      "src": "Interior/Mansehra/Kitchen/Kitchen 01.jpg",
+      "maxWidth": 2400,
+      "room": "kitchen",
+      "city": "Mansehra",
+      "caption": {
+        "en": "Kitchen, Mansehra",
+        "ur": "باورچی خانہ، مانسہرہ"
+      }
+    },
+    {
+      "id": "interior-mansehra-lounge",
+      "roles": ["interior"],
+      "folder": "interiors",
+      "src": "Interior/Mansehra/Drawing , Lounge & Stairwall/Lounge 02.jpg",
+      "maxWidth": 2400,
+      "room": "lounge",
+      "city": "Mansehra",
+      "caption": {
+        "en": "Lounge, Mansehra",
+        "ur": "لاؤنج، مانسہرہ"
+      }
+    },
+    {
+      "id": "interior-bath-g",
+      "roles": ["interior"],
+      "folder": "interiors",
+      "src": "Interior/bathroom/Bath G 2.jpg",
+      "maxWidth": 2400,
+      "room": "bath",
+      "caption": {
+        "en": "Bathroom",
+        "ur": "باتھ روم"
+      }
+    },
+    {
+      "id": "interior-luxury-kitchen",
+      "roles": ["interior"],
+      "folder": "interiors",
+      "src": "Interior/Kitchen/Luxury Kitchen  (1).jpg",
+      "maxWidth": 2400,
+      "room": "kitchen",
+      "caption": {
+        "en": "Kitchen",
+        "ur": "باورچی خانہ"
+      }
+    },
+    {
+      "id": "commercial-omoda-jaecoo",
+      "roles": ["commercial"],
+      "folder": "commercial",
+      "src": "Architecture/comercial design/OMODA JAECOO Showroom.png",
+      "maxWidth": 2400,
+      "caption": {
+        "en": "OMODA / JAECOO showroom",
+        "ur": "اوموڈا / جیکو شوروم"
+      }
+    },
+    {
+      "id": "commercial-peshawari-dry-fruits",
+      "roles": ["commercial"],
+      "folder": "commercial",
+      "src": "Architecture/comercial design/dry fruit shop (1).png",
+      "maxEdge": 1200,
+      "caption": {
+        "en": "Peshawari Dry Fruits shop",
+        "ur": "پشاوری ڈرائی فروٹس شاپ"
+      }
+    },
+    {
+      "id": "commercial-janhzab-office",
+      "roles": ["commercial"],
+      "folder": "commercial",
+      "src": "Architecture/comercial design/janhzab office 05.jpg",
+      "maxWidth": 2400,
+      "caption": {
+        "en": "Office interior",
+        "ur": "دفتر"
+      }
+    },
+    {
+      "id": "commercial-gulshan-e-shamal",
+      "roles": ["commercial"],
+      "folder": "commercial",
+      "src": "Architecture/comercial design/Multi Residence Gulshan E shamal Residences (1) kanal.png",
+      "maxWidth": 2400,
+      "plot": "1 kanal",
+      "caption": {
+        "en": "Gulshan-e-Shamal mixed-use, 1 kanal",
+        "ur": "گلشن شمال مخلوط استعمال، 1 کنال"
+      }
+    },
+    {
+      "id": "landscape-waseem-garden",
+      "roles": ["landscape"],
+      "folder": "landscape",
+      "src": "Landscape/Waseem Landscape (3).png",
+      "maxWidth": 2400,
+      "project": "Mr Waseem",
+      "caption": {
+        "en": "Mr Waseem — garden, pergola, fountain",
+        "ur": "مسٹر وسیم — باغ، پرگولا، فوارہ"
+      }
+    },
+    {
+      "id": "landscape-waseem-fountain",
+      "roles": ["landscape"],
+      "folder": "landscape",
+      "src": "Landscape/Waseem Landscape 9 (1).png",
+      "maxWidth": 2400,
+      "project": "Mr Waseem",
+      "caption": {
+        "en": "Mr Waseem — circular fountain",
+        "ur": "مسٹر وسیم — گول فوارہ"
+      }
+    }
+  ]
+}
