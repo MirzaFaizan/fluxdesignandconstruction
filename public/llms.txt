@@ -7,7 +7,7 @@ Pages are HTML. CGI is labelled CGI. The firm is not “CDA-approved”; named p
 ## Hubs
 
 - [Home](https://fluxdesignandconstruction.com/): Design it. Build it. In Islamabad and Rawalpindi.
-- [Houses](https://fluxdesignandconstruction.com/houses): 5 marla, 10 marla, 1 kanal — PGSHF, Park View, DHA, Gulberg Greens.
+- [Houses](https://fluxdesignandconstruction.com/houses): 5 marla, 10 marla, 1 kanal - PGSHF, Park View, DHA, Gulberg Greens.
 - [Interiors](https://fluxdesignandconstruction.com/interiors): Kitchen, TV lounge, master bath. Park View, Attock, Mansehra.
 - [Build](https://fluxdesignandconstruction.com/build): Grey structure, finishing, turnkey. CGI next to the pour.
 - [Approvals](https://fluxdesignandconstruction.com/approvals): Form A-2, CDA / RDA / DHA. Honest: no firm stamp.
@@ -20,5 +20,5 @@ Urdu: prefix `/ur` on the same paths (`/ur/houses`, `/ur/faq`, …).
 
 ## Also
 
-- [Commercial](https://fluxdesignandconstruction.com/commercial): Showrooms, shops, offices — own gallery.
+- [Commercial](https://fluxdesignandconstruction.com/commercial): Showrooms, shops, offices - own gallery.
 - [Privacy](https://fluxdesignandconstruction.com/privacy)

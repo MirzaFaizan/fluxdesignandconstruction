@@ -333,7 +333,7 @@ export async function downloadSketchPdf({
   y += locale === "ur" ? 10 : 6;
 
   if (state.rooms.length === 0) {
-    y += addText(doc, "—", xStart, y, {
+    y += addText(doc, "-", xStart, y, {
       locale,
       fontSize: 10,
       maxWidth: contentW,

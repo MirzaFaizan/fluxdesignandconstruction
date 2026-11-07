@@ -9,7 +9,7 @@ export function contactMailText(data: ContactPayload): string {
     `Phone: ${data.whatsapp}`,
     `Message: ${data.message}`,
     `Locale: ${data.locale}`,
-    `Page: ${data.page || "—"}`,
+    `Page: ${data.page || "-"}`,
     `Plot: ${data.plot}`,
     `Society: ${data.society}`,
     `Service: ${data.service}`,
