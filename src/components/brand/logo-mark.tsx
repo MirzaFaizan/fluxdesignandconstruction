@@ -1,6 +1,6 @@
 import { cn } from "@/lib/utils";
 import Image from "next/image";
-import fluxMark from "../../../web-media/logo/favicon-256.png";
+import fluxMark from "./flux-mark.png";
 
 type LogoMarkProps = {
   className?: string;
@@ -14,6 +14,7 @@ export function LogoMark({ className, title }: LogoMarkProps) {
       alt={title ?? ""}
       className={cn("size-8", className)}
       unoptimized
+      aria-hidden={title ? undefined : true}
     />
   );
 }
