@@ -5,6 +5,7 @@ import { ProcessStepper } from "@/components/home/process-stepper";
 import { SelectedWork } from "@/components/home/selected-work";
 import { ServiceChips } from "@/components/home/service-chips";
 import { StickyWhatsApp } from "@/components/home/sticky-whatsapp";
+import { LocalBusinessJsonLd } from "@/components/seo/json-ld";
 import { isLocale, routing } from "@/i18n/routing";
 import { languageAlternates } from "@/lib/metadata";
 import { getTranslations, setRequestLocale } from "next-intl/server";
@@ -37,6 +38,7 @@ export default async function HomePage({ params }: PageProps) {
 
   return (
     <>
+      <LocalBusinessJsonLd />
       <main id="content" className="pb-16 md:pb-0">
         <HomeHero locale={locale} />
         <SelectedWork locale={locale} />

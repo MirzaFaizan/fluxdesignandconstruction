@@ -6,7 +6,11 @@ import { ctaPrimary, ctaSecondary } from "@/lib/cta";
 import {
   BEHANCE_URL,
   INSTAGRAM_URL,
+  OFFICE_ADDRESS,
+  OFFICE_HOURS_PKT,
   STUDIO_EMAIL,
+  hasOfficeAddress,
+  hasOfficeHours,
   isPhoneLive,
   phoneDisplay,
   telHref,
@@ -76,6 +80,25 @@ export async function StudioView({ locale }: { locale: Locale }) {
         <h2 className="nav-link text-foreground/70">{t("citiesEyebrow")}</h2>
         <p className="mt-5 max-w-xl text-pretty text-base leading-relaxed text-foreground/85 sm:text-lg">
           {t("cities")}
+        </p>
+      </section>
+
+      <section className="border-b border-border px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
+        <h2 className="nav-link text-foreground/70">{t("officeEyebrow")}</h2>
+        {hasOfficeAddress() ? (
+          <p dir="ltr" className="mt-5 max-w-xl text-base leading-relaxed text-foreground/85 sm:text-lg">
+            {OFFICE_ADDRESS}
+          </p>
+        ) : null}
+        {hasOfficeHours() ? (
+          <p dir="ltr" className="mt-3 max-w-xl text-sm leading-relaxed text-foreground/85 sm:text-base">
+            {OFFICE_HOURS_PKT} (PKT)
+          </p>
+        ) : null}
+        <p className="mt-5 max-w-xl text-pretty text-sm leading-relaxed text-foreground/85 sm:text-base">
+          <Link href="/contact" className="hover:underline">
+            {t("mapOnContact")}
+          </Link>
         </p>
       </section>
 

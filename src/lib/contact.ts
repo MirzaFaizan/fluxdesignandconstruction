@@ -3,6 +3,7 @@ import { isWhatsAppLive, WHATSAPP_NUMBER } from "@/lib/whatsapp";
 /** Public trading name. Matches the domain until a registered legal name exists. */
 export const PUBLIC_NAME = "FluX Design and Construction";
 export const DOMAIN = "fluxdesignandconstruction.com";
+export const SITE_ORIGIN = `https://${DOMAIN}`;
 export const CITIES = "Islamabad / Rawalpindi";
 
 /**
@@ -10,22 +11,28 @@ export const CITIES = "Islamabad / Rawalpindi";
  * Empty until Faizan supplies them — never paint a blank as live.
  */
 export const CONTACT_NAME = "Ar. Adnan Ejaz and Ar. Umair Ejaz";
-export const OFFICE_ADDRESS = "";
-export const OFFICE_HOURS_PKT = "";
+/** Google Maps pin (Faizan, Nov 2026): 1 Adiyala Rd, Rawalpindi. */
+export const OFFICE_ADDRESS = "1 Adiyala Rd, Rawalpindi, Pakistan";
+/** GBP hours, every day. Display as a Latin island; pages append (PKT). */
+export const OFFICE_HOURS_PKT = "9:00–21:00 daily";
 export const STUDIO_EMAIL = "info@fluxconsultancy.com";
 export const LEGAL_COMPANY_NAME = "";
 export const INSTAGRAM_URL =
   "https://www.instagram.com/fluxdesignandconstruction/";
 export const BEHANCE_URL = "https://www.behance.net/fluXdesignstudio";
+export const MAPS_PLACE_URL =
+  "https://www.google.com/maps/place/FluX+Design+and+Construction/@33.5178127,73.0472449,17z";
 
-/** Twin-cities view. Not an office pin. */
-export const MAP_VIEW = {
-  longitude: 73.0479,
-  latitude: 33.6844,
-  zoom: 10,
+export const MAP_PIN = {
+  latitude: 33.5178127,
+  longitude: 73.0472449,
 } as const;
 
-export const MAP_PIN: { longitude: number; latitude: number } | null = null;
+export const MAP_VIEW = {
+  longitude: MAP_PIN.longitude,
+  latitude: MAP_PIN.latitude,
+  zoom: 16,
+} as const;
 
 export function hasContactName() {
   return CONTACT_NAME.length > 0;

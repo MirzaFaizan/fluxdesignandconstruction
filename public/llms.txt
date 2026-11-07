@@ -1,0 +1,24 @@
+# FluX Design and Construction
+
+Design-build studio in Islamabad and Rawalpindi: houses, interiors, commercial. English at `/`, Urdu at `/ur/`. Office: 1 Adiyala Rd, Rawalpindi, Pakistan. Hours: 9:00–21:00 daily (PKT). WhatsApp +92 339 0028224. Email info@fluxconsultancy.com.
+
+Pages are HTML. CGI is labelled CGI. The firm is not “CDA-approved”; named people stamp Form A-2.
+
+## Hubs
+
+- [Home](https://fluxdesignandconstruction.com/): Design it. Build it. In Islamabad and Rawalpindi.
+- [Houses](https://fluxdesignandconstruction.com/houses): 5 marla, 10 marla, 1 kanal — PGSHF, Park View, DHA, Gulberg Greens.
+- [Interiors](https://fluxdesignandconstruction.com/interiors): Kitchen, TV lounge, master bath. Park View, Attock, Mansehra.
+- [Build](https://fluxdesignandconstruction.com/build): Grey structure, finishing, turnkey. CGI next to the pour.
+- [Approvals](https://fluxdesignandconstruction.com/approvals): Form A-2, CDA / RDA / DHA. Honest: no firm stamp.
+- [Work](https://fluxdesignandconstruction.com/work): Named plots. Society + size on every card.
+- [Studio](https://fluxdesignandconstruction.com/studio): Ar. Adnan Ejaz, Ar. Umair Ejaz. No licence numbers until they are real.
+- [FAQ](https://fluxdesignandconstruction.com/faq): Plot size, Form A-2, CGI vs site, overseas family.
+- [Contact](https://fluxdesignandconstruction.com/contact): NAP, hours PKT, OSM pin, WhatsApp.
+
+Urdu: prefix `/ur` on the same paths (`/ur/houses`, `/ur/faq`, …).
+
+## Also
+
+- [Commercial](https://fluxdesignandconstruction.com/commercial): Showrooms, shops, offices — own gallery.
+- [Privacy](https://fluxdesignandconstruction.com/privacy)
