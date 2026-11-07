@@ -14,7 +14,8 @@ type AppPath =
   | "/studio"
   | "/faq"
   | "/contact"
-  | "/privacy";
+  | "/privacy"
+  | "/sketch";
 
 export function languageAlternates(
   href: AppPath,

@@ -102,6 +102,15 @@ export default async function PrivacyPage({ params }: PageProps) {
 
         <section className="mt-16 max-w-2xl border-t border-border pt-16">
           <h2 className="font-display text-3xl text-pretty sm:text-4xl">
+            {t("sketchTitle")}
+          </h2>
+          <p className="mt-5 text-pretty text-base leading-relaxed text-foreground/85">
+            {t("sketchBody")}
+          </p>
+        </section>
+
+        <section className="mt-16 max-w-2xl border-t border-border pt-16">
+          <h2 className="font-display text-3xl text-pretty sm:text-4xl">
             {t("contactTitle")}
           </h2>
           {hasEmail() ? (

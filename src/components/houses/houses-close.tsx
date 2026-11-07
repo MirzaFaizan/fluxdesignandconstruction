@@ -26,6 +26,9 @@ export async function HousesClose() {
         >
           {t("freeLookCta")}
         </WhatsAppCta>
+        <Link href="/sketch" className={ctaSecondary}>
+          {t("sketchCta")}
+        </Link>
         <Link href="/work" className={ctaSecondary}>
           {t("viewWork")}
         </Link>
