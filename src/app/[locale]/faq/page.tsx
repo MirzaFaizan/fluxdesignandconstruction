@@ -40,7 +40,7 @@ export default async function FaqPage({ params }: PageProps) {
 
   const labelFor = (href: (typeof faqItems)[number]["links"][number]) => {
     const key = faqLinkLabel[href];
-    if (key === "approvals") return footer("approvals");
+    if (key === "approvals" || key === "sketch") return footer(key);
     return nav(key);
   };
 

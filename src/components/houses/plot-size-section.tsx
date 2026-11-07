@@ -4,7 +4,6 @@ import { Link } from "@/i18n/navigation";
 import type { Locale } from "@/i18n/routing";
 import { ctaChip } from "@/lib/cta";
 import type { HouseStill } from "@/lib/houses";
-import { cn } from "@/lib/utils";
 import type { WhatsAppIntent } from "@/lib/whatsapp";
 
 type PlotSizeSectionProps = {
@@ -15,6 +14,7 @@ type PlotSizeSectionProps = {
   cta?: string;
   intent?: WhatsAppIntent;
   ariaLabel?: string;
+  sketchCta?: string;
 };
 
 export function PlotSizeSection({
@@ -25,6 +25,7 @@ export function PlotSizeSection({
   cta,
   intent,
   ariaLabel,
+  sketchCta,
 }: PlotSizeSectionProps) {
   return (
     <section className="border-b border-border px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
@@ -47,14 +48,23 @@ export function PlotSizeSection({
           ))}
         </div>
       ) : null}
-      {cta && intent ? (
-        <WhatsAppCta
-          intent={intent}
-          className={cn(ctaChip, "mt-10")}
-          ariaLabel={ariaLabel}
-        >
-          {cta}
-        </WhatsAppCta>
+      {(cta && intent) || sketchCta ? (
+        <div className="mt-10 flex flex-wrap items-center gap-4">
+          {cta && intent ? (
+            <WhatsAppCta
+              intent={intent}
+              className={ctaChip}
+              ariaLabel={ariaLabel}
+            >
+              {cta}
+            </WhatsAppCta>
+          ) : null}
+          {sketchCta ? (
+            <Link href="/sketch" className={ctaChip}>
+              {sketchCta}
+            </Link>
+          ) : null}
+        </div>
       ) : null}
     </section>
   );

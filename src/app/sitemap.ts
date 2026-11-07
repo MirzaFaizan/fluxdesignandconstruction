@@ -8,6 +8,7 @@ const STATIC_PATHS = [
   "/",
   "/work",
   "/houses",
+  "/sketch",
   "/interiors",
   "/commercial",
   "/build",

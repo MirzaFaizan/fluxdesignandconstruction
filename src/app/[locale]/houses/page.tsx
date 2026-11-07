@@ -49,6 +49,7 @@ export default async function HousesPage({ params }: PageProps) {
           cta={t("plot5Cta")}
           intent="house5Marla"
           ariaLabel={nav("whatsappAria")}
+          sketchCta={t("sketchCta")}
         />
         <PlotSizeSection
           locale={locale}
@@ -58,6 +59,7 @@ export default async function HousesPage({ params }: PageProps) {
           cta={t("plot10Cta")}
           intent="house"
           ariaLabel={nav("whatsappAria")}
+          sketchCta={t("sketchCta")}
         />
         <PlotSizeSection
           locale={locale}
@@ -67,6 +69,7 @@ export default async function HousesPage({ params }: PageProps) {
           cta={t("plot1Cta")}
           intent="house1Kanal"
           ariaLabel={nav("whatsappAria")}
+          sketchCta={t("sketchCta")}
         />
         <PlotSizeSection
           locale={locale}
