@@ -1,5 +1,5 @@
 import { Link } from "@/i18n/navigation";
-import { getTranslations } from "next-intl/server";
+import { getLocale, getTranslations } from "next-intl/server";
 import Image from "next/image";
 
 const HERO = {
@@ -9,7 +9,22 @@ const HERO = {
   height: 1024,
 } as const;
 
+function UrduHeading({ text }: { text: string }) {
+  const lines = text.split(/(?<=۔)\s+/).filter(Boolean);
+
+  return (
+    <h1 className="coming-soon-h1 font-display mt-4 max-w-4xl text-4xl leading-[2.4] sm:text-5xl sm:leading-[2.4] lg:text-[3.5rem] lg:leading-[2.4]">
+      {lines.map((line) => (
+        <span key={line} className="block">
+          {line}
+        </span>
+      ))}
+    </h1>
+  );
+}
+
 export async function ComingSoonHero() {
+  const locale = await getLocale();
   const t = await getTranslations("ComingSoon");
 
   return (
@@ -40,9 +55,13 @@ export async function ComingSoonHero() {
       <div className="relative z-10 flex min-h-[calc(100dvh-3.5rem)] items-end sm:min-h-[calc(100dvh-4rem)]">
         <div className="coming-soon-copy w-full px-4 pb-12 sm:px-6 sm:pb-16 lg:px-8">
           <p className="nav-link text-foreground">{t("kicker")}</p>
-          <h1 className="font-display mt-4 max-w-4xl text-4xl sm:text-5xl lg:text-[3.5rem]">
-            {t("h1")}
-          </h1>
+          {locale === "ur" ? (
+            <UrduHeading text={t("h1")} />
+          ) : (
+            <h1 className="font-display mt-4 max-w-4xl text-4xl sm:text-5xl lg:text-[3.5rem]">
+              {t("h1")}
+            </h1>
+          )}
           <p className="mt-6 max-w-2xl text-base leading-relaxed text-foreground/90 sm:text-lg">
             {t("sub")}
           </p>

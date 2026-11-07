@@ -224,6 +224,13 @@
   }
 }
 
+html[lang="ur"] .coming-soon-h1 {
+  line-height: 2.4;
+  text-wrap: wrap;
+  overflow: visible;
+  padding-block: 0.2em 0.45em;
+}
+
 @keyframes coming-soon-rise {
   from {
     transform: translateY(0.4rem);
