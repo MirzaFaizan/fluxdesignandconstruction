@@ -224,7 +224,8 @@
   }
 }
 
-html[lang="ur"] .coming-soon-h1 {
+html[lang="ur"] .coming-soon-h1,
+html[lang="ur"] .interiors-h1 {
   line-height: 2.4;
   text-wrap: wrap;
   overflow: visible;
@@ -266,6 +267,36 @@ html[lang="ur"] .coming-soon-h1 {
 
 .coming-soon-copy > *:nth-child(6) {
   animation-delay: 460ms;
+}
+
+.office-map {
+  position: relative;
+  background: #2b3642;
+}
+
+.office-map .maplibregl-canvas {
+  filter: grayscale(1) invert(1) brightness(0.82) contrast(1.08);
+}
+
+.office-map .maplibregl-ctrl-attrib {
+  background: color-mix(in srgb, #2b3642 90%, transparent);
+  color: #ffffff;
+}
+
+.office-map .maplibregl-ctrl-attrib a {
+  color: #ffffff;
+}
+
+.office-map .maplibregl-ctrl-group {
+  border: 1px solid #5d6d80;
+  border-radius: 0;
+  background: #2b3642;
+  box-shadow: none;
+}
+
+.office-map .maplibregl-ctrl-group button {
+  background: #2b3642;
+  filter: invert(1);
 }
 
 @media (prefers-reduced-motion: reduce) {
