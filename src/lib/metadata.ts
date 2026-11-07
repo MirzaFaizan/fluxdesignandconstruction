@@ -13,7 +13,8 @@ type AppPath =
   | "/approvals"
   | "/studio"
   | "/contact"
-  | "/privacy";
+  | "/privacy"
+  | "/sketch";
 
 export function languageAlternates(
   href: AppPath,
