@@ -166,6 +166,7 @@
 
   html[lang="ur"] body {
     font-family: var(--font-naskh);
+    line-height: 2.2;
   }
 
   html[lang="ur"] h1,
@@ -173,7 +174,7 @@
   html[lang="ur"] h3:not(.nav-link),
   html[lang="ur"] .font-display {
     font-family: var(--font-display);
-    line-height: 2.2;
+    line-height: 2.4;
     font-weight: 500;
     overflow-wrap: anywhere;
   }
@@ -185,7 +186,7 @@
   }
 
   html[lang="ur"] figcaption {
-    line-height: 2;
+    line-height: 2.2;
   }
 
   html[lang="en"] h1 {
@@ -224,11 +225,25 @@
   }
 }
 
+html[lang="ur"] h1,
+html[lang="ur"] h2:not(.nav-link),
+html[lang="ur"] h3:not(.nav-link),
+html[lang="ur"] .font-display,
 html[lang="ur"] .coming-soon-h1,
 html[lang="ur"] .interiors-h1 {
   line-height: 2.4;
-  text-wrap: wrap;
   overflow: visible;
+}
+
+html[lang="ur"] body,
+html[lang="ur"] p,
+html[lang="ur"] li,
+html[lang="ur"] figcaption {
+  line-height: 2.2;
+}
+
+html[lang="ur"] .coming-soon-h1 {
+  text-wrap: wrap;
   padding-block: 0.2em 0.45em;
 }
 
