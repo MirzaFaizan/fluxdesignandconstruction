@@ -140,8 +140,23 @@
   "Studio": {
     "kicker": "Practice",
     "title": "Studio",
-    "lede": "One studio, from drawing to site, in the twin cities — and on WhatsApp if you are abroad.",
-    "photoPlane": "Studio notes will sit here."
+    "metaTitle": "Studio | FluX Design and Construction",
+    "metaDescription": "Named architect and engineer at FluX. Architecture, interiors, and construction in Islamabad and Rawalpindi, with work in Mansehra and Attock. WhatsApp us.",
+    "h1Line1": "A named architect.",
+    "h1Line2": "A named engineer.",
+    "lede": "Architecture, interiors, and construction in one contract. Islamabad and Rawalpindi — and on WhatsApp if you are abroad.",
+    "peopleEyebrow": "Who stamps Form A-2",
+    "architectRole": "Architect",
+    "engineerRole": "Engineer",
+    "pcatpVerify": "PCATP register",
+    "pecVerify": "PEC verification",
+    "licenseNote": "You bring the plot papers. Named licensed people stamp Form A-2. We do not claim the firm is CDA-approved.",
+    "citiesEyebrow": "Cities",
+    "cities": "Islamabad and Rawalpindi. Work already on the ground in Mansehra and Attock.",
+    "close": "Send the plot size and society. We reply on WhatsApp within one working day (PKT).",
+    "freeLook": "Free first look at the plot or drawings — not a discount.",
+    "freeLookCta": "Send the plot for a first look",
+    "viewWork": "View work"
   },
   "Contact": {
     "kicker": "Enquiry",
