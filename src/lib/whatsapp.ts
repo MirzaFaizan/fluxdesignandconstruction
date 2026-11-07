@@ -18,7 +18,8 @@ export type WhatsAppIntent =
   | "turnkey"
   | "commercial"
   | "abroad"
-  | "freeLook";
+  | "freeLook"
+  | "approvals";
 
 export function isWhatsAppLive() {
   return WHATSAPP_NUMBER.length > 0;
@@ -52,6 +53,8 @@ export const WHATSAPP_PREFILLS: Record<
       "Salaam, I live abroad and own a plot in Pakistan. City I am writing from: (e.g. Dubai). Plot size: (e.g. 10 marla). Society: . I would like an evening call.",
     freeLook:
       "Salaam, I would like a free first look at a plot / drawings. Plot size: (e.g. 10 marla). Society: . I am writing from (city).",
+    approvals:
+      "Salaam, I need to understand approvals for my plot. Plot size: (e.g. 10 marla). Society: . Authority (CDA / RDA / DHA / other): . I am writing from (city).",
   },
   ur: {
     generic:
@@ -77,6 +80,8 @@ export const WHATSAPP_PREFILLS: Record<
       "السلام علیکم، ہم بیرون ملک رہتے ہیں اور پاکستان میں پلاٹ ہے۔ میں (شہر، جیسے دبئی) سے لکھ رہا/رہی ہوں۔ پلاٹ کا سائز: (جیسے 10 مرلہ)۔ سوسائٹی: ۔ شام کی کال چاہیے۔",
     freeLook:
       "السلام علیکم، پلاٹ / نقشوں پر مفت پہلی نظر درکار ہے۔ پلاٹ کا سائز: (جیسے 10 مرلہ)۔ سوسائٹی: ۔ میں (شہر) سے لکھ رہا/رہی ہوں۔",
+    approvals:
+      "السلام علیکم، اپنے پلاٹ کی منظوریوں کے بارے میں سمجھنی ہے۔ پلاٹ کا سائز: (جیسے 10 مرلہ)۔ سوسائٹی: ۔ اتھارٹی (CDA / RDA / DHA / دیگر): ۔ میں (شہر) سے لکھ رہا/رہی ہوں۔",
   },
 };
 
@@ -84,7 +89,17 @@ export function whatsappUrl(
   locale: Locale,
   intent: WhatsAppIntent = "generic"
 ): string | null {
+  return whatsappUrlWithText(WHATSAPP_PREFILLS[locale][intent]);
+}
+
+export function whatsappUrlWithText(text: string): string | null {
   if (!isWhatsAppLive()) return null;
-  const text = WHATSAPP_PREFILLS[locale][intent];
   return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(text)}`;
+}
+
+export function projectWhatsAppPrefill(locale: Locale, like: string) {
+  if (locale === "ur") {
+    return `السلام علیکم، ${like} جیسے منصوبے کے بارے میں بات کرنی ہے۔ میرا پلاٹ: ۔ سوسائٹی: ۔ میں (شہر) سے لکھ رہا/رہی ہوں۔`;
+  }
+  return `Salaam, I am interested in a project like ${like}. My plot size: . Society: . I am writing from (city).`;
 }
