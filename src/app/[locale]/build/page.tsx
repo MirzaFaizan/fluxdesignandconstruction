@@ -84,7 +84,7 @@ export default async function BuildPage({ params }: PageProps) {
                 <p dir="ltr" className="nav-link mb-4 text-foreground/70">
                   {pair.caption[locale]}
                 </p>
-                <div className="relative aspect-[16/10] bg-background">
+                <div className="relative mx-auto aspect-[16/10] w-full max-h-[calc(100svh-11rem)] max-w-[min(100%,calc((100svh-11rem)*1.6))] bg-background">
                   <CgiSiteSlider
                     cgi={pair.cgi}
                     site={pair.site}
