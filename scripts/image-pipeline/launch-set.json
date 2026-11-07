@@ -426,6 +426,17 @@
       }
     },
     {
+      "id": "commercial-college-proposal",
+      "roles": ["commercial"],
+      "folder": "commercial",
+      "src": "Architecture/comercial design/COLLEGE Proposal 2ND RENDER 03 .png",
+      "maxWidth": 2400,
+      "caption": {
+        "en": "College proposal — CGI, not a completed campus",
+        "ur": "کالج کی تجویز — CGI، بن چکا کیمپس نہیں"
+      }
+    },
+    {
       "id": "landscape-waseem-garden",
       "roles": ["landscape"],
       "folder": "landscape",

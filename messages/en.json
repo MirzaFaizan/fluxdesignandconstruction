@@ -120,10 +120,23 @@
     "photoPlane": "Interior stills will sit here."
   },
   "Commercial": {
+    "metaTitle": "Commercial architecture and interiors | FluX Islamabad",
+    "metaDescription": "Showrooms, shops, offices, mixed-use, and a college proposal. A separate gallery from the houses.",
     "kicker": "Other work",
     "title": "Commercial",
-    "lede": "Shops, offices, mixed-use, and showrooms — kept apart from the houses.",
-    "photoPlane": "Commercial stills will sit here."
+    "h1": "Commercial. Its own gallery.",
+    "h1Line1": "Commercial.",
+    "h1Line2": "Its own gallery.",
+    "lede": "Showroom, shop, office, mixed-use. Faster than a house; the 3D has to sell, and the site must not cheapen the brand. This is a second line of work, not a footnote under villas.",
+    "enquire": "Ask about a commercial project",
+    "viewWork": "View work",
+    "galleryEyebrow": "Commercial work",
+    "galleryIntro": "Showroom, shop, office, mixed-use, and one college proposal. Kept apart from the houses. CGI is labelled CGI.",
+    "close": "Clinic, boutique office, ground-floor shop — send the plot or the shell.",
+    "reply": "We reply on WhatsApp within one working day (PKT). Overseas clients: say your city and we will call at a time that works.",
+    "freeLook": "Free first look at the plot or drawings — not a discount.",
+    "freeLookCta": "Send the plot for a first look",
+    "stickyLabel": "WhatsApp us"
   },
   "Build": {
     "kicker": "Construction",
