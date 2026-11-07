@@ -1,35 +1,27 @@
+import { CallCta } from "@/components/chrome/call-cta";
 import { WhatsAppCta } from "@/components/chrome/whatsapp-cta";
 import { Still } from "@/components/media/still";
 import { Link } from "@/i18n/navigation";
 import { ctaPrimary, ctaSecondary } from "@/lib/cta";
 import {
-  studioArchitect,
-  studioEngineer,
-  studioStill,
-} from "@/lib/studio";
+  BEHANCE_URL,
+  INSTAGRAM_URL,
+  STUDIO_EMAIL,
+  isPhoneLive,
+  phoneDisplay,
+  telHref,
+} from "@/lib/contact";
+import { studioPeople, studioStill } from "@/lib/studio";
 import type { Locale } from "@/i18n/routing";
 import { getTranslations } from "next-intl/server";
-
-const PEOPLE = [
-  {
-    key: "architect",
-    index: "01",
-    role: "architectRole",
-    person: studioArchitect,
-    verify: "pcatpVerify",
-  },
-  {
-    key: "engineer",
-    index: "02",
-    role: "engineerRole",
-    person: studioEngineer,
-    verify: "pecVerify",
-  },
-] as const;
 
 export async function StudioView({ locale }: { locale: Locale }) {
   const t = await getTranslations("Studio");
   const nav = await getTranslations("Nav");
+  const contact = await getTranslations("Contact");
+  const footer = await getTranslations("Footer");
+  const display = phoneDisplay();
+  const callHref = telHref();
 
   return (
     <>
@@ -55,36 +47,28 @@ export async function StudioView({ locale }: { locale: Locale }) {
       <section className="border-b border-border px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
         <h2 className="nav-link text-foreground/70">{t("peopleEyebrow")}</h2>
         <ul className="mt-10 grid grid-cols-1 gap-10 md:grid-cols-2 md:gap-8">
-          {PEOPLE.map((item) => (
+          {studioPeople.map((person) => (
             <li
-              key={item.key}
+              key={person.key}
               className="reveal border-s border-border ps-5"
             >
               <p dir="ltr" className="nav-link text-foreground/70">
-                {item.index}
+                {person.index}
               </p>
-              <h3 className="font-display mt-4 text-2xl sm:text-3xl">
-                {t(item.role)}
+              <h3 dir="ltr" className="font-display mt-4 text-2xl sm:text-3xl">
+                {person.prefix} {person.name}
               </h3>
-              <p dir="ltr" className="mt-4 text-base text-foreground sm:text-lg">
-                {item.person.prefix} {item.person.name}
+              <p className="mt-3 text-pretty text-sm leading-relaxed text-foreground/85 sm:text-base">
+                {t(person.role)}
               </p>
-              <p dir="ltr" className="mt-1 text-sm text-foreground/85 sm:text-base">
-                {item.person.register} {item.person.number}
-              </p>
-              <a
-                href={item.person.verifyHref}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="mt-4 inline-flex min-h-11 items-center text-sm text-foreground/80 underline-offset-4 transition-colors duration-150 hover:text-foreground hover:underline"
-              >
-                {t(item.verify)}
-              </a>
             </li>
           ))}
         </ul>
         <p className="mt-10 max-w-xl text-pretty text-sm leading-relaxed text-foreground/85 sm:text-base">
-          {t("licenseNote")}
+          {t("graduates")}
+        </p>
+        <p className="mt-3 max-w-xl text-pretty text-sm leading-relaxed text-foreground/85 sm:text-base">
+          {t("energy")}
         </p>
       </section>
 
@@ -93,6 +77,49 @@ export async function StudioView({ locale }: { locale: Locale }) {
         <p className="mt-5 max-w-xl text-pretty text-base leading-relaxed text-foreground/85 sm:text-lg">
           {t("cities")}
         </p>
+      </section>
+
+      <section className="border-b border-border px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
+        <h2 className="nav-link text-foreground/70">{t("reachEyebrow")}</h2>
+        <ul className="mt-6 flex max-w-xl flex-col gap-3 text-sm leading-relaxed text-foreground/85 sm:text-base">
+          {isPhoneLive() && display && callHref ? (
+            <li>
+              <a href={callHref} dir="ltr" className="hover:underline">
+                {display}
+              </a>
+            </li>
+          ) : null}
+          <li>
+            <a
+              dir="ltr"
+              href={`mailto:${STUDIO_EMAIL}`}
+              className="hover:underline"
+            >
+              {STUDIO_EMAIL}
+            </a>
+          </li>
+          <li>
+            <a
+              href={INSTAGRAM_URL}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:underline"
+            >
+              {footer("instagram")}
+            </a>
+          </li>
+          <li>
+            <a
+              href={BEHANCE_URL}
+              target="_blank"
+              rel="noopener noreferrer"
+              dir="ltr"
+              className="hover:underline"
+            >
+              {footer("behance")}
+            </a>
+          </li>
+        </ul>
       </section>
 
       <section className="px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
@@ -110,6 +137,9 @@ export async function StudioView({ locale }: { locale: Locale }) {
           >
             {t("freeLookCta")}
           </WhatsAppCta>
+          <CallCta className={ctaPrimary} ariaLabel={contact("callAria")}>
+            {contact("call")}
+          </CallCta>
           <Link href="/work" className={ctaSecondary}>
             {t("viewWork")}
           </Link>

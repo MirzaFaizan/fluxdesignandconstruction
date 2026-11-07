@@ -9,11 +9,14 @@ export const CITIES = "Islamabad / Rawalpindi";
  * Named person, office, hours, email, legal name, map pin.
  * Empty until Faizan supplies them — never paint a blank as live.
  */
-export const CONTACT_NAME = "";
+export const CONTACT_NAME = "Ar. Adnan Ejaz and Ar. Umair Ejaz";
 export const OFFICE_ADDRESS = "";
 export const OFFICE_HOURS_PKT = "";
-export const STUDIO_EMAIL = "";
+export const STUDIO_EMAIL = "info@fluxconsultancy.com";
 export const LEGAL_COMPANY_NAME = "";
+export const INSTAGRAM_URL =
+  "https://www.instagram.com/fluxdesignandconstruction/";
+export const BEHANCE_URL = "https://www.behance.net/fluXdesignstudio";
 
 /** Twin-cities view. Not an office pin. */
 export const MAP_VIEW = {
@@ -62,7 +65,7 @@ export function phoneDisplay(): string {
   if (!isWhatsAppLive()) return "";
   const n = WHATSAPP_NUMBER;
   if (n.startsWith("92") && n.length >= 12) {
-    return `+${n.slice(0, 2)} ${n.slice(2, 5)} ${n.slice(5, 8)} ${n.slice(8)}`;
+    return `+${n.slice(0, 2)} ${n.slice(2, 5)} ${n.slice(5)}`;
   }
   return `+${n}`;
 }

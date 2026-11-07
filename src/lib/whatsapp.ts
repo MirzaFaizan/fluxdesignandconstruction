@@ -2,9 +2,9 @@ import type { Locale } from "@/i18n/routing";
 
 /**
  * Same number as voice, `wa.me` form without `+` or a leading `0`.
- * Empty until the real number exists — never paint a fake live chat.
+ * Instagram bio: +92-3390028224
  */
-export const WHATSAPP_NUMBER = "";
+export const WHATSAPP_NUMBER = "923390028224";
 
 export type WhatsAppIntent =
   | "generic"
