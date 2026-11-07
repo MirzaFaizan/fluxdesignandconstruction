@@ -9,6 +9,10 @@ export const WHATSAPP_NUMBER = "";
 export type WhatsAppIntent =
   | "generic"
   | "house"
+  | "housesPage"
+  | "house5Marla"
+  | "house1Kanal"
+  | "houseOther"
   | "interior"
   | "grey"
   | "turnkey"
@@ -29,6 +33,14 @@ export const WHATSAPP_PREFILLS: Record<
       "Salaam, I am interested in a project with FluX. Plot size: (e.g. 10 marla). Society: (e.g. Gulberg Greens). I am writing from (city).",
     house:
       "Salaam, I am interested in a 10 marla house (architecture + build) in Gulberg Greens. I am writing from (city).",
+    housesPage:
+      "Salaam, I am interested in a house (architecture + build). Plot size: (e.g. 10 marla). Society: (e.g. Gulberg Greens). I am writing from (city).",
+    house5Marla:
+      "Salaam, I am interested in a 5 marla house (architecture + build). Society: (e.g. PGSHF). I am writing from (city).",
+    house1Kanal:
+      "Salaam, I am interested in a 1 kanal house (architecture + build). Society: (e.g. DHA). I am writing from (city).",
+    houseOther:
+      "Salaam, I am interested in a house (architecture + build). Plot size: (other). Society: . Authority (CDA / RDA / DHA / other): . I am writing from (city).",
     interior:
       "Salaam, I am interested in interior design (kitchen / TV lounge / bath). Society or city: (e.g. Park View). I am writing from (city).",
     grey: "Salaam, I am interested in grey structure. Plot size: (e.g. 10 marla). Society: (e.g. DHA III). I am writing from (city).",
@@ -46,6 +58,14 @@ export const WHATSAPP_PREFILLS: Record<
       "السلام علیکم، FluX کے ساتھ ایک منصوبے کے بارے میں بات کرنی ہے۔ پلاٹ کا سائز: (جیسے 10 مرلہ)۔ سوسائٹی: (جیسے گلبرگ گرینز)۔ میں (شہر) سے لکھ رہا/رہی ہوں۔",
     house:
       "السلام علیکم، گلبرگ گرینز میں 10 مرلہ گھر (ڈیزائن اور تعمیر) کے بارے میں بات کرنی ہے۔ میں (شہر) سے لکھ رہا/رہی ہوں۔",
+    housesPage:
+      "السلام علیکم، گھر (ڈیزائن اور تعمیر) کے بارے میں بات کرنی ہے۔ پلاٹ کا سائز: (جیسے 10 مرلہ)۔ سوسائٹی: (جیسے گلبرگ گرینز)۔ میں (شہر) سے لکھ رہا/رہی ہوں۔",
+    house5Marla:
+      "السلام علیکم، 5 مرلہ گھر (ڈیزائن اور تعمیر) کے بارے میں بات کرنی ہے۔ سوسائٹی: (جیسے PGSHF)۔ میں (شہر) سے لکھ رہا/رہی ہوں۔",
+    house1Kanal:
+      "السلام علیکم، 1 کنال گھر (ڈیزائن اور تعمیر) کے بارے میں بات کرنی ہے۔ سوسائٹی: (جیسے DHA)۔ میں (شہر) سے لکھ رہا/رہی ہوں۔",
+    houseOther:
+      "السلام علیکم، گھر (ڈیزائن اور تعمیر) کے بارے میں بات کرنی ہے۔ پلاٹ کا سائز: (دیگر)۔ سوسائٹی: ۔ اتھارٹی (CDA / RDA / DHA / دیگر): ۔ میں (شہر) سے لکھ رہا/رہی ہوں۔",
     interior:
       "السلام علیکم، انٹیریئر ڈیزائن (کچن / ٹی وی لاؤنج / باتھ) کے بارے میں بات کرنی ہے۔ سوسائٹی یا شہر: (جیسے پارک ویو)۔ میں (شہر) سے لکھ رہا/رہی ہوں۔",
     grey: "السلام علیکم، گرے سٹرکچر کے بارے میں بات کرنی ہے۔ پلاٹ کا سائز: (جیسے 10 مرلہ)۔ سوسائٹی: (جیسے DHA III)۔ میں (شہر) سے لکھ رہا/رہی ہوں۔",
