@@ -1,6 +1,7 @@
 import { SiteFooter } from "@/components/chrome/site-footer";
 import { SiteHeader } from "@/components/chrome/site-header";
 import { AppDirectionProvider } from "@/components/providers/direction-provider";
+import { CloudflareAnalytics } from "@/components/seo/cloudflare-analytics";
 import { htmlDir, isLocale, routing } from "@/i18n/routing";
 import { ibmPlexSans, notoNaskh, notoNastaliq } from "@/lib/fonts";
 import { languageAlternates } from "@/lib/metadata";
@@ -78,6 +79,7 @@ export default async function LocaleLayout({
             <SiteFooter />
           </AppDirectionProvider>
         </NextIntlClientProvider>
+        <CloudflareAnalytics />
       </body>
     </html>
   );
