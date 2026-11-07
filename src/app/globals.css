@@ -153,7 +153,15 @@
   h3 {
     font-family: var(--font-heading);
     font-weight: 500;
-    text-wrap: balance;
+    text-wrap: pretty;
+  }
+
+  .nav-link {
+    font-family: var(--font-sans);
+  }
+
+  html[lang="ur"] .nav-link {
+    font-family: var(--font-naskh);
   }
 
   html[lang="ur"] body {
@@ -161,17 +169,28 @@
   }
 
   html[lang="ur"] h1,
-  html[lang="ur"] h2,
-  html[lang="ur"] h3,
+  html[lang="ur"] h2:not(.nav-link),
+  html[lang="ur"] h3:not(.nav-link),
   html[lang="ur"] .font-display {
     font-family: var(--font-display);
     line-height: 2.2;
     font-weight: 500;
+    overflow-wrap: anywhere;
+  }
+
+  @media (max-width: 767px) {
+    html[lang="ur"] h1 {
+      font-size: 1.5rem;
+    }
+  }
+
+  html[lang="ur"] figcaption {
+    line-height: 2;
   }
 
   html[lang="en"] h1 {
     letter-spacing: -0.03em;
-    line-height: 1.08;
+    line-height: 1.12;
   }
 
   html[lang="en"] .nav-link {
@@ -183,6 +202,25 @@
   html[lang="ur"] .hero-caption {
     font-family: var(--font-naskh);
     line-height: 2.2;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .reveal {
+    animation: home-reveal 0.7s cubic-bezier(0.2, 0, 0, 1) both;
+    animation-timeline: view();
+    animation-range: entry 0% entry 35%;
+  }
+}
+
+@keyframes home-reveal {
+  from {
+    opacity: 0.35;
+    transform: translateY(0.75rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
   }
 }
 

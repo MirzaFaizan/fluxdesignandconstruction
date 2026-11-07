@@ -63,6 +63,7 @@ export function MobileNav() {
             render={
               <Link
                 href="/contact"
+                aria-label={t("whatsappAria")}
                 className="nav-link text-foreground/80 hover:text-foreground"
               />
             }

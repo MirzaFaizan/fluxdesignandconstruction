@@ -11,7 +11,7 @@ export function LanguageSwitcher({ className }: { className?: string }) {
 
   return (
     <nav
-      aria-label={t("language")}
+      aria-label={t("languageAria")}
       className={cn("flex items-baseline gap-2 text-[0.6875rem] tracking-[0.14em]", className)}
     >
       <Link

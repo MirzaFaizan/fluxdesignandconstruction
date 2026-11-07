@@ -1,9 +1,9 @@
 {
   "Meta": {
     "siteName": "FluX Design and Construction",
-    "titleDefault": "FluX Design and Construction",
+    "titleDefault": "FluX Design and Construction | Architects and builders, Islamabad and Rawalpindi",
     "titleTemplate": "%s · FluX",
-    "description": "Architecture, interiors, and construction in Islamabad and Rawalpindi — drawings that can be approved, and a site that matches them."
+    "description": "House design, interiors, and construction in one studio. 5 marla, 10 marla, and 1 kanal plots in Islamabad, Rawalpindi, Gulberg Greens, DHA, and nearby cities. WhatsApp us."
   },
   "Nav": {
     "primary": "Primary",
@@ -17,23 +17,72 @@
     "studio": "Studio",
     "contact": "Contact",
     "whatsapp": "WhatsApp",
-    "language": "Language"
+    "whatsappAria": "Message FluX on WhatsApp",
+    "language": "Language",
+    "languageAria": "Switch language"
   },
   "Footer": {
     "studio": "FluX Design and Construction",
     "cities": "Islamabad / Rawalpindi",
-    "tagline": "From drawing to site.",
+    "tagline": "Architecture, interiors, and construction. Islamabad and Rawalpindi, and on WhatsApp if you are abroad.",
+    "legal": "FluX Design and Construction. Islamabad / Rawalpindi.",
     "commercial": "Commercial",
     "approvals": "Approvals",
     "privacy": "Privacy",
     "secondary": "Further"
   },
   "Home": {
-    "kicker": "Islamabad · Rawalpindi",
+    "metaTitle": "FluX Design and Construction | Architects and builders, Islamabad and Rawalpindi",
+    "metaDescription": "House design, interiors, and construction in one studio. 5 marla, 10 marla, and 1 kanal plots in Islamabad, Rawalpindi, Gulberg Greens, DHA, and nearby cities. WhatsApp us.",
     "h1": "Design it. Build it. In Islamabad and Rawalpindi.",
+    "h1Line1": "Design it. Build it.",
+    "h1Line2": "In Islamabad and Rawalpindi.",
     "sub": "Architecture, interiors, and construction in one contract — drawings that can be approved, and a site that matches them.",
     "viewWork": "View work",
-    "photoPlane": "Project photography will sit here."
+    "workEyebrow": "Selected work",
+    "workIntro": "Houses, rooms, and a few commercial jobs. Each card names the society and the plot size.",
+    "allWork": "All work",
+    "proofEyebrow": "From design to site",
+    "proofIntro": "The render next to the pour. We label CGI as CGI. These pairs are from PGSHF, DHA III, and Gulberg Green — sites we actually built.",
+    "seeConstruction": "See construction",
+    "labelDesign": "Design",
+    "labelSite": "Site",
+    "cgiNote": "CGI — a render, not a photograph",
+    "siteNote": "Site photograph",
+    "processEyebrow": "How we work",
+    "process1Title": "Design",
+    "process1Line": "Plans, elevations, and 3D the family can argue about on WhatsApp.",
+    "process2Title": "Approvals",
+    "process2Line": "Named licensed people stamp Form A-2. You bring the plot papers. The firm is not “CDA-approved.”",
+    "process3Title": "Construction",
+    "process3Line": "Grey structure, finishing, or turnkey. Weekly photos from site. CGI labelled as CGI.",
+    "process4Title": "Handover",
+    "process4Line": "A site that matches the drawings.",
+    "processApprovals": "How approvals work",
+    "chipIntro": "Tell us what you need. WhatsApp opens with the plot and the service already in the message.",
+    "chipHouse": "House",
+    "chipInterior": "Interior",
+    "chipGrey": "Grey structure",
+    "chipTurnkey": "Turnkey",
+    "chipCommercial": "Commercial",
+    "chipAbroad": "I live abroad",
+    "close": "A 10 marla plot in Gulberg Greens, a kitchen in Park View, a house in Mansehra, a showroom on the GT Road — start with the size and the society.",
+    "reply": "We reply on WhatsApp within one working day (PKT). Overseas clients: say your city and we will call at a time that works.",
+    "freeLook": "Free first look at the plot or drawings — not a discount.",
+    "freeLookCta": "Send the plot for a first look",
+    "stickyLabel": "WhatsApp us",
+    "stickySub": "Reply within one working day (PKT)"
+  },
+  "ComingSoon": {
+    "metaTitle": "Coming soon | FluX Design and Construction",
+    "metaDescription": "FluX Design and Construction — architecture, interiors, and construction in Islamabad and Rawalpindi. The studio site is being finished.",
+    "kicker": "Coming soon · Islamabad / Rawalpindi",
+    "h1": "Design it. Build it. In Islamabad and Rawalpindi.",
+    "sub": "Architecture, interiors, and construction in one contract — drawings that can be approved, and a site that matches them.",
+    "note": "The studio site is being finished. Send the plot size and society — we reply within one working day (PKT).",
+    "contactCta": "Send the plot for a first look",
+    "caption": "PGSHF · house · CGI",
+    "heroAlt": "Plot 586-A, PGSHF. CGI — a render, not a photograph. FluX Design and Construction."
   },
   "ComingSoon": {
     "metaTitle": "Coming soon | FluX Design and Construction",
