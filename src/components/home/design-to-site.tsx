@@ -21,7 +21,7 @@ export async function DesignToSite({ locale }: { locale: Locale }) {
             <p dir="ltr" className="nav-link mb-4 text-foreground/70">
               {pair.society}
             </p>
-            <div className="grid grid-cols-1 gap-px bg-border md:grid-cols-2">
+            <div className="grid grid-cols-1 gap-4 md:grid-cols-2">
               <Still
                 src={pair.cgi}
                 alt={pair.cgiCaption[locale]}

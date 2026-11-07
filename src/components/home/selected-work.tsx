@@ -28,7 +28,7 @@ export async function SelectedWork({ locale }: { locale: Locale }) {
           {t("allWork")}
         </Link>
       </div>
-      <div className="mt-12 grid grid-cols-1 gap-px bg-border md:grid-cols-2">
+      <div className="mt-12 grid grid-cols-1 gap-4 md:grid-cols-2">
         {selectedProjects.map((project, index) => (
           <Link
             key={project.slug}
