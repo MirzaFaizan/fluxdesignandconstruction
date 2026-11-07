@@ -3,6 +3,7 @@ import { WhatsAppCta } from "@/components/chrome/whatsapp-cta";
 import { Link } from "@/i18n/navigation";
 import { primaryNav } from "@/lib/nav";
 import { getTranslations } from "next-intl/server";
+import { HeaderPrimary } from "./header-primary";
 import { LanguageSwitcher } from "./language-switcher";
 import { MobileNav } from "./mobile-nav";
 
@@ -33,30 +34,32 @@ export async function SiteHeader() {
           </span>
         </Link>
         <LanguageSwitcher />
-        <nav
-          aria-label={t("primary")}
-          className="ms-auto hidden items-center gap-6 md:flex lg:gap-8"
-        >
-          {primaryNav.map((item) => (
-            <Link
-              key={item.href}
-              href={item.href}
-              className="nav-link text-foreground/80 transition-colors duration-150 hover:text-foreground"
-            >
-              {t(item.key)}
-            </Link>
-          ))}
-        </nav>
-        <WhatsAppCta
-          intent="generic"
-          ariaLabel={t("whatsappAria")}
-          className="nav-link hidden text-foreground/80 transition-colors duration-150 hover:text-foreground md:ms-8 md:inline lg:ms-10"
-        >
-          {t("whatsapp")}
-        </WhatsAppCta>
-        <div className="ms-auto md:hidden">
-          <MobileNav />
-        </div>
+        <HeaderPrimary>
+          <nav
+            aria-label={t("primary")}
+            className="ms-auto hidden items-center gap-6 md:flex lg:gap-8"
+          >
+            {primaryNav.map((item) => (
+              <Link
+                key={item.href}
+                href={item.href}
+                className="nav-link text-foreground/80 transition-colors duration-150 hover:text-foreground"
+              >
+                {t(item.key)}
+              </Link>
+            ))}
+          </nav>
+          <WhatsAppCta
+            intent="generic"
+            ariaLabel={t("whatsappAria")}
+            className="nav-link hidden text-foreground/80 transition-colors duration-150 hover:text-foreground md:ms-8 md:inline lg:ms-10"
+          >
+            {t("whatsapp")}
+          </WhatsAppCta>
+          <div className="ms-auto md:hidden">
+            <MobileNav />
+          </div>
+        </HeaderPrimary>
       </div>
     </header>
   );
