@@ -66,6 +66,7 @@ export default async function WorkPage({ params }: PageProps) {
                 filterHouses: t("filterHouses"),
                 filterInteriors: t("filterInteriors"),
                 filterCommercial: t("filterCommercial"),
+                filterLandscape: t("filterLandscape"),
                 filterDesignToSite: t("filterDesignToSite"),
                 filterPlot: t("filterPlot"),
                 filter5Marla: t("filter5Marla"),

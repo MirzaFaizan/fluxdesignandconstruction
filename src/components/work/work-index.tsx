@@ -16,7 +16,7 @@ export type WorkIndexCard = {
   layout: "full" | "half";
   index: number;
   typology: WorkTypology;
-  plotSize: PlotSize;
+  plotSize: PlotSize | null;
   style: HouseStyle | null;
   fromDesignToSite: boolean;
   image: StaticImageData;
@@ -30,6 +30,7 @@ export type WorkIndexCopy = {
   filterHouses: string;
   filterInteriors: string;
   filterCommercial: string;
+  filterLandscape: string;
   filterDesignToSite: string;
   filterPlot: string;
   filter5Marla: string;
@@ -44,7 +45,13 @@ export type WorkIndexCopy = {
   whatsappAria: string;
 };
 
-type Category = "all" | "houses" | "interiors" | "commercial" | "design-to-site";
+type Category =
+  | "all"
+  | "houses"
+  | "interiors"
+  | "commercial"
+  | "landscape"
+  | "design-to-site";
 
 const chipClass =
   "h-9 rounded-none border border-border bg-transparent px-3 text-sm font-medium text-foreground hover:bg-foreground hover:text-background focus-visible:ring-0 aria-pressed:bg-foreground aria-pressed:text-background data-[pressed]:bg-foreground data-[pressed]:text-background data-[state=on]:bg-foreground data-[state=on]:text-background";
@@ -58,7 +65,29 @@ function matchesCategory(card: WorkIndexCard, category: Category) {
   if (category === "houses") return card.typology === "house";
   if (category === "interiors") return card.typology === "interior";
   if (category === "commercial") return card.typology === "commercial";
+  if (category === "landscape") return card.typology === "landscape";
   return card.fromDesignToSite;
+}
+
+function plotIsValid(
+  cards: WorkIndexCard[],
+  category: Category,
+  plot: PlotSize
+) {
+  if (category === "interiors" || category === "landscape") return false;
+  return cards.some(
+    (card) => matchesCategory(card, category) && card.plotSize === plot
+  );
+}
+
+function styleIsValid(
+  cards: WorkIndexCard[],
+  category: Category,
+  style: HouseStyle
+) {
+  return cards.some(
+    (card) => matchesCategory(card, category) && card.style === style
+  );
 }
 
 export function WorkIndex({
@@ -72,6 +101,16 @@ export function WorkIndex({
   const [plot, setPlot] = useState<PlotSize | "">("");
   const [style, setStyle] = useState<HouseStyle | "">("");
 
+  function selectCategory(next: Category) {
+    setCategory(next);
+    setPlot((current) =>
+      current && plotIsValid(cards, next, current) ? current : ""
+    );
+    setStyle((current) =>
+      current && styleIsValid(cards, next, current) ? current : ""
+    );
+  }
+
   const visible = useMemo(
     () =>
       cards.filter((card) => {
@@ -83,6 +122,23 @@ export function WorkIndex({
     [cards, category, plot, style]
   );
 
+  const plotCopy: Record<PlotSize, string> = {
+    "5-marla": copy.filter5Marla,
+    "10-marla": copy.filter10Marla,
+    "1-kanal": copy.filter1Kanal,
+    other: copy.filterOther,
+  };
+  const styleCopy: Record<HouseStyle, string> = {
+    modern: copy.filterModern,
+    classical: copy.filterClassical,
+  };
+  const validPlots = (
+    ["5-marla", "10-marla", "1-kanal", "other"] as const
+  ).filter((size) => plotIsValid(cards, category, size));
+  const validStyles = (["modern", "classical"] as const).filter((item) =>
+    styleIsValid(cards, category, item)
+  );
+
   return (
     <div>
       <div className="flex flex-col gap-6">
@@ -92,7 +148,7 @@ export function WorkIndex({
             value={[category]}
             onValueChange={(value) => {
               const next = (value[0] as Category | undefined) ?? "all";
-              setCategory(next);
+              selectCategory(next);
             }}
             className="flex w-full flex-wrap gap-2"
             spacing={0}
@@ -109,59 +165,58 @@ export function WorkIndex({
             <ToggleGroupItem value="commercial" className={chipClass}>
               {copy.filterCommercial}
             </ToggleGroupItem>
+            <ToggleGroupItem value="landscape" className={chipClass}>
+              {copy.filterLandscape}
+            </ToggleGroupItem>
             <ToggleGroupItem value="design-to-site" className={chipClass}>
               {copy.filterDesignToSite}
             </ToggleGroupItem>
           </ToggleGroup>
         </fieldset>
 
-        <fieldset>
-          <legend className="nav-link mb-3 text-foreground/70">
-            {copy.filterPlot}
-          </legend>
-          <ToggleGroup
-            value={plot ? [plot] : []}
-            onValueChange={(value) => {
-              setPlot((value[0] as PlotSize | undefined) ?? "");
-            }}
-            className="flex w-full flex-wrap gap-2"
-            spacing={0}
-          >
-            <ToggleGroupItem value="5-marla" className={chipClass}>
-              {copy.filter5Marla}
-            </ToggleGroupItem>
-            <ToggleGroupItem value="10-marla" className={chipClass}>
-              {copy.filter10Marla}
-            </ToggleGroupItem>
-            <ToggleGroupItem value="1-kanal" className={chipClass}>
-              {copy.filter1Kanal}
-            </ToggleGroupItem>
-            <ToggleGroupItem value="other" className={chipClass}>
-              {copy.filterOther}
-            </ToggleGroupItem>
-          </ToggleGroup>
-        </fieldset>
+        {validPlots.length > 0 ? (
+          <fieldset>
+            <legend className="nav-link mb-3 text-foreground/70">
+              {copy.filterPlot}
+            </legend>
+            <ToggleGroup
+              value={plot ? [plot] : []}
+              onValueChange={(value) => {
+                setPlot((value[0] as PlotSize | undefined) ?? "");
+              }}
+              className="flex w-full flex-wrap gap-2"
+              spacing={0}
+            >
+              {validPlots.map((size) => (
+                <ToggleGroupItem key={size} value={size} className={chipClass}>
+                  {plotCopy[size]}
+                </ToggleGroupItem>
+              ))}
+            </ToggleGroup>
+          </fieldset>
+        ) : null}
 
-        <fieldset>
-          <legend className="nav-link mb-3 text-foreground/70">
-            {copy.filterStyle}
-          </legend>
-          <ToggleGroup
-            value={style ? [style] : []}
-            onValueChange={(value) => {
-              setStyle((value[0] as HouseStyle | undefined) ?? "");
-            }}
-            className="flex w-full flex-wrap gap-2"
-            spacing={0}
-          >
-            <ToggleGroupItem value="modern" className={chipClass}>
-              {copy.filterModern}
-            </ToggleGroupItem>
-            <ToggleGroupItem value="classical" className={chipClass}>
-              {copy.filterClassical}
-            </ToggleGroupItem>
-          </ToggleGroup>
-        </fieldset>
+        {validStyles.length > 0 ? (
+          <fieldset>
+            <legend className="nav-link mb-3 text-foreground/70">
+              {copy.filterStyle}
+            </legend>
+            <ToggleGroup
+              value={style ? [style] : []}
+              onValueChange={(value) => {
+                setStyle((value[0] as HouseStyle | undefined) ?? "");
+              }}
+              className="flex w-full flex-wrap gap-2"
+              spacing={0}
+            >
+              {validStyles.map((item) => (
+                <ToggleGroupItem key={item} value={item} className={chipClass}>
+                  {styleCopy[item]}
+                </ToggleGroupItem>
+              ))}
+            </ToggleGroup>
+          </fieldset>
+        ) : null}
       </div>
 
       {visible.length === 0 ? (

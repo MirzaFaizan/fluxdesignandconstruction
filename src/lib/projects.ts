@@ -14,7 +14,13 @@ export type PlotSize = "5-marla" | "10-marla" | "1-kanal" | "other";
 
 export type HouseStyle = "modern" | "classical";
 
-export type GalleryKind = "cgi" | "site" | "interior" | "3d" | "elevation";
+export type GalleryKind =
+  | "cgi"
+  | "site"
+  | "interior"
+  | "3d"
+  | "elevation"
+  | "landscape";
 
 export type GalleryItem = {
   src: StaticImageData;
@@ -44,7 +50,7 @@ export type DesignSitePair = {
 export type WorkProject = {
   slug: string;
   typology: WorkTypology;
-  plotSize: PlotSize;
+  plotSize: PlotSize | null;
   style: HouseStyle | null;
   fromDesignToSite: boolean;
   layout: "full" | "half";
@@ -657,7 +663,7 @@ export const workProjects: WorkProject[] = [
   {
     slug: "park-view-city",
     typology: "interior",
-    plotSize: "other",
+    plotSize: null,
     style: null,
     fromDesignToSite: false,
     layout: "full",
@@ -702,7 +708,7 @@ export const workProjects: WorkProject[] = [
   {
     slug: "attock-tv-lounge",
     typology: "interior",
-    plotSize: "other",
+    plotSize: null,
     style: null,
     fromDesignToSite: false,
     layout: "half",
@@ -744,7 +750,7 @@ export const workProjects: WorkProject[] = [
   {
     slug: "mansehra-interiors",
     typology: "interior",
-    plotSize: "other",
+    plotSize: null,
     style: null,
     fromDesignToSite: false,
     layout: "half",
@@ -786,7 +792,7 @@ export const workProjects: WorkProject[] = [
   {
     slug: "omoda-jaecoo",
     typology: "commercial",
-    plotSize: "other",
+    plotSize: null,
     style: null,
     fromDesignToSite: false,
     layout: "full",
@@ -823,7 +829,7 @@ export const workProjects: WorkProject[] = [
   {
     slug: "peshawari-dry-fruits",
     typology: "commercial",
-    plotSize: "other",
+    plotSize: null,
     style: null,
     fromDesignToSite: false,
     layout: "half",
@@ -860,7 +866,7 @@ export const workProjects: WorkProject[] = [
   {
     slug: "janhzab-office",
     typology: "commercial",
-    plotSize: "other",
+    plotSize: null,
     style: null,
     fromDesignToSite: false,
     layout: "half",
@@ -937,7 +943,7 @@ export const workProjects: WorkProject[] = [
   {
     slug: "mr-waseem",
     typology: "landscape",
-    plotSize: "other",
+    plotSize: null,
     style: null,
     fromDesignToSite: false,
     layout: "full",
@@ -965,13 +971,13 @@ export const workProjects: WorkProject[] = [
     },
     hero: launchMedia.landscapeWaseemGarden,
     gallery: [
-      still(launchMedia.landscapeWaseemGarden, "3d", {
-        en: "Mr Waseem · garden · 3D",
-        ur: "جناب وسیم · باغ · 3D",
+      still(launchMedia.landscapeWaseemGarden, "landscape", {
+        en: "Mr Waseem · garden · one landscape project",
+        ur: "جناب وسیم · باغ · ایک لینڈسکیپ منصوبہ",
       }),
-      still(launchMedia.landscapeWaseemFountain, "3d", {
-        en: "Mr Waseem · fountain · 3D",
-        ur: "جناب وسیم · فوارہ · 3D",
+      still(launchMedia.landscapeWaseemFountain, "landscape", {
+        en: "Mr Waseem · fountain · one landscape project",
+        ur: "جناب وسیم · فوارہ · ایک لینڈسکیپ منصوبہ",
       }),
     ],
   },
