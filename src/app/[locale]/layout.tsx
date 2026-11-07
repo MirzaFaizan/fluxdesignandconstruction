@@ -7,8 +7,12 @@ import { languageAlternates } from "@/lib/metadata";
 import { cn } from "@/lib/utils";
 import { hasLocale, NextIntlClientProvider } from "next-intl";
 import { getMessages, getTranslations, setRequestLocale } from "next-intl/server";
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { notFound } from "next/navigation";
+
+export const viewport: Viewport = {
+  themeColor: "#2b3642",
+};
 
 type LocaleLayoutProps = {
   children: React.ReactNode;

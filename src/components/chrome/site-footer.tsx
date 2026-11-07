@@ -1,6 +1,7 @@
 import { Link } from "@/i18n/navigation";
 import { footerNav } from "@/lib/nav";
 import { getTranslations } from "next-intl/server";
+import { HeaderPrimary } from "./header-primary";
 import { LanguageSwitcher } from "./language-switcher";
 
 export async function SiteFooter() {
@@ -19,17 +20,19 @@ export async function SiteFooter() {
           <p className="mt-6 text-xs leading-5 text-foreground/70">{t("legal")}</p>
         </div>
         <div className="flex flex-col gap-6 sm:flex-row sm:items-end sm:gap-16">
-          <nav aria-label={t("secondary")} className="flex flex-col gap-3">
-            {footerNav.map((item) => (
-              <Link
-                key={item.href}
-                href={item.href}
-                className="nav-link text-foreground/80 hover:text-foreground"
-              >
-                {t(item.key)}
-              </Link>
-            ))}
-          </nav>
+          <HeaderPrimary>
+            <nav aria-label={t("secondary")} className="flex flex-col gap-3">
+              {footerNav.map((item) => (
+                <Link
+                  key={item.href}
+                  href={item.href}
+                  className="nav-link text-foreground/80 hover:text-foreground"
+                >
+                  {t(item.key)}
+                </Link>
+              ))}
+            </nav>
+          </HeaderPrimary>
           <LanguageSwitcher />
         </div>
       </div>
