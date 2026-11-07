@@ -307,7 +307,8 @@ html[lang="ur"] .interiors-h1 {
 }
 
 .office-map .maplibregl-canvas {
-  filter: grayscale(1) invert(1) brightness(0.82) contrast(1.08);
+  filter: grayscale(1) invert(1) brightness(1.28) contrast(0.78) sepia(0.18)
+    hue-rotate(188deg) saturate(0.5);
 }
 
 .office-map .maplibregl-ctrl-attrib {
@@ -328,6 +329,9 @@ html[lang="ur"] .interiors-h1 {
 
 .office-map .maplibregl-ctrl-group button {
   background: #2b3642;
+}
+
+.office-map .maplibregl-ctrl-group button .maplibregl-ctrl-icon {
   filter: invert(1);
 }
 
