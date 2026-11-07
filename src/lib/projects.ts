@@ -4,7 +4,7 @@ import { launchMedia } from "./launch-media";
 
 export type LocaleText = Record<Locale, string>;
 
-export type ProjectFlag = "design" | "built" | "interior" | "commercial";
+export type ProjectFlag = "design" | "built";
 
 export type SelectedProject = {
   slug: string;
@@ -36,24 +36,9 @@ const pgshf586aCaption = {
   ur: "PGSHF · گھر · ڈیزائن · تعمیر",
 } as const;
 
-const parkViewCaption = {
-  en: "Park View City · kitchen · Interior",
-  ur: "پارک ویو سٹی · کچن · انٹیریئر",
-} as const;
-
-const attockCaption = {
-  en: "Attock · TV lounge · Interior",
-  ur: "اٹک · ٹی وی لاؤنج · انٹیریئر",
-} as const;
-
-const omodaCaption = {
-  en: "OMODA / JAECOO · showroom · Commercial",
-  ur: "OMODA / JAECOO · شوروم · کمرشل",
-} as const;
-
-const mansehraCaption = {
-  en: "Mansehra · house interiors · Interior",
-  ur: "مانسہرہ · گھر کا انٹیریئر · انٹیریئر",
+const zahidCaption = {
+  en: "PGSHF · 5 marla · Design",
+  ur: "PGSHF · 5 مرلہ · ڈیزائن",
 } as const;
 
 const iqbalCaption = {
@@ -71,36 +56,12 @@ export const selectedProjects: SelectedProject[] = [
     alt: altFromCaption(pgshf586aCaption),
   },
   {
-    slug: "park-view-kitchen",
-    image: launchMedia.parkViewKitchen,
+    slug: "pgshf-zahid-5-marla",
+    image: launchMedia.zahid5Marla,
     layout: "half",
-    flags: ["interior"],
-    caption: parkViewCaption,
-    alt: altFromCaption(parkViewCaption),
-  },
-  {
-    slug: "attock-tv-lounge",
-    image: launchMedia.attockTvWall,
-    layout: "half",
-    flags: ["interior"],
-    caption: attockCaption,
-    alt: altFromCaption(attockCaption),
-  },
-  {
-    slug: "omoda-jaecoo",
-    image: launchMedia.omodaJaecoo,
-    layout: "full",
-    flags: ["commercial"],
-    caption: omodaCaption,
-    alt: altFromCaption(omodaCaption),
-  },
-  {
-    slug: "mansehra-interiors",
-    image: launchMedia.mansehraLounge,
-    layout: "half",
-    flags: ["interior"],
-    caption: mansehraCaption,
-    alt: altFromCaption(mansehraCaption),
+    flags: ["design"],
+    caption: zahidCaption,
+    alt: altFromCaption(zahidCaption),
   },
   {
     slug: "pgshf-iqbal-1-kanal",
@@ -153,20 +114,6 @@ export const designSitePairs: DesignSitePair[] = [
     siteCaption: {
       en: "PGSHF · 586-A · Site",
       ur: "PGSHF · 586-A · سائٹ",
-    },
-  },
-  {
-    id: "iftikhar",
-    society: "PGSHF",
-    cgi: launchMedia.proofIftikharCgi,
-    site: launchMedia.proofIftikharSite,
-    cgiCaption: {
-      en: "PGSHF · Iftikhar house · CGI",
-      ur: "PGSHF · افتخار ہاؤس · CGI",
-    },
-    siteCaption: {
-      en: "PGSHF · Iftikhar house · Site",
-      ur: "PGSHF · افتخار ہاؤس · سائٹ",
     },
   },
 ];

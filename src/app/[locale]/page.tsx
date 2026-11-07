@@ -37,7 +37,7 @@ export default async function HomePage({ params }: PageProps) {
 
   return (
     <>
-      <main id="content" className="pb-24 md:pb-0">
+      <main id="content" className="pb-16 md:pb-0">
         <HomeHero locale={locale} />
         <SelectedWork locale={locale} />
         <DesignToSite locale={locale} />

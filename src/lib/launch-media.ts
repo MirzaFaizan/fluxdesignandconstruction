@@ -2,10 +2,7 @@ import type { StaticImageData } from "next/image";
 import courtyardNight from "../../web-media/launch/heroes/hero-courtyard-night.webp";
 import iqbalPgshf from "../../web-media/launch/heroes/hero-iqbal-1-kanal-pgshf.webp";
 import khursheed586a from "../../web-media/launch/heroes/hero-khursheed-586a-dusk.webp";
-import parkViewKitchen from "../../web-media/launch/interiors/interior-park-view-kitchen.webp";
-import attockTvWall from "../../web-media/launch/interiors/interior-attock-tv-wall.webp";
-import mansehraLounge from "../../web-media/launch/interiors/interior-mansehra-lounge.webp";
-import omodaJaecoo from "../../web-media/launch/commercial/commercial-omoda-jaecoo.webp";
+import zahid5Marla from "../../web-media/launch/heroes/hero-zahid-5-marla-pgshf.webp";
 import proof352cCgi from "../../web-media/launch/proof/proof-352c-cgi.webp";
 import proof352cSite from "../../web-media/launch/proof/proof-352c-site.webp";
 import proof629dCgi from "../../web-media/launch/proof/proof-629d-cgi.webp";
@@ -18,10 +15,7 @@ export const launchMedia = {
   courtyardNight,
   iqbalPgshf,
   khursheed586a,
-  parkViewKitchen,
-  attockTvWall,
-  mansehraLounge,
-  omodaJaecoo,
+  zahid5Marla,
   proof352cCgi,
   proof352cSite,
   proof629dCgi,

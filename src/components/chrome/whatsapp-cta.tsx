@@ -1,5 +1,6 @@
 "use client";
 
+import { WhatsAppMark } from "@/components/chrome/whatsapp-mark";
 import { Link } from "@/i18n/navigation";
 import { isLocale } from "@/i18n/routing";
 import { cn } from "@/lib/utils";
@@ -27,6 +28,13 @@ export function WhatsAppCta({
   const rawLocale = useLocale();
   const locale = isLocale(rawLocale) ? rawLocale : "en";
   const liveHref = whatsappUrl(locale, intent);
+  const classes = cn("inline-flex items-center gap-2", className);
+  const body = (
+    <>
+      <WhatsAppMark />
+      {children}
+    </>
+  );
 
   if (isWhatsAppLive() && liveHref) {
     return (
@@ -34,17 +42,17 @@ export function WhatsAppCta({
         href={liveHref}
         target="_blank"
         rel="noopener noreferrer"
-        className={cn(className)}
+        className={classes}
         aria-label={ariaLabel}
       >
-        {children}
+        {body}
       </a>
     );
   }
 
   return (
-    <Link href="/contact" className={cn(className)} aria-label={ariaLabel}>
-      {children}
+    <Link href="/contact" className={classes} aria-label={ariaLabel}>
+      {body}
     </Link>
   );
 }

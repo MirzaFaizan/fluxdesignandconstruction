@@ -38,7 +38,7 @@ export function Still({
         )}
       />
       {caption ? (
-        <figcaption className="pointer-events-none absolute inset-inline-0 bottom-0 bg-background/45 px-4 py-3 text-xs leading-6 text-foreground sm:px-5 sm:text-sm sm:leading-7">
+        <figcaption className="pointer-events-none absolute inset-inline-0 bottom-0 bg-background/90 px-4 py-3 text-xs leading-6 text-foreground sm:px-5 sm:text-sm sm:leading-7">
           {caption}
         </figcaption>
       ) : null}

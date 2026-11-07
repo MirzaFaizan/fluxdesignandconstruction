@@ -12,7 +12,7 @@ export async function HomeHero({ locale }: { locale: Locale }) {
   const nav = await getTranslations("Nav");
 
   return (
-    <section className="relative isolate min-h-[calc(100svh-3.5rem-6rem)] overflow-x-clip border-b border-border md:min-h-[calc(100svh-4rem)]">
+    <section className="relative isolate min-h-[calc(100svh-3.5rem)] overflow-x-clip border-b border-border md:min-h-[calc(100svh-4rem)]">
       <Image
         src={heroStill}
         alt={heroAlt[locale]}
@@ -26,8 +26,8 @@ export async function HomeHero({ locale }: { locale: Locale }) {
         aria-hidden="true"
         className="absolute inset-0 bg-background/45"
       />
-      <div className="relative flex min-h-[calc(100svh-3.5rem-6rem)] flex-col justify-end md:min-h-[calc(100svh-4rem)]">
-        <div className="min-w-0 w-full px-4 pb-10 sm:px-6 sm:pb-16 lg:px-8 lg:pb-24">
+      <div className="relative flex min-h-[calc(100svh-3.5rem)] flex-col justify-end md:min-h-[calc(100svh-4rem)]">
+        <div className="min-w-0 w-full px-4 pb-20 sm:px-6 sm:pb-16 lg:px-8 lg:pb-24">
           <p className="text-xs leading-6 text-foreground/90 sm:text-sm sm:leading-7">
             {heroCaption[locale]}
           </p>

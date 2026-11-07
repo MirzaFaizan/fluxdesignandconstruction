@@ -1,6 +1,7 @@
 "use client";
 
 import { LogoMark } from "@/components/brand/logo-mark";
+import { WhatsAppMark } from "@/components/chrome/whatsapp-mark";
 import { useDirection } from "@/components/ui/direction";
 import {
   Sheet,
@@ -64,10 +65,11 @@ export function MobileNav() {
               <Link
                 href="/contact"
                 aria-label={t("whatsappAria")}
-                className="nav-link text-foreground/80 hover:text-foreground"
+                className="nav-link inline-flex items-center gap-2 text-foreground/80 hover:text-foreground"
               />
             }
           >
+            <WhatsAppMark />
             {t("whatsapp")}
           </SheetClose>
         </div>

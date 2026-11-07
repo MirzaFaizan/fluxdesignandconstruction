@@ -37,7 +37,7 @@ export async function SiteHeader() {
         <HeaderPrimary>
           <nav
             aria-label={t("primary")}
-            className="ms-auto hidden items-center gap-6 md:flex lg:gap-8"
+            className="ms-auto hidden items-center gap-5 md:flex lg:gap-7"
           >
             {primaryNav.map((item) => (
               <Link
@@ -52,7 +52,7 @@ export async function SiteHeader() {
           <WhatsAppCta
             intent="generic"
             ariaLabel={t("whatsappAria")}
-            className="nav-link hidden text-foreground/80 transition-colors duration-150 hover:text-foreground md:ms-8 md:inline lg:ms-10"
+            className="nav-link hidden text-foreground/80 transition-colors duration-150 hover:text-foreground md:ms-5 md:inline-flex lg:ms-8"
           >
             {t("whatsapp")}
           </WhatsAppCta>
