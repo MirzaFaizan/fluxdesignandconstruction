@@ -14,6 +14,11 @@ import proof629dSite from "../../web-media/launch/proof/proof-629d-site.webp";
 import proof586aSite from "../../web-media/launch/proof/proof-586a-site.webp";
 import proofIftikharCgi from "../../web-media/launch/proof/proof-iftikhar-cgi.webp";
 import proofIftikharSite from "../../web-media/launch/proof/proof-iftikhar-site.webp";
+import commercialOmodaJaecoo from "../../web-media/launch/commercial/commercial-omoda-jaecoo.webp";
+import commercialPeshawariDryFruits from "../../web-media/launch/commercial/commercial-peshawari-dry-fruits.webp";
+import commercialJanhzabOffice from "../../web-media/launch/commercial/commercial-janhzab-office.webp";
+import commercialGulshanEShamal from "../../web-media/launch/commercial/commercial-gulshan-e-shamal.webp";
+import commercialCollegeProposal from "../../web-media/launch/commercial/commercial-college-proposal.webp";
 
 export const launchMedia = {
   ahsanAftab10Marla,
@@ -31,6 +36,11 @@ export const launchMedia = {
   proof586aSite,
   proofIftikharCgi,
   proofIftikharSite,
+  commercialOmodaJaecoo,
+  commercialPeshawariDryFruits,
+  commercialJanhzabOffice,
+  commercialGulshanEShamal,
+  commercialCollegeProposal,
 } satisfies Record<string, StaticImageData>;
 
 export const heroStill = launchMedia.courtyardNight;
