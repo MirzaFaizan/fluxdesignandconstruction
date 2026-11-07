@@ -22,7 +22,7 @@ export type CaseStudyStill = {
   src: StaticImageData;
   alt: string;
   caption: string;
-  kind: "cgi" | "site" | "interior" | "3d" | "elevation";
+  kind: "cgi" | "site" | "interior" | "3d" | "elevation" | "landscape";
 };
 
 export type CaseStudyMediaCopy = {
