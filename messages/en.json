@@ -1,0 +1,103 @@
+{
+  "Meta": {
+    "siteName": "FluX Design and Construction",
+    "titleDefault": "FluX Design and Construction",
+    "titleTemplate": "%s · FluX",
+    "description": "Architecture, interiors, and construction in Islamabad and Rawalpindi — drawings that can be approved, and a site that matches them."
+  },
+  "Nav": {
+    "primary": "Primary",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "skip": "Skip to content",
+    "work": "Work",
+    "houses": "Houses",
+    "interiors": "Interiors",
+    "build": "Build",
+    "studio": "Studio",
+    "contact": "Contact",
+    "whatsapp": "WhatsApp",
+    "language": "Language"
+  },
+  "Footer": {
+    "studio": "FluX Design and Construction",
+    "cities": "Islamabad / Rawalpindi",
+    "tagline": "From drawing to site.",
+    "commercial": "Commercial",
+    "approvals": "Approvals",
+    "privacy": "Privacy",
+    "secondary": "Further"
+  },
+  "Home": {
+    "kicker": "Islamabad · Rawalpindi",
+    "h1": "Design it. Build it. In Islamabad and Rawalpindi.",
+    "sub": "Architecture, interiors, and construction in one contract — drawings that can be approved, and a site that matches them.",
+    "viewWork": "View work",
+    "photoPlane": "Project photography will sit here."
+  },
+  "Work": {
+    "kicker": "Portfolio",
+    "title": "Work",
+    "lede": "Houses, interiors, and the sites that followed the drawings. Plot size, society, and year on every caption.",
+    "photoPlane": "Project stills will sit here."
+  },
+  "Project": {
+    "kicker": "Case study",
+    "title": "Project",
+    "lede": "Brief, gallery, and the path from drawing to site — records will fill this page.",
+    "photoPlane": "The project hero will sit here."
+  },
+  "Houses": {
+    "kicker": "Architecture + build",
+    "title": "Houses",
+    "lede": "House design and construction in Islamabad and Rawalpindi, sized to the plots people own.",
+    "photoPlane": "Residential stills will sit here."
+  },
+  "Interiors": {
+    "kicker": "Rooms",
+    "title": "Interiors",
+    "lede": "Kitchens, TV lounges, and master baths first — in the twin cities, Attock, and Mansehra.",
+    "photoPlane": "Interior stills will sit here."
+  },
+  "Commercial": {
+    "kicker": "Other work",
+    "title": "Commercial",
+    "lede": "Shops, offices, mixed-use, and showrooms — kept apart from the houses.",
+    "photoPlane": "Commercial stills will sit here."
+  },
+  "Build": {
+    "kicker": "Construction",
+    "title": "Build",
+    "lede": "Grey structure, finishing, and turnkey. Design next to the pour, labelled as CGI when it is CGI.",
+    "photoPlane": "Design-to-site pairs will sit here."
+  },
+  "Approvals": {
+    "kicker": "Authorities",
+    "title": "Approvals",
+    "lede": "CDA, RDA, DHA, and societies. Named licensed people stamp Form A-2 — the firm is not “CDA-approved.”",
+    "photoPlane": "A short checklist will sit here."
+  },
+  "Studio": {
+    "kicker": "Practice",
+    "title": "Studio",
+    "lede": "One studio, from drawing to site, in the twin cities — and on WhatsApp if you are abroad.",
+    "photoPlane": "Studio notes will sit here."
+  },
+  "Contact": {
+    "kicker": "Enquiry",
+    "title": "Contact",
+    "lede": "WhatsApp first, a call second, a short form third. We reply within one working day (PKT).",
+    "photoPlane": "Office, hours, and a map will sit here."
+  },
+  "NotFound": {
+    "kicker": "404",
+    "title": "Not found",
+    "lede": "This page is not on the site."
+  },
+  "Privacy": {
+    "kicker": "Legal",
+    "title": "Privacy",
+    "lede": "How this site uses what you send us. Company name and address will match the domain.",
+    "photoPlane": "The privacy notice will sit here."
+  }
+}
