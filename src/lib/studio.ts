@@ -12,7 +12,7 @@ export const studioPeople = [
   {
     key: "umair",
     index: "02",
-    prefix: "Ar.",
+    prefix: "Engr.",
     name: "Umair Ejaz",
     role: "umairRole",
   },

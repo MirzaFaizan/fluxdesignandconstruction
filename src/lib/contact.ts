@@ -10,7 +10,7 @@ export const CITIES = "Islamabad / Rawalpindi";
  * Named person, office, hours, email, legal name, map pin.
  * Empty until Faizan supplies them — never paint a blank as live.
  */
-export const CONTACT_NAME = "Ar. Adnan Ejaz and Ar. Umair Ejaz";
+export const CONTACT_NAME = "Ar. Adnan Ejaz and Engr. Umair Ejaz";
 /** Google Maps pin (Faizan, Nov 2026): 1 Adiyala Rd, Rawalpindi. */
 export const OFFICE_ADDRESS = "1 Adiyala Rd, Rawalpindi, Pakistan";
 /** GBP hours, every day. Display as a Latin island; pages append (PKT). */

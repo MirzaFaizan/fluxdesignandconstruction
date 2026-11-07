@@ -69,10 +69,7 @@ export async function StudioView({ locale }: { locale: Locale }) {
           ))}
         </ul>
         <p className="mt-10 max-w-xl text-pretty text-sm leading-relaxed text-foreground/85 sm:text-base">
-          {t("graduates")}
-        </p>
-        <p className="mt-3 max-w-xl text-pretty text-sm leading-relaxed text-foreground/85 sm:text-base">
-          {t("energy")}
+          {t("brothers")}
         </p>
       </section>
 
