@@ -21,4 +21,5 @@ Urdu: prefix `/ur` on the same paths (`/ur/houses`, `/ur/faq`, …).
 ## Also
 
 - [Commercial](https://fluxdesignandconstruction.com/commercial): Showrooms, shops, offices - own gallery.
+- [Sketch](https://fluxdesignandconstruction.com/sketch): Stamp rooms on a 5 marla, 10 marla, or 1 kanal plot. A brief, not a CDA drawing.
 - [Privacy](https://fluxdesignandconstruction.com/privacy)

@@ -6,6 +6,7 @@ export const faqHrefs = [
   "/contact",
   "/studio",
   "/interiors",
+  "/sketch",
 ] as const;
 
 export type FaqHref = (typeof faqHrefs)[number];
@@ -16,6 +17,7 @@ type FaqCopy = {
     | "costQ"
     | "greyQ"
     | "marlaQ"
+    | "sketchQ"
     | "boqQ"
     | "cdaSelfQ"
     | "formsQ"
@@ -32,6 +34,7 @@ type FaqCopy = {
     | "costA1"
     | "greyA1"
     | "marlaA1"
+    | "sketchA1"
     | "boqA1"
     | "cdaSelfA1"
     | "formsA1"
@@ -48,6 +51,7 @@ type FaqCopy = {
     | "costA2"
     | "greyA2"
     | "marlaA2"
+    | "sketchA2"
     | "boqA2"
     | "cdaSelfA2"
     | "formsA2"
@@ -67,6 +71,7 @@ export const faqItems = [
   { id: "cost", q: "costQ", a1: "costA1", a2: "costA2", links: ["/houses", "/build", "/contact"] },
   { id: "grey", q: "greyQ", a1: "greyA1", a2: "greyA2", links: ["/build"] },
   { id: "marla", q: "marlaQ", a1: "marlaA1", a2: "marlaA2", links: ["/houses"] },
+  { id: "sketch", q: "sketchQ", a1: "sketchA1", a2: "sketchA2", links: ["/sketch", "/houses"] },
   { id: "boq", q: "boqQ", a1: "boqA1", a2: "boqA2", links: ["/build", "/contact"] },
   { id: "cdaSelf", q: "cdaSelfQ", a1: "cdaSelfA1", a2: "cdaSelfA2", links: ["/approvals"] },
   { id: "forms", q: "formsQ", a1: "formsA1", a2: "formsA2", links: ["/approvals"] },
@@ -83,7 +88,7 @@ export const faqItems = [
 
 export const faqLinkLabel: Record<
   FaqHref,
-  "houses" | "build" | "approvals" | "work" | "contact" | "studio" | "interiors"
+  "houses" | "build" | "approvals" | "work" | "contact" | "studio" | "interiors" | "sketch"
 > = {
   "/houses": "houses",
   "/build": "build",
@@ -92,4 +97,5 @@ export const faqLinkLabel: Record<
   "/contact": "contact",
   "/studio": "studio",
   "/interiors": "interiors",
+  "/sketch": "sketch",
 };

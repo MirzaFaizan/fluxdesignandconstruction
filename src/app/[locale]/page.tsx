@@ -4,6 +4,7 @@ import { HomeHero } from "@/components/home/home-hero";
 import { ProcessStepper } from "@/components/home/process-stepper";
 import { SelectedWork } from "@/components/home/selected-work";
 import { ServiceChips } from "@/components/home/service-chips";
+import { SketchCtaBand } from "@/components/home/sketch-cta-band";
 import { StickyWhatsApp } from "@/components/home/sticky-whatsapp";
 import { LocalBusinessJsonLd } from "@/components/seo/json-ld";
 import { isLocale, routing } from "@/i18n/routing";
@@ -42,6 +43,7 @@ export default async function HomePage({ params }: PageProps) {
       <main id="content" className="pb-16 md:pb-0">
         <HomeHero locale={locale} />
         <SelectedWork locale={locale} />
+        <SketchCtaBand />
         <DesignToSite locale={locale} />
         <ProcessStepper />
         <ServiceChips />
