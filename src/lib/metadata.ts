@@ -2,7 +2,18 @@ import { getPathname } from "@/i18n/navigation";
 import { routing, type Locale } from "@/i18n/routing";
 import type { Metadata } from "next";
 
-type AppPath = "/" | "/work" | "/houses" | "/interiors" | "/commercial" | "/build" | "/approvals" | "/studio" | "/contact" | "/privacy";
+type AppPath =
+  | "/"
+  | "/coming-soon"
+  | "/work"
+  | "/houses"
+  | "/interiors"
+  | "/commercial"
+  | "/build"
+  | "/approvals"
+  | "/studio"
+  | "/contact"
+  | "/privacy";
 
 export function languageAlternates(
   href: AppPath,

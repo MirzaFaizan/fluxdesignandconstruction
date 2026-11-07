@@ -35,6 +35,17 @@
     "viewWork": "View work",
     "photoPlane": "Project photography will sit here."
   },
+  "ComingSoon": {
+    "metaTitle": "Coming soon | FluX Design and Construction",
+    "metaDescription": "FluX Design and Construction — architecture, interiors, and construction in Islamabad and Rawalpindi. The studio site is being finished.",
+    "kicker": "Coming soon · Islamabad / Rawalpindi",
+    "h1": "Design it. Build it. In Islamabad and Rawalpindi.",
+    "sub": "Architecture, interiors, and construction in one contract — drawings that can be approved, and a site that matches them.",
+    "note": "The studio site is being finished. Send the plot size and society — we reply within one working day (PKT).",
+    "contactCta": "Send the plot for a first look",
+    "caption": "PGSHF · house · CGI",
+    "heroAlt": "Plot 586-A, PGSHF. CGI — a render, not a photograph. FluX Design and Construction."
+  },
   "Work": {
     "kicker": "Portfolio",
     "title": "Work",
