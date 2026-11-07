@@ -1,0 +1,39 @@
+{
+  "source": "Logo/Logo Alphabets.psd",
+  "psd_size": [
+    3106,
+    3108
+  ],
+  "lockup_px": [
+    2050,
+    2267
+  ],
+  "mark_px": [
+    2050,
+    2050
+  ],
+  "ring": {
+    "cx": 1025.0,
+    "cy": 1025.0,
+    "r": 985.5,
+    "stroke": 77.0,
+    "steelArcDeg": [
+      100.0,
+      270.0
+    ],
+    "charcoalArcDeg": [
+      280.0,
+      50.0
+    ]
+  },
+  "note": "PSD mark is raster-only. SVG ring is geometric; letters/tagline are traced. PNGs are resized from the PSD layer.",
+  "files": [
+    "flux-lockup.svg",
+    "flux-mark.svg",
+    "flux-lockup.png",
+    "favicon-512.png",
+    "favicon-256.png",
+    "favicon-32.png",
+    "apple-touch-180.png"
+  ]
+}

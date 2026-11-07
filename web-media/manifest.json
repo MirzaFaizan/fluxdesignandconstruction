@@ -1,0 +1,1204 @@
+{
+  "generatedAt": "2026-11-07T18:25:04.704Z",
+  "pipeline": "scripts/image-pipeline",
+  "quality": {
+    "avif": 75,
+    "webp": 88
+  },
+  "catalog": {
+    "imageFiles": 372,
+    "uniqueByMd5": 267,
+    "exactDuplicates": 105
+  },
+  "logo": {
+    "lockupSvg": "logo/flux-lockup.svg",
+    "markSvg": "logo/flux-mark.svg",
+    "lockupPng": "logo/flux-lockup.png",
+    "favicon512": "logo/favicon-512.png",
+    "favicon256": "logo/favicon-256.png",
+    "favicon32": "logo/favicon-32.png",
+    "appleTouch180": "logo/apple-touch-180.png"
+  },
+  "comparePairs": {
+    "586a": {
+      "id": "586a",
+      "cgi": "hero-khursheed-586a-dusk",
+      "site": "proof-586a-site"
+    },
+    "352c": {
+      "id": "352c",
+      "cgi": "proof-352c-cgi",
+      "site": "proof-352c-site"
+    },
+    "629d": {
+      "id": "629d",
+      "cgi": "proof-629d-cgi",
+      "site": "proof-629d-site"
+    },
+    "iftikhar": {
+      "id": "iftikhar",
+      "cgi": "proof-iftikhar-cgi",
+      "site": "proof-iftikhar-site"
+    },
+    "644a": {
+      "id": "644a",
+      "cgi": "proof-644a-cgi",
+      "site": "proof-644a-site"
+    }
+  },
+  "items": [
+    {
+      "id": "hero-iqbal-1-kanal-pgshf",
+      "roles": [
+        "hero"
+      ],
+      "folder": "heroes",
+      "src": "Architecture/Residential/Iqbal House 1 kanal Pgshf.png",
+      "maxWidth": 2400,
+      "priority": true,
+      "style": "modern",
+      "plot": "1 kanal",
+      "society": "PGSHF",
+      "caption": {
+        "en": "1-kanal house, PGSHF",
+        "ur": "1 کنال گھر، پی جی ایس ایچ ایف"
+      },
+      "source": {
+        "path": "Architecture/Residential/Iqbal House 1 kanal Pgshf.png",
+        "md5": "2d671c29b08f8537b500742eaa745704",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 2735692,
+        "copies": [
+          "Architecture/Residential/Iqbal House 1 kanal Pgshf (2).png",
+          "Architecture/Residential/Iqbal House 1 kanal Pgshf.png"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 1536,
+        "height": 1024,
+        "avif": "launch/heroes/hero-iqbal-1-kanal-pgshf.avif",
+        "webp": "launch/heroes/hero-iqbal-1-kanal-pgshf.webp",
+        "avifBytes": 333871,
+        "webpBytes": 427210
+      }
+    },
+    {
+      "id": "hero-courtyard-night",
+      "roles": [
+        "hero"
+      ],
+      "folder": "heroes",
+      "src": "Architecture/Residential/CourtYard Night View.jpeg",
+      "maxWidth": 2400,
+      "style": "modern",
+      "plot": null,
+      "society": null,
+      "caption": {
+        "en": "Courtyard at dusk",
+        "ur": "شام کے وقت صحن"
+      },
+      "source": {
+        "path": "Architecture/Residential/CourtYard Night View.jpeg",
+        "md5": "9866ee78101b5cfbd36099edf2981812",
+        "width": 1419,
+        "height": 736,
+        "bytes": 582344,
+        "copies": [
+          "Architecture/Residential/CourtYard Night View (2).jpeg",
+          "Architecture/Residential/CourtYard Night View.jpeg"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 1419,
+        "height": 736,
+        "avif": "launch/heroes/hero-courtyard-night.avif",
+        "webp": "launch/heroes/hero-courtyard-night.webp",
+        "avifBytes": 170013,
+        "webpBytes": 216720
+      }
+    },
+    {
+      "id": "hero-i16-5-marla",
+      "roles": [
+        "hero"
+      ],
+      "folder": "heroes",
+      "src": "Architecture/Residential/I16  (islamabad)5 Marla .png",
+      "maxWidth": 2400,
+      "style": "modern",
+      "plot": "5 marla",
+      "society": "I-16 Islamabad",
+      "caption": {
+        "en": "5 marla house, I-16 Islamabad",
+        "ur": "5 مرلہ گھر، آئی-16 اسلام آباد"
+      },
+      "source": {
+        "path": "Architecture/Residential/I16  (islamabad)5 Marla .png",
+        "md5": "a198b2ae3f1304fb0934868a0b108dcf",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 2718240,
+        "copies": [
+          "Architecture/Residential/I16  (islamabad)5 Marla  (2).png",
+          "Architecture/Residential/I16  (islamabad)5 Marla .png"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 1536,
+        "height": 1024,
+        "avif": "launch/heroes/hero-i16-5-marla.avif",
+        "webp": "launch/heroes/hero-i16-5-marla.webp",
+        "avifBytes": 316465,
+        "webpBytes": 397298
+      }
+    },
+    {
+      "id": "hero-annexy-1-kanal",
+      "roles": [
+        "hero"
+      ],
+      "folder": "heroes",
+      "src": "Architecture/Residential/1 kanal Annexy # mandibhudin.png",
+      "maxWidth": 2400,
+      "style": "classical",
+      "plot": "1 kanal",
+      "society": "Mandi Bahauddin",
+      "caption": {
+        "en": "1-kanal annex, Mandi Bahauddin",
+        "ur": "1 کنال اینیکس، منڈی بہاؤالدین"
+      },
+      "source": {
+        "path": "Architecture/Residential/1 kanal Annexy # mandibhudin.png",
+        "md5": "1a24900a5af0a3a1f0d131bcbc9cfd5a",
+        "width": 1652,
+        "height": 952,
+        "bytes": 2292882,
+        "copies": [
+          "Architecture/Residential/1 kanal Annexy # mandibhudin (4).png",
+          "Architecture/Residential/1 kanal Annexy # mandibhudin.png"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 1652,
+        "height": 952,
+        "avif": "launch/heroes/hero-annexy-1-kanal.avif",
+        "webp": "launch/heroes/hero-annexy-1-kanal.webp",
+        "avifBytes": 193391,
+        "webpBytes": 257660
+      }
+    },
+    {
+      "id": "hero-ahsan-aftab-10-marla",
+      "roles": [
+        "hero"
+      ],
+      "folder": "heroes",
+      "src": "Architecture/Residential/82 ,Ahsan Aftab ,10 Marla.png",
+      "maxWidth": 2400,
+      "style": "classical",
+      "plot": "10 marla",
+      "society": null,
+      "caption": {
+        "en": "10 marla classical house",
+        "ur": "10 مرلہ کلاسکل گھر"
+      },
+      "source": {
+        "path": "Architecture/Residential/82 ,Ahsan Aftab ,10 Marla.png",
+        "md5": "d83d516bfaac3bf14f18daab19d0f835",
+        "width": 1672,
+        "height": 941,
+        "bytes": 2293429,
+        "copies": [
+          "Architecture/Residential/82 ,Ahsan Aftab ,10 Marla (2).png",
+          "Architecture/Residential/82 ,Ahsan Aftab ,10 Marla.png"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 1672,
+        "height": 941,
+        "avif": "launch/heroes/hero-ahsan-aftab-10-marla.avif",
+        "webp": "launch/heroes/hero-ahsan-aftab-10-marla.webp",
+        "avifBytes": 205529,
+        "webpBytes": 270960
+      }
+    },
+    {
+      "id": "hero-khurram-10-marla",
+      "roles": [
+        "hero"
+      ],
+      "folder": "heroes",
+      "src": "Architecture/Residential/Client Khurram 10marla  Exterior Elevation.png",
+      "maxWidth": 2400,
+      "style": "modern",
+      "plot": "10 marla",
+      "society": null,
+      "caption": {
+        "en": "10 marla house, dusk",
+        "ur": "10 مرلہ گھر، شام"
+      },
+      "source": {
+        "path": "Architecture/Residential/Client Khurram 10marla  Exterior Elevation.png",
+        "md5": "c5a5ea790da789be47af770e1c5632e6",
+        "width": 1672,
+        "height": 941,
+        "bytes": 2374231,
+        "copies": [
+          "Architecture/Residential/Client Khurram 10marla  Exterior Elevation (2).png",
+          "Architecture/Residential/Client Khurram 10marla  Exterior Elevation.png"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 1672,
+        "height": 941,
+        "avif": "launch/heroes/hero-khurram-10-marla.avif",
+        "webp": "launch/heroes/hero-khurram-10-marla.webp",
+        "avifBytes": 208603,
+        "webpBytes": 282746
+      }
+    },
+    {
+      "id": "hero-zahid-5-marla-pgshf",
+      "roles": [
+        "hero"
+      ],
+      "folder": "heroes",
+      "src": "Architecture/Residential/Client Zahid 250 D, 5 marla  Pgshf.png",
+      "maxWidth": 2400,
+      "style": "modern",
+      "plot": "5 marla",
+      "society": "PGSHF",
+      "caption": {
+        "en": "5 marla house, PGSHF 250-D",
+        "ur": "5 مرلہ گھر، پی جی ایس ایچ ایف 250-ڈی"
+      },
+      "source": {
+        "path": "Architecture/Residential/Client Zahid 250 D, 5 marla  Pgshf.png",
+        "md5": "30285e60f76fa06d8ffd8381d73941b1",
+        "width": 1659,
+        "height": 948,
+        "bytes": 2483188,
+        "copies": [
+          "Architecture/Residential/Client Zahid 250 D, 5 marla  Pgshf (2).png",
+          "Architecture/Residential/Client Zahid 250 D, 5 marla  Pgshf.png"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 1659,
+        "height": 948,
+        "avif": "launch/heroes/hero-zahid-5-marla-pgshf.avif",
+        "webp": "launch/heroes/hero-zahid-5-marla-pgshf.webp",
+        "avifBytes": 254636,
+        "webpBytes": 346340
+      }
+    },
+    {
+      "id": "hero-khursheed-586a-dusk",
+      "roles": [
+        "hero",
+        "proof-cgi"
+      ],
+      "folder": "heroes",
+      "src": "Architecture/Residential/client Khursheed Plot # 586 A Pgshf .png",
+      "maxWidth": 2400,
+      "style": "modern",
+      "plot": "5–10 marla",
+      "society": "PGSHF",
+      "pair": "586a",
+      "kind": "cgi",
+      "caption": {
+        "en": "Plot 586-A, PGSHF — CGI",
+        "ur": "پلاٹ 586-اے، پی جی ایس ایچ ایف — سی جی آئی"
+      },
+      "source": {
+        "path": "Architecture/Residential/client Khursheed Plot # 586 A Pgshf .png",
+        "md5": "52bde18d5a545a306afc326cd769dee8",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 2761000,
+        "copies": [
+          "Architecture/Residential/client Khursheed Plot # 586 A Pgshf .png"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 1536,
+        "height": 1024,
+        "avif": "launch/heroes/hero-khursheed-586a-dusk.avif",
+        "webp": "launch/heroes/hero-khursheed-586a-dusk.webp",
+        "avifBytes": 331614,
+        "webpBytes": 436142
+      }
+    },
+    {
+      "id": "proof-352c-cgi",
+      "roles": [
+        "proof-cgi"
+      ],
+      "folder": "proof",
+      "src": "Construction/352 C(pgshf)/Render/X-352 C.png",
+      "maxWidth": 2400,
+      "pair": "352c",
+      "kind": "cgi",
+      "plot": null,
+      "society": "PGSHF",
+      "caption": {
+        "en": "Plot 352-C, PGSHF — CGI",
+        "ur": "پلاٹ 352-سی، پی جی ایس ایچ ایف — سی جی آئی"
+      },
+      "source": {
+        "path": "Construction/352 C(pgshf)/Render/X-352 C.png",
+        "md5": "ebb13fb422e7630f7342d53f92f25f18",
+        "width": 1677,
+        "height": 938,
+        "bytes": 2816923,
+        "copies": [
+          "Construction/352 C(pgshf)/Render/X-352 C.png"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 1677,
+        "height": 938,
+        "avif": "launch/proof/proof-352c-cgi.avif",
+        "webp": "launch/proof/proof-352c-cgi.webp",
+        "avifBytes": 331958,
+        "webpBytes": 418718
+      }
+    },
+    {
+      "id": "proof-352c-site",
+      "roles": [
+        "proof-site"
+      ],
+      "folder": "proof",
+      "src": "Construction/352 C(pgshf)/construction/1.png",
+      "maxEdge": 1200,
+      "pair": "352c",
+      "kind": "site",
+      "plot": null,
+      "society": "PGSHF",
+      "caption": {
+        "en": "Plot 352-C, PGSHF, Adyala Road — under construction",
+        "ur": "پلاٹ 352-سی، پی جی ایس ایچ ایف، اڈیالہ روڈ — زیر تعمیر"
+      },
+      "source": {
+        "path": "Construction/352 C(pgshf)/construction/1.png",
+        "md5": "c4f16a362aa3fee0e29a08bb9f89e0dd",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 2505582,
+        "copies": [
+          "Construction/352 C(pgshf)/construction/1.png"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 1200,
+        "height": 1200,
+        "avif": "launch/proof/proof-352c-site.avif",
+        "webp": "launch/proof/proof-352c-site.webp",
+        "avifBytes": 229575,
+        "webpBytes": 321680
+      }
+    },
+    {
+      "id": "proof-629d-cgi",
+      "roles": [
+        "proof-cgi"
+      ],
+      "folder": "proof",
+      "src": "Construction/629 D(pgshf)/Renders/629d (2).png",
+      "maxWidth": 2400,
+      "pair": "629d",
+      "kind": "cgi",
+      "society": "PGSHF",
+      "caption": {
+        "en": "Plot 629-D, PGSHF — CGI",
+        "ur": "پلاٹ 629-ڈی، پی جی ایس ایچ ایف — سی جی آئی"
+      },
+      "source": {
+        "path": "Construction/629 D(pgshf)/Renders/629d (2).png",
+        "md5": "b2105b05588d6766021b74de6b7128c8",
+        "width": 1466,
+        "height": 1073,
+        "bytes": 2485660,
+        "copies": [
+          "Construction/629 D(pgshf)/Renders/629d (2).png"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 1466,
+        "height": 1073,
+        "avif": "launch/proof/proof-629d-cgi.avif",
+        "webp": "launch/proof/proof-629d-cgi.webp",
+        "avifBytes": 224895,
+        "webpBytes": 320834
+      }
+    },
+    {
+      "id": "proof-629d-site",
+      "roles": [
+        "proof-site"
+      ],
+      "folder": "proof",
+      "src": "Construction/629 D(pgshf)/IMG_9923.jpg",
+      "maxEdge": 1800,
+      "pair": "629d",
+      "kind": "site",
+      "society": "PGSHF",
+      "caption": {
+        "en": "Plot 629-D, PGSHF — brickwork",
+        "ur": "پلاٹ 629-ڈی، پی جی ایس ایچ ایف — اینٹوں کا کام"
+      },
+      "source": {
+        "path": "Construction/629 D(pgshf)/IMG_9923.jpg",
+        "md5": "ce7b2a6d39a9ea80b0eee9446352d94a",
+        "width": 3024,
+        "height": 4032,
+        "bytes": 848935,
+        "copies": [
+          "Construction/629 D(pgshf)/IMG_9923.jpg"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 1350,
+        "height": 1800,
+        "avif": "launch/proof/proof-629d-site.avif",
+        "webp": "launch/proof/proof-629d-site.webp",
+        "avifBytes": 337525,
+        "webpBytes": 427180
+      }
+    },
+    {
+      "id": "proof-iftikhar-cgi",
+      "roles": [
+        "proof-cgi"
+      ],
+      "folder": "proof",
+      "src": "Construction/iftikhar(pgshf)/renders/1.1.png",
+      "maxWidth": 2400,
+      "pair": "iftikhar",
+      "kind": "cgi",
+      "society": "PGSHF",
+      "caption": {
+        "en": "Iftikhar house, PGSHF — CGI",
+        "ur": "افتخار ہاؤس، پی جی ایس ایچ ایف — سی جی آئی"
+      },
+      "source": {
+        "path": "Construction/iftikhar(pgshf)/renders/1.1.png",
+        "md5": "9fa590ac8c34d233bab9657239d01b1d",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 2913878,
+        "copies": [
+          "Construction/iftikhar(pgshf)/renders/1.1.png"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 1536,
+        "height": 1024,
+        "avif": "launch/proof/proof-iftikhar-cgi.avif",
+        "webp": "launch/proof/proof-iftikhar-cgi.webp",
+        "avifBytes": 308687,
+        "webpBytes": 387380
+      }
+    },
+    {
+      "id": "proof-iftikhar-site",
+      "roles": [
+        "proof-site"
+      ],
+      "folder": "proof",
+      "src": "Construction/iftikhar(pgshf)/construction/1.png",
+      "maxEdge": 1200,
+      "pair": "iftikhar",
+      "kind": "site",
+      "society": "PGSHF",
+      "caption": {
+        "en": "Iftikhar house, PGSHF — grey structure",
+        "ur": "افتخار ہاؤس، پی جی ایس ایچ ایف — گرے سٹرکچر"
+      },
+      "source": {
+        "path": "Construction/iftikhar(pgshf)/construction/1.png",
+        "md5": "e161d5a08ac950bfe3525eaa09b4bcc1",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 2987934,
+        "copies": [
+          "Construction/iftikhar(pgshf)/construction/1.png"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 1200,
+        "height": 1200,
+        "avif": "launch/proof/proof-iftikhar-site.avif",
+        "webp": "launch/proof/proof-iftikhar-site.webp",
+        "avifBytes": 349778,
+        "webpBytes": 441266
+      }
+    },
+    {
+      "id": "proof-644a-cgi",
+      "roles": [
+        "proof-cgi"
+      ],
+      "folder": "proof",
+      "src": "Construction/644A(pgshf)/render/kanal.png",
+      "maxWidth": 2400,
+      "pair": "644a",
+      "kind": "cgi",
+      "style": "classical",
+      "society": "PGSHF",
+      "caption": {
+        "en": "Plot 644-A, PGSHF — CGI",
+        "ur": "پلاٹ 644-اے، پی جی ایس ایچ ایف — سی جی آئی"
+      },
+      "source": {
+        "path": "Construction/644A(pgshf)/render/kanal.png",
+        "md5": "5d71eaafa8b7757f6d2c36396d083dcc",
+        "width": 1651,
+        "height": 953,
+        "bytes": 2678113,
+        "copies": [
+          "Construction/644A(pgshf)/render/kanal.png"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 1651,
+        "height": 953,
+        "avif": "launch/proof/proof-644a-cgi.avif",
+        "webp": "launch/proof/proof-644a-cgi.webp",
+        "avifBytes": 286963,
+        "webpBytes": 392118
+      }
+    },
+    {
+      "id": "proof-644a-site",
+      "roles": [
+        "proof-site"
+      ],
+      "folder": "proof",
+      "src": "Construction/644A(pgshf)/1.jpeg",
+      "maxEdge": 1800,
+      "pair": "644a",
+      "kind": "site",
+      "society": "PGSHF",
+      "caption": {
+        "en": "Plot 644-A, PGSHF — foundations",
+        "ur": "پلاٹ 644-اے، پی جی ایس ایچ ایف — بنیاد"
+      },
+      "source": {
+        "path": "Construction/644A(pgshf)/1.jpeg",
+        "md5": "e6a0cb17983d452b3d610a5d5ac836ed",
+        "width": 895,
+        "height": 1538,
+        "bytes": 155353,
+        "copies": [
+          "Construction/644A(pgshf)/1.jpeg"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 895,
+        "height": 1538,
+        "avif": "launch/proof/proof-644a-site.avif",
+        "webp": "launch/proof/proof-644a-site.webp",
+        "avifBytes": 108975,
+        "webpBytes": 142070
+      }
+    },
+    {
+      "id": "proof-586a-site",
+      "roles": [
+        "proof-site"
+      ],
+      "folder": "proof",
+      "src": "Construction/586 A (pgshf)/586A    (1).jpg",
+      "maxEdge": 1800,
+      "pair": "586a",
+      "kind": "site",
+      "society": "PGSHF",
+      "caption": {
+        "en": "Plot 586-A, PGSHF — on site",
+        "ur": "پلاٹ 586-اے، پی جی ایس ایچ ایف — سائٹ پر"
+      },
+      "source": {
+        "path": "Construction/586 A (pgshf)/586A    (1).jpg",
+        "md5": "c5c216b097350d512fe233b33ed3ebb3",
+        "width": 1280,
+        "height": 960,
+        "bytes": 172953,
+        "copies": [
+          "Construction/586 A (pgshf)/586A    (1).jpg"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 1280,
+        "height": 960,
+        "avif": "launch/proof/proof-586a-site.avif",
+        "webp": "launch/proof/proof-586a-site.webp",
+        "avifBytes": 160028,
+        "webpBytes": 221328
+      }
+    },
+    {
+      "id": "proof-gulberg-green-site",
+      "roles": [
+        "proof-site"
+      ],
+      "folder": "proof",
+      "src": "Construction/Gulberg Green/construction/1.png",
+      "maxEdge": 1200,
+      "pair": null,
+      "kind": "site",
+      "society": "Gulberg Green",
+      "caption": {
+        "en": "Gulberg Green — under construction",
+        "ur": "گلبرگ گرین — زیر تعمیر"
+      },
+      "source": {
+        "path": "Construction/Gulberg Green/construction/1.png",
+        "md5": "f72c801b10de8d1bd9f8b1085b573d16",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 2610874,
+        "copies": [
+          "Construction/Gulberg Green/construction/1.png"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 1200,
+        "height": 1200,
+        "avif": "launch/proof/proof-gulberg-green-site.avif",
+        "webp": "launch/proof/proof-gulberg-green-site.webp",
+        "avifBytes": 285696,
+        "webpBytes": 373226
+      }
+    },
+    {
+      "id": "proof-dha-iii-pour",
+      "roles": [
+        "proof-site"
+      ],
+      "folder": "proof",
+      "src": "Construction/DHA III/1.jpg",
+      "maxEdge": 1200,
+      "pair": null,
+      "kind": "site",
+      "society": "DHA III",
+      "caption": {
+        "en": "DHA III, Plot 3 Sector A — pouring",
+        "ur": "ڈی ایچ اے 3، پلاٹ 3 سیکٹر اے — کنکریٹ"
+      },
+      "source": {
+        "path": "Construction/DHA III/1.jpg",
+        "md5": "2efe9ab05879ebeea34559e97caa50a6",
+        "width": 2592,
+        "height": 2592,
+        "bytes": 779308,
+        "copies": [
+          "Construction/DHA III/1.jpg"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 1200,
+        "height": 1200,
+        "avif": "launch/proof/proof-dha-iii-pour.avif",
+        "webp": "launch/proof/proof-dha-iii-pour.webp",
+        "avifBytes": 367966,
+        "webpBytes": 466562
+      }
+    },
+    {
+      "id": "interior-park-view-kitchen",
+      "roles": [
+        "interior"
+      ],
+      "folder": "interiors",
+      "src": "Interior/Park View City (Islamabad)/Kitchen/Kitchen 01.jpg",
+      "maxWidth": 2400,
+      "room": "kitchen",
+      "society": "Park View City",
+      "city": "Islamabad",
+      "caption": {
+        "en": "Kitchen, Park View City Islamabad",
+        "ur": "باورچی خانہ، پارک ویو سٹی اسلام آباد"
+      },
+      "source": {
+        "path": "Interior/Park View City (Islamabad)/Kitchen/Kitchen 01.jpg",
+        "md5": "e29d5fef2727a606f6e2c5cfe00655bf",
+        "width": 3840,
+        "height": 2160,
+        "bytes": 3903731,
+        "copies": [
+          "Interior/Park View City (Islamabad)/Kitchen/Kitchen 01.jpg"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 2400,
+        "height": 1350,
+        "avif": "launch/interiors/interior-park-view-kitchen.avif",
+        "webp": "launch/interiors/interior-park-view-kitchen.webp",
+        "avifBytes": 119598,
+        "webpBytes": 196552
+      }
+    },
+    {
+      "id": "interior-park-view-drawing",
+      "roles": [
+        "interior"
+      ],
+      "folder": "interiors",
+      "src": "Interior/Park View City (Islamabad)/Lounge and Drawing room/Drawing room 01.jpg",
+      "maxWidth": 2400,
+      "room": "lounge",
+      "society": "Park View City",
+      "city": "Islamabad",
+      "caption": {
+        "en": "Drawing room, Park View City Islamabad",
+        "ur": "ڈرائنگ روم، پارک ویو سٹی اسلام آباد"
+      },
+      "source": {
+        "path": "Interior/Park View City (Islamabad)/Lounge and Drawing room/Drawing room 01.jpg",
+        "md5": "b1d83c644ceeafa924c4686661b2c9ca",
+        "width": 3840,
+        "height": 2160,
+        "bytes": 4610362,
+        "copies": [
+          "Interior/Park View City (Islamabad)/Lounge and Drawing room/Drawing room 01.jpg"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 2400,
+        "height": 1350,
+        "avif": "launch/interiors/interior-park-view-drawing.avif",
+        "webp": "launch/interiors/interior-park-view-drawing.webp",
+        "avifBytes": 206356,
+        "webpBytes": 300692
+      }
+    },
+    {
+      "id": "interior-attock-tv-wall",
+      "roles": [
+        "interior"
+      ],
+      "folder": "interiors",
+      "src": "Interior/Attock interior/ATTOCK INTERIOR 01.jpg",
+      "maxWidth": 2400,
+      "room": "tv-lounge",
+      "city": "Attock",
+      "caption": {
+        "en": "TV lounge, Attock",
+        "ur": "ٹی وی لاؤنج، اٹک"
+      },
+      "source": {
+        "path": "Interior/Attock interior/ATTOCK INTERIOR 01.jpg",
+        "md5": "beab04dc4636b1fc28fa19b5b602d2ce",
+        "width": 3840,
+        "height": 2160,
+        "bytes": 3970751,
+        "copies": [
+          "Interior/Attock interior/ATTOCK INTERIOR 01 (2).jpg",
+          "Interior/Attock interior/ATTOCK INTERIOR 01.jpg"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 2400,
+        "height": 1350,
+        "avif": "launch/interiors/interior-attock-tv-wall.avif",
+        "webp": "launch/interiors/interior-attock-tv-wall.webp",
+        "avifBytes": 164081,
+        "webpBytes": 260424
+      }
+    },
+    {
+      "id": "interior-attock-drawing",
+      "roles": [
+        "interior"
+      ],
+      "folder": "interiors",
+      "src": "Interior/Attock interior/Drawing room 01.jpg",
+      "maxWidth": 2400,
+      "room": "lounge",
+      "city": "Attock",
+      "caption": {
+        "en": "Drawing room, Attock",
+        "ur": "ڈرائنگ روم، اٹک"
+      },
+      "source": {
+        "path": "Interior/Attock interior/Drawing room 01.jpg",
+        "md5": "764b7372ecea5530ee9b99e2649a3e55",
+        "width": 3840,
+        "height": 2160,
+        "bytes": 4321168,
+        "copies": [
+          "Interior/Attock interior/Drawing room 01.jpg"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 2400,
+        "height": 1350,
+        "avif": "launch/interiors/interior-attock-drawing.avif",
+        "webp": "launch/interiors/interior-attock-drawing.webp",
+        "avifBytes": 205858,
+        "webpBytes": 300414
+      }
+    },
+    {
+      "id": "interior-mansehra-kitchen",
+      "roles": [
+        "interior"
+      ],
+      "folder": "interiors",
+      "src": "Interior/Mansehra/Kitchen/Kitchen 01.jpg",
+      "maxWidth": 2400,
+      "room": "kitchen",
+      "city": "Mansehra",
+      "caption": {
+        "en": "Kitchen, Mansehra",
+        "ur": "باورچی خانہ، مانسہرہ"
+      },
+      "source": {
+        "path": "Interior/Mansehra/Kitchen/Kitchen 01.jpg",
+        "md5": "633a253939ef49c16479e2ffeeb657b2",
+        "width": 3840,
+        "height": 2160,
+        "bytes": 4427082,
+        "copies": [
+          "Interior/Mansehra/Kitchen/Kitchen 01.jpg"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 2400,
+        "height": 1350,
+        "avif": "launch/interiors/interior-mansehra-kitchen.avif",
+        "webp": "launch/interiors/interior-mansehra-kitchen.webp",
+        "avifBytes": 166174,
+        "webpBytes": 270130
+      }
+    },
+    {
+      "id": "interior-mansehra-lounge",
+      "roles": [
+        "interior"
+      ],
+      "folder": "interiors",
+      "src": "Interior/Mansehra/Drawing , Lounge & Stairwall/Lounge 02.jpg",
+      "maxWidth": 2400,
+      "room": "lounge",
+      "city": "Mansehra",
+      "caption": {
+        "en": "Lounge, Mansehra",
+        "ur": "لاؤنج، مانسہرہ"
+      },
+      "source": {
+        "path": "Interior/Mansehra/Drawing , Lounge & Stairwall/Lounge 02.jpg",
+        "md5": "aebe2e623a16f0ccddc7cedbcbb060a1",
+        "width": 3840,
+        "height": 2160,
+        "bytes": 5579653,
+        "copies": [
+          "Interior/Mansehra/Drawing , Lounge & Stairwall/Lounge 02.jpg"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 2400,
+        "height": 1350,
+        "avif": "launch/interiors/interior-mansehra-lounge.avif",
+        "webp": "launch/interiors/interior-mansehra-lounge.webp",
+        "avifBytes": 369610,
+        "webpBytes": 491582
+      }
+    },
+    {
+      "id": "interior-bath-g",
+      "roles": [
+        "interior"
+      ],
+      "folder": "interiors",
+      "src": "Interior/bathroom/Bath G 2.jpg",
+      "maxWidth": 2400,
+      "room": "bath",
+      "caption": {
+        "en": "Bathroom",
+        "ur": "باتھ روم"
+      },
+      "source": {
+        "path": "Interior/bathroom/Bath G 2.jpg",
+        "md5": "11386d32cc63da1101e4a438290421d5",
+        "width": 2485,
+        "height": 2160,
+        "bytes": 942845,
+        "copies": [
+          "Interior/bathroom/Bath G 2.jpg"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 2400,
+        "height": 2086,
+        "avif": "launch/interiors/interior-bath-g.avif",
+        "webp": "launch/interiors/interior-bath-g.webp",
+        "avifBytes": 342566,
+        "webpBytes": 476652
+      }
+    },
+    {
+      "id": "interior-luxury-kitchen",
+      "roles": [
+        "interior"
+      ],
+      "folder": "interiors",
+      "src": "Interior/Kitchen/Luxury Kitchen  (1).jpg",
+      "maxWidth": 2400,
+      "room": "kitchen",
+      "caption": {
+        "en": "Kitchen",
+        "ur": "باورچی خانہ"
+      },
+      "source": {
+        "path": "Interior/Kitchen/Luxury Kitchen  (1).jpg",
+        "md5": "dd541803a599a35bc2572f8cc4c713ca",
+        "width": 3500,
+        "height": 2350,
+        "bytes": 3838174,
+        "copies": [
+          "Interior/Kitchen/Luxury Kitchen  (1).jpg",
+          "Interior/Kitchen/Luxury Kitchen  (3).jpg"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 2399,
+        "height": 1611,
+        "avif": "launch/interiors/interior-luxury-kitchen.avif",
+        "webp": "launch/interiors/interior-luxury-kitchen.webp",
+        "avifBytes": 95934,
+        "webpBytes": 172700
+      }
+    },
+    {
+      "id": "commercial-omoda-jaecoo",
+      "roles": [
+        "commercial"
+      ],
+      "folder": "commercial",
+      "src": "Architecture/comercial design/OMODA JAECOO Showroom.png",
+      "maxWidth": 2400,
+      "caption": {
+        "en": "OMODA / JAECOO showroom",
+        "ur": "اوموڈا / جیکو شوروم"
+      },
+      "source": {
+        "path": "Architecture/comercial design/OMODA JAECOO Showroom.png",
+        "md5": "7c60a4f2b6c44429e3883f44a1522c2e",
+        "width": 1682,
+        "height": 935,
+        "bytes": 2755248,
+        "copies": [
+          "Architecture/comercial design/OMODA JAECOO Showroom.png"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 1682,
+        "height": 935,
+        "avif": "launch/commercial/commercial-omoda-jaecoo.avif",
+        "webp": "launch/commercial/commercial-omoda-jaecoo.webp",
+        "avifBytes": 325009,
+        "webpBytes": 432934
+      }
+    },
+    {
+      "id": "commercial-peshawari-dry-fruits",
+      "roles": [
+        "commercial"
+      ],
+      "folder": "commercial",
+      "src": "Architecture/comercial design/dry fruit shop (1).png",
+      "maxEdge": 1200,
+      "caption": {
+        "en": "Peshawari Dry Fruits shop",
+        "ur": "پشاوری ڈرائی فروٹس شاپ"
+      },
+      "source": {
+        "path": "Architecture/comercial design/dry fruit shop (1).png",
+        "md5": "9356763ae353a02971f090f9a03bedb0",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 2476708,
+        "copies": [
+          "Architecture/comercial design/dry fruit shop (1).png",
+          "Architecture/comercial design/dry fruit shop (5).png"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 1200,
+        "height": 1200,
+        "avif": "launch/commercial/commercial-peshawari-dry-fruits.avif",
+        "webp": "launch/commercial/commercial-peshawari-dry-fruits.webp",
+        "avifBytes": 226085,
+        "webpBytes": 309162
+      }
+    },
+    {
+      "id": "commercial-janhzab-office",
+      "roles": [
+        "commercial"
+      ],
+      "folder": "commercial",
+      "src": "Architecture/comercial design/janhzab office 05.jpg",
+      "maxWidth": 2400,
+      "caption": {
+        "en": "Office interior",
+        "ur": "دفتر"
+      },
+      "source": {
+        "path": "Architecture/comercial design/janhzab office 05.jpg",
+        "md5": "c91b0bf6c3bd5f8604f57ac6ed27c4f8",
+        "width": 2460,
+        "height": 2040,
+        "bytes": 4327898,
+        "copies": [
+          "Architecture/comercial design/janhzab office 05 (2).jpg",
+          "Architecture/comercial design/janhzab office 05.jpg"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 2400,
+        "height": 1990,
+        "avif": "launch/commercial/commercial-janhzab-office.avif",
+        "webp": "launch/commercial/commercial-janhzab-office.webp",
+        "avifBytes": 784081,
+        "webpBytes": 1022924
+      }
+    },
+    {
+      "id": "commercial-gulshan-e-shamal",
+      "roles": [
+        "commercial"
+      ],
+      "folder": "commercial",
+      "src": "Architecture/comercial design/Multi Residence Gulshan E shamal Residences (1) kanal.png",
+      "maxWidth": 2400,
+      "plot": "1 kanal",
+      "caption": {
+        "en": "Gulshan-e-Shamal mixed-use, 1 kanal",
+        "ur": "گلشن شمال مخلوط استعمال، 1 کنال"
+      },
+      "source": {
+        "path": "Architecture/comercial design/Multi Residence Gulshan E shamal Residences (1) kanal.png",
+        "md5": "b2e751667c20a8ad40483856958d67f6",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 2106250,
+        "copies": [
+          "Architecture/comercial design/Multi Residence Gulshan E shamal Residences (1) kanal (2).png",
+          "Architecture/comercial design/Multi Residence Gulshan E shamal Residences (1) kanal.png"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 1536,
+        "height": 1024,
+        "avif": "launch/commercial/commercial-gulshan-e-shamal.avif",
+        "webp": "launch/commercial/commercial-gulshan-e-shamal.webp",
+        "avifBytes": 163313,
+        "webpBytes": 218498
+      }
+    },
+    {
+      "id": "landscape-waseem-garden",
+      "roles": [
+        "landscape"
+      ],
+      "folder": "landscape",
+      "src": "Landscape/Waseem Landscape (3).png",
+      "maxWidth": 2400,
+      "project": "Mr Waseem",
+      "caption": {
+        "en": "Mr Waseem — garden, pergola, fountain",
+        "ur": "مسٹر وسیم — باغ، پرگولا، فوارہ"
+      },
+      "source": {
+        "path": "Landscape/Waseem Landscape (3).png",
+        "md5": "1d43ce3c5a56cde601a662dc254f69c1",
+        "width": 1672,
+        "height": 941,
+        "bytes": 3048815,
+        "copies": [
+          "Landscape/Waseem Landscape (3).png",
+          "Landscape/Waseem Landscape (8).png"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 1672,
+        "height": 941,
+        "avif": "launch/landscape/landscape-waseem-garden.avif",
+        "webp": "launch/landscape/landscape-waseem-garden.webp",
+        "avifBytes": 402762,
+        "webpBytes": 511910
+      }
+    },
+    {
+      "id": "landscape-waseem-fountain",
+      "roles": [
+        "landscape"
+      ],
+      "folder": "landscape",
+      "src": "Landscape/Waseem Landscape 9 (1).png",
+      "maxWidth": 2400,
+      "project": "Mr Waseem",
+      "caption": {
+        "en": "Mr Waseem — circular fountain",
+        "ur": "مسٹر وسیم — گول فوارہ"
+      },
+      "source": {
+        "path": "Landscape/Waseem Landscape 9 (1).png",
+        "md5": "9bb0de01e0c945a2efd713ad153f467e",
+        "width": 1672,
+        "height": 940,
+        "bytes": 2776339,
+        "copies": [
+          "Landscape/Waseem Landscape 9 (1).png",
+          "Landscape/Waseem Landscape 9 (3).png"
+        ]
+      },
+      "flattenAccidentalAlpha": false,
+      "derived": {
+        "width": 1672,
+        "height": 940,
+        "avif": "launch/landscape/landscape-waseem-fountain.avif",
+        "webp": "launch/landscape/landscape-waseem-fountain.webp",
+        "avifBytes": 330386,
+        "webpBytes": 429256
+      }
+    }
+  ]
+}

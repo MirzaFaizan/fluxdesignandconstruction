@@ -1,0 +1,3852 @@
+{
+  "root": "/Users/faizanejaz/Desktop/personal/fluxdesignandconstruction",
+  "scannedAt": "2026-11-07T18:24:22.571Z",
+  "imageFiles": 372,
+  "uniqueByMd5": 267,
+  "exactDuplicates": 105,
+  "files": [
+    {
+      "path": "Architecture/comercial design/COLLEGE Proposal 2ND RENDER 01 .png",
+      "bytes": 2415912,
+      "md5": "0f735192e5f5a06e9138c8dc786f7425",
+      "ext": ".png",
+      "width": 1696,
+      "height": 927,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/comercial design/COLLEGE Proposal 2ND RENDER 01  (2).png",
+        "Architecture/comercial design/COLLEGE Proposal 2ND RENDER 01 .png"
+      ]
+    },
+    {
+      "path": "Architecture/comercial design/COLLEGE Proposal 2ND RENDER 02 .png",
+      "bytes": 2632856,
+      "md5": "10eb92d324e1d22b4768eb390d1ea9c5",
+      "ext": ".png",
+      "width": 1649,
+      "height": 954,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/comercial design/COLLEGE Proposal 2ND RENDER 02  (2).png",
+        "Architecture/comercial design/COLLEGE Proposal 2ND RENDER 02 .png"
+      ]
+    },
+    {
+      "path": "Architecture/comercial design/COLLEGE Proposal 2ND RENDER 03 .png",
+      "bytes": 2794123,
+      "md5": "f25e18dd098515f0b3b7273700a64118",
+      "ext": ".png",
+      "width": 1696,
+      "height": 927,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/comercial design/COLLEGE Proposal 2ND RENDER 03  (2).png",
+        "Architecture/comercial design/COLLEGE Proposal 2ND RENDER 03 .png"
+      ]
+    },
+    {
+      "path": "Architecture/comercial design/dry fruit shop (1).png",
+      "bytes": 2476708,
+      "md5": "9356763ae353a02971f090f9a03bedb0",
+      "ext": ".png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/comercial design/dry fruit shop (1).png",
+        "Architecture/comercial design/dry fruit shop (5).png"
+      ]
+    },
+    {
+      "path": "Architecture/comercial design/dry fruit shop (2).png",
+      "bytes": 2570601,
+      "md5": "4d1efdc341abecee4eade588d055913a",
+      "ext": ".png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/comercial design/dry fruit shop (2).png",
+        "Architecture/comercial design/dry fruit shop (6).png"
+      ]
+    },
+    {
+      "path": "Architecture/comercial design/dry fruit shop (3).png",
+      "bytes": 2545607,
+      "md5": "00942f729888b0bc9ba33d8b735c1eb1",
+      "ext": ".png",
+      "width": 1171,
+      "height": 1343,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/comercial design/dry fruit shop (3).png",
+        "Architecture/comercial design/dry fruit shop (7).png"
+      ]
+    },
+    {
+      "path": "Architecture/comercial design/dry fruit shop (4).png",
+      "bytes": 2464351,
+      "md5": "44397647f4648277e662017b008d9930",
+      "ext": ".png",
+      "width": 1106,
+      "height": 1422,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/comercial design/dry fruit shop (4).png",
+        "Architecture/comercial design/dry fruit shop (8).png"
+      ]
+    },
+    {
+      "path": "Architecture/comercial design/janhzab office 05.jpg",
+      "bytes": 4327898,
+      "md5": "c91b0bf6c3bd5f8604f57ac6ed27c4f8",
+      "ext": ".jpg",
+      "width": 2460,
+      "height": 2040,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/comercial design/janhzab office 05 (2).jpg",
+        "Architecture/comercial design/janhzab office 05.jpg"
+      ]
+    },
+    {
+      "path": "Architecture/comercial design/Multi Residence Gulshan E shamal Residences (1) kanal.png",
+      "bytes": 2106250,
+      "md5": "b2e751667c20a8ad40483856958d67f6",
+      "ext": ".png",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/comercial design/Multi Residence Gulshan E shamal Residences (1) kanal (2).png",
+        "Architecture/comercial design/Multi Residence Gulshan E shamal Residences (1) kanal.png"
+      ]
+    },
+    {
+      "path": "Architecture/comercial design/Multi Residence Gulshan E shamal Residences (2).png",
+      "bytes": 2476304,
+      "md5": "25956ff4024b38aad38099d34b0e37d4",
+      "ext": ".png",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/comercial design/Multi Residence Gulshan E shamal Residences (2).png",
+        "Architecture/comercial design/Multi Residence Gulshan E shamal Residences (4).png"
+      ]
+    },
+    {
+      "path": "Architecture/comercial design/Multi Residence Gulshan E shamal Residences (3).png",
+      "bytes": 1932512,
+      "md5": "da12ec1d1a39caf718113b118034f1f2",
+      "ext": ".png",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/comercial design/Multi Residence Gulshan E shamal Residences (3).png",
+        "Architecture/comercial design/Multi Residence Gulshan E shamal Residences (5).png"
+      ]
+    },
+    {
+      "path": "Architecture/comercial design/OMODA JAECOO Showroom (1).png",
+      "bytes": 2881079,
+      "md5": "1e63036ab3c41c8e2f81afc28c624c99",
+      "ext": ".png",
+      "width": 1683,
+      "height": 935,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/comercial design/OMODA JAECOO Showroom (1).png"
+      ]
+    },
+    {
+      "path": "Architecture/comercial design/OMODA JAECOO Showroom (2).png",
+      "bytes": 2926703,
+      "md5": "84a0bfa889122b67137e12bd523cf82d",
+      "ext": ".png",
+      "width": 1682,
+      "height": 935,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/comercial design/OMODA JAECOO Showroom (2).png"
+      ]
+    },
+    {
+      "path": "Architecture/comercial design/OMODA JAECOO Showroom (3).png",
+      "bytes": 2790287,
+      "md5": "136e50c96e1de8138a3f17433630de27",
+      "ext": ".png",
+      "width": 1683,
+      "height": 935,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/comercial design/OMODA JAECOO Showroom (3).png"
+      ]
+    },
+    {
+      "path": "Architecture/comercial design/OMODA JAECOO Showroom.png",
+      "bytes": 2755248,
+      "md5": "7c60a4f2b6c44429e3883f44a1522c2e",
+      "ext": ".png",
+      "width": 1682,
+      "height": 935,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/comercial design/OMODA JAECOO Showroom.png"
+      ]
+    },
+    {
+      "path": "Architecture/comercial design/Sindh house  (1).png",
+      "bytes": 2741672,
+      "md5": "602aa17e271239ff7b048f5851184159",
+      "ext": ".png",
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/comercial design/Sindh house  (1).png",
+        "Architecture/comercial design/Sindh house  (7).png"
+      ]
+    },
+    {
+      "path": "Architecture/comercial design/Sindh house  (2).png",
+      "bytes": 3209343,
+      "md5": "78528f187987d5f47f1cce59ff1497d1",
+      "ext": ".png",
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/comercial design/Sindh house  (2).png",
+        "Architecture/comercial design/Sindh house  (8).png"
+      ]
+    },
+    {
+      "path": "Architecture/comercial design/Sindh house  (3).png",
+      "bytes": 3155465,
+      "md5": "aebc9f05bb33576e8c5d224263b41435",
+      "ext": ".png",
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/comercial design/Sindh house  (3).png",
+        "Architecture/comercial design/Sindh house  (9).png"
+      ]
+    },
+    {
+      "path": "Architecture/comercial design/Sindh house  (4).png",
+      "bytes": 3112088,
+      "md5": "333974ef79bc56aec85c441883a45c0d",
+      "ext": ".png",
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/comercial design/Sindh house  (10).png",
+        "Architecture/comercial design/Sindh house  (4).png"
+      ]
+    },
+    {
+      "path": "Architecture/comercial design/Sindh house  (5).png",
+      "bytes": 2793962,
+      "md5": "8dee5529c86200ba9bf9994f46874067",
+      "ext": ".png",
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/comercial design/Sindh house  (11).png",
+        "Architecture/comercial design/Sindh house  (5).png"
+      ]
+    },
+    {
+      "path": "Architecture/comercial design/Sindh house  (6).png",
+      "bytes": 3127854,
+      "md5": "5c4a01112a8da88d3dfd515f18748b03",
+      "ext": ".png",
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/comercial design/Sindh house  (12).png",
+        "Architecture/comercial design/Sindh house  (6).png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/1 kanal Annexy # mandibhudin (2).png",
+      "bytes": 2321031,
+      "md5": "98990758fffe576450a4b481bc081104",
+      "ext": ".png",
+      "width": 1652,
+      "height": 952,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/1 kanal Annexy # mandibhudin (2).png",
+        "Architecture/Residential/1 kanal Annexy # mandibhudin (3).png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/1 kanal Annexy # mandibhudin.png",
+      "bytes": 2292882,
+      "md5": "1a24900a5af0a3a1f0d131bcbc9cfd5a",
+      "ext": ".png",
+      "width": 1652,
+      "height": 952,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/1 kanal Annexy # mandibhudin (4).png",
+        "Architecture/Residential/1 kanal Annexy # mandibhudin.png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/105C 7 marla client Tariq Mughal .png",
+      "bytes": 2279171,
+      "md5": "dcf049e7bcdb086a19ae65c8518726cc",
+      "ext": ".png",
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/105C 7 marla client Tariq Mughal  (2).png",
+        "Architecture/Residential/105C 7 marla client Tariq Mughal .png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/296 Top City (1).jpg.png",
+      "bytes": 2646559,
+      "md5": "3d660bc7e76210c504cf0234eee55f9f",
+      "ext": ".png",
+      "width": 1493,
+      "height": 1054,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/296 Top City (1).jpg (2).png",
+        "Architecture/Residential/296 Top City (1).jpg.png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/296 Top City (2).jpg.png",
+      "bytes": 2489473,
+      "md5": "97926706e1a458c84b9460a798d257f6",
+      "ext": ".png",
+      "width": 1492,
+      "height": 1054,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/296 Top City (2).jpg (2).png",
+        "Architecture/Residential/296 Top City (2).jpg.png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/343 D pgshf  5 marla (2).png",
+      "bytes": 2125747,
+      "md5": "97b0ce9c08e57a73861215b668eafcea",
+      "ext": ".png",
+      "width": 1653,
+      "height": 952,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/343 D pgshf  5 marla (2).png",
+        "Architecture/Residential/343 D pgshf  5 marla (3).png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/452 C pgshf .png",
+      "bytes": 2717162,
+      "md5": "d471fc94dfcfbbbbe25caf5005ede70c",
+      "ext": ".png",
+      "width": 1677,
+      "height": 938,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/452 C pgshf  (2).png",
+        "Architecture/Residential/452 C pgshf .png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/82 ,Ahsan Aftab ,10 Marla.png",
+      "bytes": 2293429,
+      "md5": "d83d516bfaac3bf14f18daab19d0f835",
+      "ext": ".png",
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/82 ,Ahsan Aftab ,10 Marla (2).png",
+        "Architecture/Residential/82 ,Ahsan Aftab ,10 Marla.png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/ahmed muktar.png",
+      "bytes": 2528279,
+      "md5": "1c6159aa5fcb70a12050a5a6da085e74",
+      "ext": ".png",
+      "width": 1699,
+      "height": 926,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/ahmed muktar (2).png",
+        "Architecture/Residential/ahmed muktar.png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/bhawalpur residence render 1.png",
+      "bytes": 2491347,
+      "md5": "14f7c8c9541923e9f2e82a866073b4b9",
+      "ext": ".png",
+      "width": 1650,
+      "height": 953,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/bhawalpur residence render 1 (2).png",
+        "Architecture/Residential/bhawalpur residence render 1.png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/client . Ahmed mukhtar .png",
+      "bytes": 2144391,
+      "md5": "974247fb0c63e6a1bdc70e45cca671f9",
+      "ext": ".png",
+      "width": 1698,
+      "height": 926,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/client . Ahmed mukhtar  (2).png",
+        "Architecture/Residential/client . Ahmed mukhtar .png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/client .FAIZAN Plot# 162(2).png",
+      "bytes": 2232377,
+      "md5": "1485017694912dc1d5ab70d5c2a5db56",
+      "ext": ".png",
+      "width": 1539,
+      "height": 1022,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/client .FAIZAN Plot# 162(2) (2).png",
+        "Architecture/Residential/client .FAIZAN Plot# 162(2).png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/client .FAIZAN Plot# 162(3).png",
+      "bytes": 2473113,
+      "md5": "be06749c68e6810b17344fd7296189a3",
+      "ext": ".png",
+      "width": 1555,
+      "height": 1012,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/client .FAIZAN Plot# 162(3) (2).png",
+        "Architecture/Residential/client .FAIZAN Plot# 162(3).png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/Client Khurram 10marla  Exterior Elevation.png",
+      "bytes": 2374231,
+      "md5": "c5a5ea790da789be47af770e1c5632e6",
+      "ext": ".png",
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/Client Khurram 10marla  Exterior Elevation (2).png",
+        "Architecture/Residential/Client Khurram 10marla  Exterior Elevation.png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/client Khursheed Plot # 586 A Pgshf  (2).png",
+      "bytes": 2952728,
+      "md5": "387854d48da80b91035165ef951447c5",
+      "ext": ".png",
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/client Khursheed Plot # 586 A Pgshf  (2).png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/client Khursheed Plot # 586 A Pgshf  (3).png",
+      "bytes": 2912411,
+      "md5": "464868e4e149d83a52c8eb22db148bfc",
+      "ext": ".png",
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/client Khursheed Plot # 586 A Pgshf  (3).png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/client Khursheed Plot # 586 A Pgshf .png",
+      "bytes": 2761000,
+      "md5": "52bde18d5a545a306afc326cd769dee8",
+      "ext": ".png",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/client Khursheed Plot # 586 A Pgshf .png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/Client Zahid 250 D, 5 marla  Pgshf.png",
+      "bytes": 2483188,
+      "md5": "30285e60f76fa06d8ffd8381d73941b1",
+      "ext": ".png",
+      "width": 1659,
+      "height": 948,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/Client Zahid 250 D, 5 marla  Pgshf (2).png",
+        "Architecture/Residential/Client Zahid 250 D, 5 marla  Pgshf.png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/client. Hammad khan  # Miawali Residence (2).png",
+      "bytes": 2387463,
+      "md5": "78bf4b07bb3d5733c2fb5fbadc3d90eb",
+      "ext": ".png",
+      "width": 1650,
+      "height": 953,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/client. Hammad khan  # Miawali Residence (2).png",
+        "Architecture/Residential/client. Hammad khan  # Miawali Residence (3).png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/client. Jehanzaib 268 B Pgshf 10 marla  .png",
+      "bytes": 2297732,
+      "md5": "e27e47ecef90467e52d2b42bd8d9e77d",
+      "ext": ".png",
+      "width": 1651,
+      "height": 953,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/client. Jehanzaib 268 B Pgshf 10 marla   (2).png",
+        "Architecture/Residential/client. Jehanzaib 268 B Pgshf 10 marla  .png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/client. Khurram shehzad  plot #482B Pgshf,10 marla.png",
+      "bytes": 2383118,
+      "md5": "4724b6ad36f9cbcf9a163dd45622cc4e",
+      "ext": ".png",
+      "width": 1652,
+      "height": 952,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/client. Khurram shehzad  plot #482B Pgshf,10 marla (2).png",
+        "Architecture/Residential/client. Khurram shehzad  plot #482B Pgshf,10 marla.png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/Client. Khurshid plot #586A (pgshf) (2).png",
+      "bytes": 2331774,
+      "md5": "418218205ebbacf30a2a90c417103031",
+      "ext": ".png",
+      "width": 1698,
+      "height": 926,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/Client. Khurshid plot #586A (pgshf) (2).png",
+        "Architecture/Residential/Client. Khurshid plot #586A (pgshf) (3).png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/Client. Khurshid plot #586A (pgshf).png",
+      "bytes": 2492614,
+      "md5": "3e68c881a8b2c2218195cbbcdc68992d",
+      "ext": ".png",
+      "width": 1699,
+      "height": 926,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/Client. Khurshid plot #586A (pgshf) (4).png",
+        "Architecture/Residential/Client. Khurshid plot #586A (pgshf).png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/Client. Mr. Mudassar Hussain plot  #699B Pgshf 10 marla.png",
+      "bytes": 2309433,
+      "md5": "86d08e35b5039d1879d7953d9299e7a3",
+      "ext": ".png",
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/Client. Mr. Mudassar Hussain plot  #699B Pgshf 10 marla (2).png",
+        "Architecture/Residential/Client. Mr. Mudassar Hussain plot  #699B Pgshf 10 marla.png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/client. Safdar plot #103C ,7 marla.png",
+      "bytes": 2268916,
+      "md5": "fbfc3030646d3a577fc71b88e231c362",
+      "ext": ".png",
+      "width": 1653,
+      "height": 951,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/client. Safdar plot #103C ,7 marla (2).png",
+        "Architecture/Residential/client. Safdar plot #103C ,7 marla.png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/client. Safdar plot #103C pgshf  pgshf, 7 marla.png",
+      "bytes": 1845608,
+      "md5": "c7a9fe1fd576aec0ebf8fdc9a564d2d6",
+      "ext": ".png",
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/client. Safdar plot #103C pgshf  pgshf, 7 marla (2).png",
+        "Architecture/Residential/client. Safdar plot #103C pgshf  pgshf, 7 marla.png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/Courtyard 2.jpeg",
+      "bytes": 590349,
+      "md5": "a0dd995c28f50c8847d26c4776dfca9e",
+      "ext": ".jpeg",
+      "width": 1430,
+      "height": 736,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/Courtyard 2 (2).jpeg",
+        "Architecture/Residential/Courtyard 2.jpeg"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/CourtYard Night View.jpeg",
+      "bytes": 582344,
+      "md5": "9866ee78101b5cfbd36099edf2981812",
+      "ext": ".jpeg",
+      "width": 1419,
+      "height": 736,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/CourtYard Night View (2).jpeg",
+        "Architecture/Residential/CourtYard Night View.jpeg"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/Courtyard Parliament House (1).jpeg",
+      "bytes": 362126,
+      "md5": "204623a3adde4180f152048a11a10b3a",
+      "ext": ".jpeg",
+      "width": 1280,
+      "height": 718,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/Courtyard Parliament House (1).jpeg",
+        "Architecture/Residential/Courtyard Parliament House (7).jpeg"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/Courtyard Parliament House (2).jpeg",
+      "bytes": 482139,
+      "md5": "dba7ae114ad54b0e75aa39857d32e348",
+      "ext": ".jpeg",
+      "width": 1280,
+      "height": 719,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/Courtyard Parliament House (2).jpeg",
+        "Architecture/Residential/Courtyard Parliament House (8).jpeg"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/Courtyard Parliament House (3).jpeg",
+      "bytes": 347808,
+      "md5": "4c36d57b65aceadc6d672b5289415aa3",
+      "ext": ".jpeg",
+      "width": 1280,
+      "height": 718,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/Courtyard Parliament House (3).jpeg"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/Courtyard Parliament House (4).jpeg",
+      "bytes": 338638,
+      "md5": "d8a5eedd6dcd79386d8c933b6a5b0c6d",
+      "ext": ".jpeg",
+      "width": 1280,
+      "height": 718,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/Courtyard Parliament House (4).jpeg",
+        "Architecture/Residential/Courtyard Parliament House (9).jpeg"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/Courtyard Parliament House (5).jpeg",
+      "bytes": 408281,
+      "md5": "17cd64f976991308c59ff7482a0c5a8e",
+      "ext": ".jpeg",
+      "width": 1280,
+      "height": 719,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/Courtyard Parliament House (10).jpeg",
+        "Architecture/Residential/Courtyard Parliament House (5).jpeg"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/Courtyard Parliament House (6).jpeg",
+      "bytes": 457047,
+      "md5": "75ccb9b488dddeed317a864ce35f70f7",
+      "ext": ".jpeg",
+      "width": 1280,
+      "height": 719,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/Courtyard Parliament House (11).jpeg",
+        "Architecture/Residential/Courtyard Parliament House (6).jpeg"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/CourtYard.jpeg",
+      "bytes": 598780,
+      "md5": "94705c4c4e5dc9bc44d74443e3887499",
+      "ext": ".jpeg",
+      "width": 1430,
+      "height": 736,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/CourtYard (2).jpeg",
+        "Architecture/Residential/CourtYard.jpeg"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/D-12 Elevation.png",
+      "bytes": 1624325,
+      "md5": "321fe02cd694cf09ea0032898175e0ad",
+      "ext": ".png",
+      "width": 1024,
+      "height": 1024,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/D-12 Elevation.png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/Eelevation.jpg",
+      "bytes": 5845392,
+      "md5": "826ad096ada23b4ab8d21488ee873493",
+      "ext": ".jpg",
+      "width": 3800,
+      "height": 2300,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/Eelevation (2).jpg",
+        "Architecture/Residential/Eelevation.jpg"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/Exterior Elevation (1).png",
+      "bytes": 2186129,
+      "md5": "34a30ce68ff0fd1c96a0ff172e564fed",
+      "ext": ".png",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/Exterior Elevation (1).png",
+        "Architecture/Residential/Exterior Elevation (3).png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/Exterior Elevation (2).png",
+      "bytes": 2182164,
+      "md5": "243b79210f5b57d9a5cbef54aae65c2b",
+      "ext": ".png",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/Exterior Elevation (2).png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/Hammad Elevation Miawali Residence (1)kanal.png",
+      "bytes": 2279169,
+      "md5": "3f625d382b3c24aef374204b9f49fe13",
+      "ext": ".png",
+      "width": 1649,
+      "height": 954,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/Hammad Elevation Miawali Residence (1)kanal (2).png",
+        "Architecture/Residential/Hammad Elevation Miawali Residence (1)kanal.png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/I16  (islamabad)5 Marla .png",
+      "bytes": 2718240,
+      "md5": "a198b2ae3f1304fb0934868a0b108dcf",
+      "ext": ".png",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/I16  (islamabad)5 Marla  (2).png",
+        "Architecture/Residential/I16  (islamabad)5 Marla .png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/Iqbal House 1 kanal Pgshf.png",
+      "bytes": 2735692,
+      "md5": "2d671c29b08f8537b500742eaa745704",
+      "ext": ".png",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/Iqbal House 1 kanal Pgshf (2).png",
+        "Architecture/Residential/Iqbal House 1 kanal Pgshf.png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/mansehra.png",
+      "bytes": 2191885,
+      "md5": "d1a2f1eed4f83a19cde62829da70882b",
+      "ext": ".png",
+      "width": 1434,
+      "height": 1097,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/mansehra (2).png",
+        "Architecture/Residential/mansehra.png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/Masjid Pgshf  kanal (2).png",
+      "bytes": 2496290,
+      "md5": "86608de92df61d3c3f88ee5d37996e3d",
+      "ext": ".png",
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/Masjid Pgshf  kanal (2).png",
+        "Architecture/Residential/Masjid Pgshf  kanal (3).png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/Masjid Pgshf (3) kanal .png",
+      "bytes": 2730988,
+      "md5": "1c8ec51a81f82c24c4218f59acec5832",
+      "ext": ".png",
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/Masjid Pgshf (3) kanal  (2).png",
+        "Architecture/Residential/Masjid Pgshf (3) kanal .png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/Masjid Pgshf (5)kanal .png",
+      "bytes": 2794505,
+      "md5": "7a75ff8040f29c2a3e8a0c1704eb8476",
+      "ext": ".png",
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/Masjid Pgshf (5)kanal  (2).png",
+        "Architecture/Residential/Masjid Pgshf (5)kanal .png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/Modern Luxury Homet (2).png",
+      "bytes": 3146539,
+      "md5": "f89b5c5e6a41e99f602a9ea221049037",
+      "ext": ".png",
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/Modern Luxury Homet (2).png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/Modern Luxury Homet.png",
+      "bytes": 2557127,
+      "md5": "452bc76a0f28f146e5c9204aea64edf8",
+      "ext": ".png",
+      "width": 1659,
+      "height": 948,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/Modern Luxury Homet.png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/Mr. Ibrar Elevation (1).png",
+      "bytes": 2382448,
+      "md5": "11e53109047b0b9211872274f0b26371",
+      "ext": ".png",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/Mr. Ibrar Elevation (1).png",
+        "Architecture/Residential/Mr. Ibrar Elevation (3).png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/Mr. Ibrar Elevation (2).png",
+      "bytes": 2288484,
+      "md5": "ff95af1f5886f6a797d1a809909f06c7",
+      "ext": ".png",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/Mr. Ibrar Elevation (2).png",
+        "Architecture/Residential/Mr. Ibrar Elevation (4).png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/Plot # 479 D Pgshf Client .Amjad Bhatti,5 marla .png",
+      "bytes": 2654055,
+      "md5": "67c89ad93219513f6ad494c01d76694f",
+      "ext": ".png",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/Plot # 479 D Pgshf Client .Amjad Bhatti,5 marla  (2).png",
+        "Architecture/Residential/Plot # 479 D Pgshf Client .Amjad Bhatti,5 marla .png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/Plot # 644b client. Ateeq 5 marla  .jpeg",
+      "bytes": 463697,
+      "md5": "90afdef068e2b933d99b969669b2021f",
+      "ext": ".jpeg",
+      "width": 1280,
+      "height": 732,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/Plot # 644b client. Ateeq 5 marla   (2).jpeg",
+        "Architecture/Residential/Plot # 644b client. Ateeq 5 marla  .jpeg"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/Plot # 77-B (pgshf) client . Nouman .png",
+      "bytes": 2553792,
+      "md5": "b99ccaed286382697ee5615eced2a083",
+      "ext": ".png",
+      "width": 1700,
+      "height": 925,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Architecture/Residential/Plot # 77-B (pgshf) client . Nouman  (2).png",
+        "Architecture/Residential/Plot # 77-B (pgshf) client . Nouman .png"
+      ]
+    },
+    {
+      "path": "Architecture/Residential/Plot #543 C  ,7 marla (pgshf) client. Anjum.png",
+      "bytes": 2537368,
+      "md5": "c07673f4b9d6c2f38631fb58f9c027c3",
+      "ext": ".png",
+      "width": 1648,
+      "height": 954,
+      "format": "png",
+      "hasAlpha": true,
+      "alphaMin": 216,
+      "copies": [
+        "Architecture/Residential/Plot #543 C  ,7 marla (pgshf) client. Anjum (2).png",
+        "Architecture/Residential/Plot #543 C  ,7 marla (pgshf) client. Anjum.png"
+      ]
+    },
+    {
+      "path": "Construction/248A(pgshf)/1.png",
+      "bytes": 2708688,
+      "md5": "1e6ca4c19dd6957469fe68ffdc87cc82",
+      "ext": ".png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/248A(pgshf)/1.png"
+      ]
+    },
+    {
+      "path": "Construction/248A(pgshf)/2.png",
+      "bytes": 2431420,
+      "md5": "e90f9b6297018adf41e4f0353c9a34e1",
+      "ext": ".png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/248A(pgshf)/2.png"
+      ]
+    },
+    {
+      "path": "Construction/29D(Pgshf)/1.png",
+      "bytes": 3045741,
+      "md5": "5b9cea7ea38ffa089550098c37330766",
+      "ext": ".png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/29D(Pgshf)/1.png"
+      ]
+    },
+    {
+      "path": "Construction/29D(Pgshf)/2.png",
+      "bytes": 2947728,
+      "md5": "9a0749ff858fe7f0eaa8e643d5cd3139",
+      "ext": ".png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/29D(Pgshf)/2.png"
+      ]
+    },
+    {
+      "path": "Construction/29D(Pgshf)/3.1.jpeg",
+      "bytes": 8872566,
+      "md5": "4598780fad113a203283df283a104fab",
+      "ext": ".jpeg",
+      "width": 3600,
+      "height": 4800,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/29D(Pgshf)/3.1.jpeg"
+      ]
+    },
+    {
+      "path": "Construction/29D(Pgshf)/3.2.jpeg",
+      "bytes": 5302539,
+      "md5": "0158fdff21a44bb9edb1c6a9abe6edd4",
+      "ext": ".jpeg",
+      "width": 3024,
+      "height": 4032,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/29D(Pgshf)/3.2.jpeg"
+      ]
+    },
+    {
+      "path": "Construction/29D(Pgshf)/3.jpeg",
+      "bytes": 4944584,
+      "md5": "cbe7e22c671b338d627536faa6331d03",
+      "ext": ".jpeg",
+      "width": 3024,
+      "height": 4032,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/29D(Pgshf)/3.jpeg"
+      ]
+    },
+    {
+      "path": "Construction/29D(Pgshf)/4.jpeg",
+      "bytes": 5827986,
+      "md5": "12145348b3fac6585f36557125b69650",
+      "ext": ".jpeg",
+      "width": 3024,
+      "height": 4032,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/29D(Pgshf)/4.jpeg"
+      ]
+    },
+    {
+      "path": "Construction/29D(Pgshf)/5.jpeg",
+      "bytes": 4248404,
+      "md5": "1417b6d55eaf0ba8e87424b41f3e3a07",
+      "ext": ".jpeg",
+      "width": 3024,
+      "height": 4032,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/29D(Pgshf)/5.jpeg"
+      ]
+    },
+    {
+      "path": "Construction/29D(Pgshf)/6.jpeg",
+      "bytes": 4076299,
+      "md5": "0127e9cb6a9176ad4a056aaaa5d9c96e",
+      "ext": ".jpeg",
+      "width": 3024,
+      "height": 4032,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/29D(Pgshf)/6.jpeg"
+      ]
+    },
+    {
+      "path": "Construction/29D(Pgshf)/7.jpeg",
+      "bytes": 4797422,
+      "md5": "6d69c1dcf76962a586b65f14969352ad",
+      "ext": ".jpeg",
+      "width": 3024,
+      "height": 4032,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/29D(Pgshf)/7.jpeg"
+      ]
+    },
+    {
+      "path": "Construction/29D(Pgshf)/8.jpeg",
+      "bytes": 5207392,
+      "md5": "d45ced4a5e745151f3666fef8600e836",
+      "ext": ".jpeg",
+      "width": 3024,
+      "height": 4032,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/29D(Pgshf)/8.jpeg"
+      ]
+    },
+    {
+      "path": "Construction/29D(Pgshf)/9.jpeg",
+      "bytes": 1639622,
+      "md5": "2893dde00909cf04d4a8d62a28ecdbe7",
+      "ext": ".jpeg",
+      "width": 3024,
+      "height": 4032,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/29D(Pgshf)/9.jpeg"
+      ]
+    },
+    {
+      "path": "Construction/337B (pgshf)/construction/1.png",
+      "bytes": 2222545,
+      "md5": "072e1448d0c2995aaf867ec4cf9c7861",
+      "ext": ".png",
+      "width": 1086,
+      "height": 1448,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/337B (pgshf)/construction/1.png"
+      ]
+    },
+    {
+      "path": "Construction/352 C(pgshf)/construction/1.png",
+      "bytes": 2505582,
+      "md5": "c4f16a362aa3fee0e29a08bb9f89e0dd",
+      "ext": ".png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/352 C(pgshf)/construction/1.png"
+      ]
+    },
+    {
+      "path": "Construction/352 C(pgshf)/construction/2.png",
+      "bytes": 2625330,
+      "md5": "637937180b890819f568d1ac632f93a5",
+      "ext": ".png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/352 C(pgshf)/construction/2.png"
+      ]
+    },
+    {
+      "path": "Construction/352 C(pgshf)/Render/X-352 C.png",
+      "bytes": 2816923,
+      "md5": "ebb13fb422e7630f7342d53f92f25f18",
+      "ext": ".png",
+      "width": 1677,
+      "height": 938,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/352 C(pgshf)/Render/X-352 C.png"
+      ]
+    },
+    {
+      "path": "Construction/361D(pgshf)/1.png",
+      "bytes": 2863785,
+      "md5": "1af3e9b21e80e80f4c44800e68813776",
+      "ext": ".png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/361D(pgshf)/1.png"
+      ]
+    },
+    {
+      "path": "Construction/361D(pgshf)/2.png",
+      "bytes": 2665529,
+      "md5": "9113225af1c72d13b58a98ddf316b9a4",
+      "ext": ".png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/361D(pgshf)/2.png"
+      ]
+    },
+    {
+      "path": "Construction/479 D (pgshf)/1.png",
+      "bytes": 2769208,
+      "md5": "335c93da2edf926064f3ddc75aacf219",
+      "ext": ".png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/479 D (pgshf)/1.png"
+      ]
+    },
+    {
+      "path": "Construction/479 D (pgshf)/2.png",
+      "bytes": 2471682,
+      "md5": "789cb9745ed8d4ea045c7da3820c2737",
+      "ext": ".png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/479 D (pgshf)/2.png"
+      ]
+    },
+    {
+      "path": "Construction/586 A (pgshf)/2.png",
+      "bytes": 2908028,
+      "md5": "4a79519d4371e4094beb30bf237e7562",
+      "ext": ".png",
+      "width": 941,
+      "height": 1672,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/586 A (pgshf)/2.png"
+      ]
+    },
+    {
+      "path": "Construction/586 A (pgshf)/3.jpg",
+      "bytes": 257974,
+      "md5": "be8ab95761bb2934e18406b29a56ba8b",
+      "ext": ".jpg",
+      "width": 1080,
+      "height": 1920,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/586 A (pgshf)/3.jpg"
+      ]
+    },
+    {
+      "path": "Construction/586 A (pgshf)/586A    (1).jpg",
+      "bytes": 172953,
+      "md5": "c5c216b097350d512fe233b33ed3ebb3",
+      "ext": ".jpg",
+      "width": 1280,
+      "height": 960,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/586 A (pgshf)/586A    (1).jpg"
+      ]
+    },
+    {
+      "path": "Construction/597C(pgshf)/1.png",
+      "bytes": 2788566,
+      "md5": "dfe22c0ea5352f3af25df1e66edeedf1",
+      "ext": ".png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/597C(pgshf)/1.png"
+      ]
+    },
+    {
+      "path": "Construction/597C(pgshf)/2.png",
+      "bytes": 2533480,
+      "md5": "32c341a29667a700bd2b1509b384833f",
+      "ext": ".png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/597C(pgshf)/2.png"
+      ]
+    },
+    {
+      "path": "Construction/629 D(pgshf)/1.png",
+      "bytes": 3082966,
+      "md5": "a0d248b49b39167250e1bf4703a35431",
+      "ext": ".png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/629 D(pgshf)/1.png"
+      ]
+    },
+    {
+      "path": "Construction/629 D(pgshf)/2.png",
+      "bytes": 2828892,
+      "md5": "663c897f2cc6f4453a609c76d9cadd6d",
+      "ext": ".png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/629 D(pgshf)/2.png"
+      ]
+    },
+    {
+      "path": "Construction/629 D(pgshf)/IMG_9923.jpg",
+      "bytes": 848935,
+      "md5": "ce7b2a6d39a9ea80b0eee9446352d94a",
+      "ext": ".jpg",
+      "width": 3024,
+      "height": 4032,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/629 D(pgshf)/IMG_9923.jpg"
+      ]
+    },
+    {
+      "path": "Construction/629 D(pgshf)/Renders/629d (2).png",
+      "bytes": 2485660,
+      "md5": "b2105b05588d6766021b74de6b7128c8",
+      "ext": ".png",
+      "width": 1466,
+      "height": 1073,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/629 D(pgshf)/Renders/629d (2).png"
+      ]
+    },
+    {
+      "path": "Construction/629 D(pgshf)/Renders/629d.png",
+      "bytes": 2406251,
+      "md5": "44250187840c22f194fe4d0f7ad956f9",
+      "ext": ".png",
+      "width": 1098,
+      "height": 1190,
+      "format": "png",
+      "hasAlpha": true,
+      "alphaMin": 255,
+      "copies": [
+        "Construction/629 D(pgshf)/Renders/629d.png"
+      ]
+    },
+    {
+      "path": "Construction/644 B(pgshf)/1.png",
+      "bytes": 2821055,
+      "md5": "f45987bc16bdb30369357a28faf25a33",
+      "ext": ".png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/644 B(pgshf)/1.png"
+      ]
+    },
+    {
+      "path": "Construction/644 B(pgshf)/2.png",
+      "bytes": 2770431,
+      "md5": "4e5556227c206e12b2efbe7a384eb297",
+      "ext": ".png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/644 B(pgshf)/2.png"
+      ]
+    },
+    {
+      "path": "Construction/644A(pgshf)/1.jpeg",
+      "bytes": 155353,
+      "md5": "e6a0cb17983d452b3d610a5d5ac836ed",
+      "ext": ".jpeg",
+      "width": 895,
+      "height": 1538,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/644A(pgshf)/1.jpeg"
+      ]
+    },
+    {
+      "path": "Construction/644A(pgshf)/1.png",
+      "bytes": 2747956,
+      "md5": "810c8b1c424703618dace58c6caa708a",
+      "ext": ".png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/644A(pgshf)/1.png"
+      ]
+    },
+    {
+      "path": "Construction/644A(pgshf)/2.jpeg",
+      "bytes": 190541,
+      "md5": "1de965cd9a0ca07d098849b412a5608e",
+      "ext": ".jpeg",
+      "width": 902,
+      "height": 1506,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/644A(pgshf)/2.jpeg"
+      ]
+    },
+    {
+      "path": "Construction/644A(pgshf)/3.jpeg",
+      "bytes": 201477,
+      "md5": "73cfb00217a58d29b2ffa760fef222c7",
+      "ext": ".jpeg",
+      "width": 927,
+      "height": 1558,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/644A(pgshf)/3.jpeg",
+        "Construction/644A(pgshf)/6.jpeg"
+      ]
+    },
+    {
+      "path": "Construction/644A(pgshf)/4.jpeg",
+      "bytes": 235318,
+      "md5": "d5c32f2a5d6c6394d02c4dbe253f9474",
+      "ext": ".jpeg",
+      "width": 909,
+      "height": 1595,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/644A(pgshf)/4.jpeg"
+      ]
+    },
+    {
+      "path": "Construction/644A(pgshf)/5.jpeg",
+      "bytes": 143573,
+      "md5": "2c31a0f55d67625903be387b08c65c55",
+      "ext": ".jpeg",
+      "width": 921,
+      "height": 1552,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/644A(pgshf)/5.jpeg"
+      ]
+    },
+    {
+      "path": "Construction/644A(pgshf)/render/kanal.png",
+      "bytes": 2678113,
+      "md5": "5d71eaafa8b7757f6d2c36396d083dcc",
+      "ext": ".png",
+      "width": 1651,
+      "height": 953,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/644A(pgshf)/render/kanal.png"
+      ]
+    },
+    {
+      "path": "Construction/96A(pgshf)/1.png",
+      "bytes": 2723907,
+      "md5": "964210037afd97c13898373bb280b2c2",
+      "ext": ".png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/96A(pgshf)/1.png"
+      ]
+    },
+    {
+      "path": "Construction/96A(pgshf)/2.png",
+      "bytes": 2837183,
+      "md5": "dc6e027828eabba7041042944e501da3",
+      "ext": ".png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/96A(pgshf)/2.png"
+      ]
+    },
+    {
+      "path": "Construction/DHA III/1.jpg",
+      "bytes": 779308,
+      "md5": "2efe9ab05879ebeea34559e97caa50a6",
+      "ext": ".jpg",
+      "width": 2592,
+      "height": 2592,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/DHA III/1.jpg"
+      ]
+    },
+    {
+      "path": "Construction/DHA III/2.jpg",
+      "bytes": 343528,
+      "md5": "b0df5b80cb6c6ee16cfb73ca96a167ce",
+      "ext": ".jpg",
+      "width": 1254,
+      "height": 1254,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/DHA III/2.jpg"
+      ]
+    },
+    {
+      "path": "Construction/DHA III/3.jpg",
+      "bytes": 464748,
+      "md5": "efbfbb3512b1cc61f5596cc9ce6cc61e",
+      "ext": ".jpg",
+      "width": 1254,
+      "height": 1254,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/DHA III/3.jpg"
+      ]
+    },
+    {
+      "path": "Construction/DHA III/4.jpg",
+      "bytes": 294587,
+      "md5": "60b0cc757d93ce223f6dd3c55be276f7",
+      "ext": ".jpg",
+      "width": 1254,
+      "height": 1254,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/DHA III/4.jpg"
+      ]
+    },
+    {
+      "path": "Construction/Gulberg Green/construction/1.png",
+      "bytes": 2610874,
+      "md5": "f72c801b10de8d1bd9f8b1085b573d16",
+      "ext": ".png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/Gulberg Green/construction/1.png"
+      ]
+    },
+    {
+      "path": "Construction/Gulberg Green/construction/2.png",
+      "bytes": 2714331,
+      "md5": "955b1f1a3ac600560e3aef2f3212aba1",
+      "ext": ".png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/Gulberg Green/construction/2.png"
+      ]
+    },
+    {
+      "path": "Construction/Gulberg Green/construction/3.png",
+      "bytes": 2733276,
+      "md5": "59b5d6e27c0edb2a07aa80d4354c59e1",
+      "ext": ".png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/Gulberg Green/construction/3.png"
+      ]
+    },
+    {
+      "path": "Construction/Gulberg Green/construction/4.png",
+      "bytes": 2950053,
+      "md5": "fe0e5dd5aff04b91be76e06000d411ce",
+      "ext": ".png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/Gulberg Green/construction/4.png"
+      ]
+    },
+    {
+      "path": "Construction/Gulberg Green/construction/5.png",
+      "bytes": 2850478,
+      "md5": "551064827cf2af8672e451413b4656b9",
+      "ext": ".png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/Gulberg Green/construction/5.png"
+      ]
+    },
+    {
+      "path": "Construction/iftikhar(pgshf)/construction/1.png",
+      "bytes": 2987934,
+      "md5": "e161d5a08ac950bfe3525eaa09b4bcc1",
+      "ext": ".png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/iftikhar(pgshf)/construction/1.png"
+      ]
+    },
+    {
+      "path": "Construction/iftikhar(pgshf)/construction/2.png",
+      "bytes": 2690898,
+      "md5": "8912933f6de3ee41562fef7b76c93908",
+      "ext": ".png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/iftikhar(pgshf)/construction/2.png"
+      ]
+    },
+    {
+      "path": "Construction/iftikhar(pgshf)/renders/1.1.png",
+      "bytes": 2913878,
+      "md5": "9fa590ac8c34d233bab9657239d01b1d",
+      "ext": ".png",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Construction/iftikhar(pgshf)/renders/1.1.png"
+      ]
+    },
+    {
+      "path": "Interior/Attock interior/ATTOCK INTERIOR 01.jpg",
+      "bytes": 3970751,
+      "md5": "beab04dc4636b1fc28fa19b5b602d2ce",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Attock interior/ATTOCK INTERIOR 01 (2).jpg",
+        "Interior/Attock interior/ATTOCK INTERIOR 01.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Attock interior/ATTOCK INTERIOR 02.jpg",
+      "bytes": 3900862,
+      "md5": "837b70ff2b5d3950ce38c7c32bf441e5",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Attock interior/ATTOCK INTERIOR 02 (2).jpg",
+        "Interior/Attock interior/ATTOCK INTERIOR 02.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Attock interior/ATTOCK INTERIOR 03.jpg",
+      "bytes": 3398651,
+      "md5": "928e4d4c6734b92696f3194d6f5a33bd",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Attock interior/ATTOCK INTERIOR 03 (2).jpg",
+        "Interior/Attock interior/ATTOCK INTERIOR 03.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Attock interior/ATTOCK INTERIOR 04.jpg",
+      "bytes": 4766166,
+      "md5": "eb32b29b8ceff277e9f4ca05cd66cf58",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Attock interior/ATTOCK INTERIOR 04 (2).jpg",
+        "Interior/Attock interior/ATTOCK INTERIOR 04.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Attock interior/ATTOCK INTERIOR 05.jpg",
+      "bytes": 4871455,
+      "md5": "cfaf901b22a536ec0a5eb60eed1106a1",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Attock interior/ATTOCK INTERIOR 05 (2).jpg",
+        "Interior/Attock interior/ATTOCK INTERIOR 05.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Attock interior/ATTOCK INTERIOR 06.jpg",
+      "bytes": 4218334,
+      "md5": "0c9dc3a0ea675b5ca88351e57a8a682d",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Attock interior/ATTOCK INTERIOR 06 (2).jpg",
+        "Interior/Attock interior/ATTOCK INTERIOR 06.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Attock interior/ATTOCK INTERIOR 07.jpg",
+      "bytes": 4841177,
+      "md5": "28407e50f73bf94a577e8c00c024c76f",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Attock interior/ATTOCK INTERIOR 07 (2).jpg",
+        "Interior/Attock interior/ATTOCK INTERIOR 07.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Attock interior/ATTOCK INTERIOR 08.jpg",
+      "bytes": 4376174,
+      "md5": "1bcd5be6e38afad8d165c985830667d6",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Attock interior/ATTOCK INTERIOR 08 (2).jpg",
+        "Interior/Attock interior/ATTOCK INTERIOR 08.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Attock interior/ATTOCK INTERIOR 09.jpg",
+      "bytes": 4874797,
+      "md5": "00e56ee6613f509983afc0f0a9bf0b0a",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Attock interior/ATTOCK INTERIOR 09 (2).jpg",
+        "Interior/Attock interior/ATTOCK INTERIOR 09.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Attock interior/Drawing room 01.jpg",
+      "bytes": 4321168,
+      "md5": "764b7372ecea5530ee9b99e2649a3e55",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Attock interior/Drawing room 01.jpg"
+      ]
+    },
+    {
+      "path": "Interior/bathroom/Bath F 1.jpg",
+      "bytes": 682739,
+      "md5": "960235fa466e40689e947f2e754f0f1c",
+      "ext": ".jpg",
+      "width": 2451,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/bathroom/Bath F 1.jpg"
+      ]
+    },
+    {
+      "path": "Interior/bathroom/Bath F 2.jpg",
+      "bytes": 940141,
+      "md5": "71ab9823340bdb60b5e83dacb411cf68",
+      "ext": ".jpg",
+      "width": 2528,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/bathroom/Bath F 2.jpg"
+      ]
+    },
+    {
+      "path": "Interior/bathroom/Bath F 3.jpg",
+      "bytes": 639651,
+      "md5": "5bed417373e8a313096f4cba61076f3d",
+      "ext": ".jpg",
+      "width": 2173,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/bathroom/Bath F 3.jpg"
+      ]
+    },
+    {
+      "path": "Interior/bathroom/Bath F 4.jpg",
+      "bytes": 915928,
+      "md5": "6b008f5af99ff4a5df7beffe5086940b",
+      "ext": ".jpg",
+      "width": 2555,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Baths/Bath F 4.jpg",
+        "Interior/bathroom/Bath F 4.jpg"
+      ]
+    },
+    {
+      "path": "Interior/bathroom/Bath G 1...jpg",
+      "bytes": 614384,
+      "md5": "bd5bd693c01940de1a885b72b0de2f63",
+      "ext": ".jpg",
+      "width": 2014,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/bathroom/Bath G 1...jpg"
+      ]
+    },
+    {
+      "path": "Interior/bathroom/Bath G 1.jpg",
+      "bytes": 544367,
+      "md5": "0b91ec45e1c781f0df148a5ce3442b8e",
+      "ext": ".jpg",
+      "width": 2003,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/bathroom/Bath G 1.jpg"
+      ]
+    },
+    {
+      "path": "Interior/bathroom/Bath G 2.jpg",
+      "bytes": 942845,
+      "md5": "11386d32cc63da1101e4a438290421d5",
+      "ext": ".jpg",
+      "width": 2485,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/bathroom/Bath G 2.jpg"
+      ]
+    },
+    {
+      "path": "Interior/bathroom/Bath G 3.jpg",
+      "bytes": 1034358,
+      "md5": "2a4d6eb7f6df1886737756455d16af24",
+      "ext": ".jpg",
+      "width": 2374,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/bathroom/Bath G 3.jpg"
+      ]
+    },
+    {
+      "path": "Interior/bathroom/Bath G 4.jpg",
+      "bytes": 977673,
+      "md5": "e5af8639b9d413d4cd0c3a0fc03aae85",
+      "ext": ".jpg",
+      "width": 2787,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/bathroom/Bath G 4.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Bed Room/Bedroom Interior.png",
+      "bytes": 2299759,
+      "md5": "1ce5561f62da424bd3822681ab6fe34c",
+      "ext": ".png",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Bed Room/Bedroom Interior.png",
+        "Interior/bed rooms and lounge/Bedroom Interior.png"
+      ]
+    },
+    {
+      "path": "Interior/Bed Room/Luxurious Symmetrical Master Bedroom.png",
+      "bytes": 2173941,
+      "md5": "c79fa243621de63870cefb9f660bc0da",
+      "ext": ".png",
+      "width": 1656,
+      "height": 933,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Bed Room/Luxurious Symmetrical Master Bedroom.png",
+        "Interior/bed rooms and lounge/Luxurious Symmetrical Master Bedroom.png"
+      ]
+    },
+    {
+      "path": "Interior/Bed Room/Modern Minimalist Bedroom with Natural Light.png",
+      "bytes": 2632466,
+      "md5": "65562921433ec1d646434c2eb7cbc1bb",
+      "ext": ".png",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Bed Room/Modern Minimalist Bedroom with Natural Light.png",
+        "Interior/bed rooms and lounge/Modern Minimalist Bedroom with Natural Light.png"
+      ]
+    },
+    {
+      "path": "Interior/bed rooms and lounge/Lounge Interior (2).png",
+      "bytes": 15466415,
+      "md5": "800ec469d0275dcd38d2819c5902c1ab",
+      "ext": ".png",
+      "width": 3456,
+      "height": 2592,
+      "format": "png",
+      "hasAlpha": true,
+      "alphaMin": 222,
+      "copies": [
+        "Interior/bed rooms and lounge/Lounge Interior (2).png"
+      ]
+    },
+    {
+      "path": "Interior/conference room/05 Horizontal PVC.png",
+      "bytes": 2004220,
+      "md5": "8c778efb3dcf6261a4844e328c7c7659",
+      "ext": ".png",
+      "width": 2029,
+      "height": 775,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/conference room/05 Horizontal PVC.png"
+      ]
+    },
+    {
+      "path": "Interior/conference room/05 Vertical PVC.png",
+      "bytes": 1869282,
+      "md5": "3fc042c298521f89257ca5a45fc5e200",
+      "ext": ".png",
+      "width": 1849,
+      "height": 851,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/conference room/05 Vertical PVC.png"
+      ]
+    },
+    {
+      "path": "Interior/conference room/06 1st option.png",
+      "bytes": 1986619,
+      "md5": "4aaeb23cddc3dd4aa0217c063f08bbd3",
+      "ext": ".png",
+      "width": 1496,
+      "height": 1051,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/conference room/06 1st option.png"
+      ]
+    },
+    {
+      "path": "Interior/conference room/conference room (1).png",
+      "bytes": 1948808,
+      "md5": "f6a8cecf31a685ef43adb4bb2a75f5f1",
+      "ext": ".png",
+      "width": 1496,
+      "height": 1051,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/conference room/conference room (1).png"
+      ]
+    },
+    {
+      "path": "Interior/conference room/conference room (2).png",
+      "bytes": 2035682,
+      "md5": "aa5ac461e22fd125a58424cb3f9dddff",
+      "ext": ".png",
+      "width": 1496,
+      "height": 1051,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/conference room/conference room (2).png"
+      ]
+    },
+    {
+      "path": "Interior/conference room/conference room (3).png",
+      "bytes": 1959943,
+      "md5": "61965ce76997d3b1bc5500c0a0c0e4c3",
+      "ext": ".png",
+      "width": 1496,
+      "height": 1051,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/conference room/conference room (3).png"
+      ]
+    },
+    {
+      "path": "Interior/conference room/conference room (4).png",
+      "bytes": 2013377,
+      "md5": "2aade9589916d7d77e604f394f68ccef",
+      "ext": ".png",
+      "width": 1496,
+      "height": 1051,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/conference room/conference room (4).png"
+      ]
+    },
+    {
+      "path": "Interior/Kitchen/Kitchen (2).jpg",
+      "bytes": 6593952,
+      "md5": "bef6c4b98d7f8f9f4bba1bbd4444df1d",
+      "ext": ".jpg",
+      "width": 3500,
+      "height": 2800,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Kitchen/Kitchen (2).jpg",
+        "Interior/Kitchen/Kitchen (3).jpg"
+      ]
+    },
+    {
+      "path": "Interior/Kitchen/Kitchen 01.jpg",
+      "bytes": 3888170,
+      "md5": "811c3a00c604a4f1d5c90168d9614e5c",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Kitchen/Kitchen 01 (2).jpg",
+        "Interior/Kitchen/Kitchen 01.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Kitchen/Kitchen 02.jpg",
+      "bytes": 3902297,
+      "md5": "9209ba4b170129a0ad5d62170ea8c823",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Kitchen/Kitchen 02 (2).jpg",
+        "Interior/Kitchen/Kitchen 02.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Kitchen/Kitchen 03.jpg",
+      "bytes": 3921633,
+      "md5": "f1b6479497009258a579d6dbbbb92a80",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Kitchen/Kitchen 03 (2).jpg",
+        "Interior/Kitchen/Kitchen 03.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Kitchen/Kitchen 04.jpg",
+      "bytes": 2344804,
+      "md5": "e28db350274a287d72ad8d2412b53630",
+      "ext": ".jpg",
+      "width": 3816,
+      "height": 2147,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Kitchen/Kitchen 04 (2).jpg",
+        "Interior/Kitchen/Kitchen 04.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Kitchen/Kitchen Interior 07.jpg",
+      "bytes": 3836262,
+      "md5": "365f89f5f9dc84abbc32fc27901bd968",
+      "ext": ".jpg",
+      "width": 3816,
+      "height": 3906,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Kitchen/Kitchen Interior 07 (2).jpg",
+        "Interior/Kitchen/Kitchen Interior 07.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Kitchen/Kitchen Interior 08.jpg",
+      "bytes": 4049634,
+      "md5": "8af38822f45a199532f55e534840f3e8",
+      "ext": ".jpg",
+      "width": 3816,
+      "height": 5082,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Kitchen/Kitchen Interior 08 (2).jpg",
+        "Interior/Kitchen/Kitchen Interior 08.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Kitchen/Kitchen Interior 09.jpg",
+      "bytes": 3917348,
+      "md5": "deb21bb3b591e99b2697ce4cfb7fcda2",
+      "ext": ".jpg",
+      "width": 3816,
+      "height": 4082,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Kitchen/Kitchen Interior 09 (2).jpg",
+        "Interior/Kitchen/Kitchen Interior 09.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Kitchen/Kitchen Interior 10.jpg",
+      "bytes": 3479071,
+      "md5": "c9e64595202f6f531bc2e8b1fb92d38d",
+      "ext": ".jpg",
+      "width": 3816,
+      "height": 3230,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Kitchen/Kitchen Interior 10 (2).jpg",
+        "Interior/Kitchen/Kitchen Interior 10.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Kitchen/Luxury Kitchen  (1).jpg",
+      "bytes": 3838174,
+      "md5": "dd541803a599a35bc2572f8cc4c713ca",
+      "ext": ".jpg",
+      "width": 3500,
+      "height": 2350,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Kitchen/Luxury Kitchen  (1).jpg",
+        "Interior/Kitchen/Luxury Kitchen  (3).jpg"
+      ]
+    },
+    {
+      "path": "Interior/Kitchen/Luxury Kitchen  (2).jpg",
+      "bytes": 4132983,
+      "md5": "9a7e404653b0e150535146da733c2569",
+      "ext": ".jpg",
+      "width": 3500,
+      "height": 2500,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Kitchen/Luxury Kitchen  (2).jpg",
+        "Interior/Kitchen/Luxury Kitchen  (4).jpg"
+      ]
+    },
+    {
+      "path": "Interior/Kitchen/Luxury Kitchen  (5).jpg",
+      "bytes": 3895697,
+      "md5": "e34954d44fe9838a719f8889e2ec6a5a",
+      "ext": ".jpg",
+      "width": 3500,
+      "height": 2416,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Kitchen/Luxury Kitchen  (5).jpg",
+        "Interior/Kitchen/Luxury Kitchen  (6).jpg"
+      ]
+    },
+    {
+      "path": "Interior/Lounge/camera 1..jpg",
+      "bytes": 5741490,
+      "md5": "d1b68f7728b30eae6b77023ebaabd9fa",
+      "ext": ".jpg",
+      "width": 4000,
+      "height": 2250,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Lounge/camera 1..jpg",
+        "Interior/bed rooms and lounge/camera 1..jpg"
+      ]
+    },
+    {
+      "path": "Interior/Lounge/camera 2..jpg",
+      "bytes": 4216863,
+      "md5": "7856a553328d81a1074b7d804fcfd48f",
+      "ext": ".jpg",
+      "width": 4000,
+      "height": 2252,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Lounge/camera 2..jpg",
+        "Interior/bed rooms and lounge/camera 2..jpg"
+      ]
+    },
+    {
+      "path": "Interior/Lounge/Mr. Anjum Lounge Interior (1).png",
+      "bytes": 9992788,
+      "md5": "b64fb8ddf0e9e5c4d705cb4ef56314f6",
+      "ext": ".png",
+      "width": 3500,
+      "height": 2800,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Lounge/Mr. Anjum Lounge Interior (1).png",
+        "Interior/bed rooms and lounge/Mr. Anjum Lounge Interior (1).png"
+      ]
+    },
+    {
+      "path": "Interior/Lounge/Mr. Anjum Lounge Interior (8).png",
+      "bytes": 10320795,
+      "md5": "82a3fa37f7d8c6597a0a497c5146d982",
+      "ext": ".png",
+      "width": 3500,
+      "height": 2800,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Lounge/Mr. Anjum Lounge Interior (8).png",
+        "Interior/bed rooms and lounge/Mr. Anjum Lounge Interior (8).png"
+      ]
+    },
+    {
+      "path": "Interior/Lounge/option 2.png",
+      "bytes": 2733246,
+      "md5": "2aa4a16e030bc11315565aeddf964a31",
+      "ext": ".png",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Lounge/option 2.png",
+        "Interior/bed rooms and lounge/option 2.png"
+      ]
+    },
+    {
+      "path": "Interior/Lounge/option 2(1).png",
+      "bytes": 2606508,
+      "md5": "f9c80a168690a6ac98d5d6a2f239c162",
+      "ext": ".png",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Lounge/option 2(1).png",
+        "Interior/bed rooms and lounge/option 2(1).png"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Baths/Bath G 2.jpg",
+      "bytes": 2100641,
+      "md5": "29943ccb5f9178b8f1127c7ee33f6160",
+      "ext": ".jpg",
+      "width": 2485,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Baths/Bath G 2.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Bedroom/Bed (1) 01.jpg",
+      "bytes": 4785859,
+      "md5": "76267115375b64f40f8a30da0b6eaf1c",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Bedroom/Bed (1) 01.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Bedroom/Bed (1) 02.jpg",
+      "bytes": 5073987,
+      "md5": "c624a7bf937078a43de748bb4fd6f2ed",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Bedroom/Bed (1) 02.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Bedroom/Bed (1) 03.jpg",
+      "bytes": 5132087,
+      "md5": "6fd931ff076de8d2d68ca5709ba314a1",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Bedroom/Bed (1) 03.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Bedroom/Bed (2) 01.jpg",
+      "bytes": 4359164,
+      "md5": "59c3bb60f0ee746fc609c7ddfcb0e772",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Bedroom/Bed (2) 01.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Bedroom/Bed (2) 02.jpg",
+      "bytes": 3938966,
+      "md5": "48b5863aff77cef7d15cf4d4953fddca",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Bedroom/Bed (2) 02.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Bedroom/Bed (2) 03.jpg",
+      "bytes": 4689478,
+      "md5": "bbc3868a356dc68c5589269eb7aa87cf",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Bedroom/Bed (2) 03.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Bedroom/Bed (2) 04.jpg",
+      "bytes": 4408226,
+      "md5": "b8000cbb98d96aa65c7481b74a3d1472",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Bedroom/Bed (2) 04.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Bedroom/Bed (3) 01.jpg",
+      "bytes": 4174367,
+      "md5": "96c51c4b4d190d43db8eb1c3f6e5972e",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Bedroom/Bed (3) 01.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Bedroom/Bed (3) 02.jpg",
+      "bytes": 4149824,
+      "md5": "69e53222c38bdeed5f972ddecf8a75b2",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Bedroom/Bed (3) 02.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Bedroom/Bed (3) 03.jpg",
+      "bytes": 4344854,
+      "md5": "de79eb7d025a16ff212b001997ec4d3f",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Bedroom/Bed (3) 03.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Drawing , Lounge & Stairwall/Dining room 01.jpg",
+      "bytes": 5460294,
+      "md5": "8614e88e0840fc7eab7a43f47a7ac223",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Drawing , Lounge & Stairwall/Dining room 01.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Drawing , Lounge & Stairwall/Drawing 01.jpg",
+      "bytes": 5674017,
+      "md5": "a2ab01ada0c7d485366f6132d06ac5b7",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Drawing , Lounge & Stairwall/Drawing 01.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Drawing , Lounge & Stairwall/Drawing 02.jpg",
+      "bytes": 5366352,
+      "md5": "eea713db54f34c6caefdb8c28c9f249b",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Drawing , Lounge & Stairwall/Drawing 02.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Drawing , Lounge & Stairwall/Lounge 01 .jpg",
+      "bytes": 4329590,
+      "md5": "736e38c14817fac8f28d9fcfe001e4c3",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Drawing , Lounge & Stairwall/Lounge 01 .jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Drawing , Lounge & Stairwall/Lounge 02.jpg",
+      "bytes": 5579653,
+      "md5": "aebe2e623a16f0ccddc7cedbcbb060a1",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Drawing , Lounge & Stairwall/Lounge 02.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Drawing , Lounge & Stairwall/Lounge 03.jpg",
+      "bytes": 4307792,
+      "md5": "60c84ba7482d9405c602233514ca655d",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Drawing , Lounge & Stairwall/Lounge 03.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Drawing , Lounge & Stairwall/Lounge 04.jpg",
+      "bytes": 5308104,
+      "md5": "63cd95ed64b6bd7e59de1b02a72834d8",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Drawing , Lounge & Stairwall/Lounge 04.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Drawing , Lounge & Stairwall/Lounge 05.jpg",
+      "bytes": 3755044,
+      "md5": "c02fabc265330f955e9eeab73ed35fb5",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Drawing , Lounge & Stairwall/Lounge 05.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Drawing , Lounge & Stairwall/Lounge 06.jpg",
+      "bytes": 3835562,
+      "md5": "9dd36e75b76af8d3af47ce2f05851b82",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Drawing , Lounge & Stairwall/Lounge 06.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Drawing , Lounge & Stairwall/Mansehra Stair wall (6).jpg",
+      "bytes": 4000257,
+      "md5": "2ab052f73335ffc7a5e0b6cd23e952b2",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Drawing , Lounge & Stairwall/Mansehra Stair wall (6).jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Drawing , Lounge & Stairwall/Mansehra Stair wall (7).jpg",
+      "bytes": 4055596,
+      "md5": "13c5f68e82add8006934fd5d24873f79",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Drawing , Lounge & Stairwall/Mansehra Stair wall (7).jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Drawing , Lounge & Stairwall/Mansehra Stair wall (8).jpg",
+      "bytes": 4141963,
+      "md5": "47bc3acb3d1ff585f868a59dc9a663d5",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Drawing , Lounge & Stairwall/Mansehra Stair wall (8).jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Drawing , Lounge & Stairwall/Mansehra Stair wall (9).jpg",
+      "bytes": 4996561,
+      "md5": "2971f436af9deca03dc9e788b2de5611",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Drawing , Lounge & Stairwall/Mansehra Stair wall (9).jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Drawing room 02.jpg",
+      "bytes": 4785675,
+      "md5": "bbdd5aa1f39936014652921d7d55c332",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Drawing room 02.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Drawing room 03.jpg",
+      "bytes": 4615250,
+      "md5": "4921ac9f2a8540711f7b20c78354c30c",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Drawing room 03.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Drawing room 04.jpg",
+      "bytes": 4231878,
+      "md5": "aaf83b5b61bbb1a4a90778d115df25b1",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Drawing room 04.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Drawing room 05.jpg",
+      "bytes": 3789635,
+      "md5": "a7c4b4bd960aa0fac55072a5d44dac90",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Drawing room 05.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Drawing room 06.jpg",
+      "bytes": 3225598,
+      "md5": "1075d1cff44318a3423531dc987b7c72",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Drawing room 06.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Drawing room 07.jpg",
+      "bytes": 4210956,
+      "md5": "303b13b1f2ecf6e66e83e4bd92f46409",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Drawing room 07.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Drawing room 08.jpg",
+      "bytes": 4303216,
+      "md5": "bdca90bbfeec21b899ae3267189de00b",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Drawing room 08.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Drawing room 09.jpg",
+      "bytes": 3044975,
+      "md5": "62ec743b041d6acc4c5cfad7ef9a4de5",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Drawing room 09.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Drawing room 10.jpg",
+      "bytes": 4680742,
+      "md5": "35b47b3c5844fe15457563027d19f62f",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Drawing room 10.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Drawing room 11.jpg",
+      "bytes": 3945946,
+      "md5": "48f97e4077729ee1517bd84148cb200b",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Drawing room 11.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Drawing room 12.jpg",
+      "bytes": 2826393,
+      "md5": "7c6ce353808c2d0683b5cfcefe0323e1",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Drawing room 12.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Drawing room 13.jpg",
+      "bytes": 649500,
+      "md5": "03e75a09e4aa511f78495afbcd658149",
+      "ext": ".jpg",
+      "width": 1532,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Drawing room 13.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/F1 1st bed 01.jpg",
+      "bytes": 1592488,
+      "md5": "689af32091f1da57eab5ed108a3f4032",
+      "ext": ".jpg",
+      "width": 1859,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/F1 1st bed 01.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/F1 1st bed 02.jpg",
+      "bytes": 1084282,
+      "md5": "32a410161242ec05b46bfd3acf42193f",
+      "ext": ".jpg",
+      "width": 1649,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/F1 1st bed 02.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/F1 1st bed 03.jpg",
+      "bytes": 1457130,
+      "md5": "2e7ae8e49bd057b8218492daf83e9e6e",
+      "ext": ".jpg",
+      "width": 2038,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/F1 1st bed 03.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/F1 1st bed 04.jpg",
+      "bytes": 920200,
+      "md5": "f708ea6d249ef3a5cee4641d23c6b86f",
+      "ext": ".jpg",
+      "width": 2043,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/F1 1st bed 04.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/F1 2nd bed 01.jpg",
+      "bytes": 580397,
+      "md5": "2d887ed5d30e1ff2c9eaa701d7eb50db",
+      "ext": ".jpg",
+      "width": 2099,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/F1 2nd bed 01.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/F1 2nd bed 02.jpg",
+      "bytes": 1181324,
+      "md5": "7c154d70e61d8cff96ce3c6e0c4c1a7d",
+      "ext": ".jpg",
+      "width": 1996,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/F1 2nd bed 02.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/F1 2nd bed 03.jpg",
+      "bytes": 1718731,
+      "md5": "f651f059c53c3252508e8b2d945ad5fa",
+      "ext": ".jpg",
+      "width": 2560,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/F1 2nd bed 03.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/F1 2nd bed 04.jpg",
+      "bytes": 1260087,
+      "md5": "85729c2d8271b8e46d04b0419b424d88",
+      "ext": ".jpg",
+      "width": 2472,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/F1 2nd bed 04.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/F1 3rd bed 01.jpg",
+      "bytes": 1793484,
+      "md5": "32dc44d8779f6481a4726f7b67f8bbde",
+      "ext": ".jpg",
+      "width": 2304,
+      "height": 2461,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/F1 3rd bed 01.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/F1 3rd bed 02.jpg",
+      "bytes": 919080,
+      "md5": "165453ee811dcb72543c9c7aa59f4148",
+      "ext": ".jpg",
+      "width": 1955,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/F1 3rd bed 02.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/F1 3rd bed 03.jpg",
+      "bytes": 1261314,
+      "md5": "71fd704337f8730a29559e99ea030c06",
+      "ext": ".jpg",
+      "width": 2304,
+      "height": 1600,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/F1 3rd bed 03.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/F1 3rd bed 04.jpg",
+      "bytes": 1233479,
+      "md5": "b32907a8f6aff8701848b9d67889fa18",
+      "ext": ".jpg",
+      "width": 2313,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/F1 3rd bed 04.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Ground bed 01.png",
+      "bytes": 5017163,
+      "md5": "d2fbb34c6e5faca1f9111e3a03173d03",
+      "ext": ".png",
+      "width": 2304,
+      "height": 2821,
+      "format": "png",
+      "hasAlpha": true,
+      "alphaMin": 222,
+      "copies": [
+        "Interior/Mansehra/Ground bed 01.png"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Ground bed 02.png",
+      "bytes": 3899225,
+      "md5": "016502a99e669ef044f8f63bce0020b0",
+      "ext": ".png",
+      "width": 2304,
+      "height": 3178,
+      "format": "png",
+      "hasAlpha": true,
+      "alphaMin": 222,
+      "copies": [
+        "Interior/Mansehra/Ground bed 02.png"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Ground bed 03.png",
+      "bytes": 4800354,
+      "md5": "fe21ebb72817c04bd32b9a7b82112f2e",
+      "ext": ".png",
+      "width": 2304,
+      "height": 2503,
+      "format": "png",
+      "hasAlpha": true,
+      "alphaMin": 222,
+      "copies": [
+        "Interior/Mansehra/Ground bed 03.png"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Ground bed 04.png",
+      "bytes": 4505980,
+      "md5": "494151b357344c0146c1142c945f7b8c",
+      "ext": ".png",
+      "width": 2304,
+      "height": 2597,
+      "format": "png",
+      "hasAlpha": true,
+      "alphaMin": 222,
+      "copies": [
+        "Interior/Mansehra/Ground bed 04.png"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Kitchen/Kitchen 01.jpg",
+      "bytes": 4427082,
+      "md5": "633a253939ef49c16479e2ffeeb657b2",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Kitchen/Kitchen 01.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Mansehra/Kitchen/Kitchen 02 .jpg",
+      "bytes": 4138923,
+      "md5": "0554679976f679ec45ed41b2daadc638",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Mansehra/Kitchen/Kitchen 02 .jpg"
+      ]
+    },
+    {
+      "path": "Interior/Other/Salon Design (2).jpg",
+      "bytes": 2613292,
+      "md5": "a20ff49791b33b18e5432c07093f3c4f",
+      "ext": ".jpg",
+      "width": 3600,
+      "height": 2026,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Other/Salon Design (2).jpg",
+        "Interior/bed rooms and lounge/Salon Design (2).jpg"
+      ]
+    },
+    {
+      "path": "Interior/Park View City (Islamabad)/Bedroom/F1 1st bed 01.jpg",
+      "bytes": 4787359,
+      "md5": "6a766cbcaa47a4453a5c1f2d3c63c9be",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Park View City (Islamabad)/Bedroom/F1 1st bed 01.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Park View City (Islamabad)/Bedroom/F1 1st bed 02.jpg",
+      "bytes": 4479363,
+      "md5": "4165bf2f145f3e1ed553fcc6470194a9",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Park View City (Islamabad)/Bedroom/F1 1st bed 02.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Park View City (Islamabad)/Bedroom/F1 1st bed 03.jpg",
+      "bytes": 5116905,
+      "md5": "429ede66aedaa3eb877fc8fc103b441e",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Park View City (Islamabad)/Bedroom/F1 1st bed 03.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Park View City (Islamabad)/Bedroom/F1 1st bed 04.jpg",
+      "bytes": 4296249,
+      "md5": "674fb000f57c3179d8a467866e0f8a24",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Park View City (Islamabad)/Bedroom/F1 1st bed 04.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Park View City (Islamabad)/Bedroom/F1 2nd bed 01.jpg",
+      "bytes": 1408140,
+      "md5": "ca4c1065f5356b986a4af5d7175d4dbe",
+      "ext": ".jpg",
+      "width": 2099,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Park View City (Islamabad)/Bedroom/F1 2nd bed 01.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Park View City (Islamabad)/Bedroom/F1 2nd bed 03.jpg",
+      "bytes": 2121372,
+      "md5": "ce50480dc386a860c43950a823e5376c",
+      "ext": ".jpg",
+      "width": 2560,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Park View City (Islamabad)/Bedroom/F1 2nd bed 03.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Park View City (Islamabad)/Bedroom/F1 2nd bed 04.jpg",
+      "bytes": 1586606,
+      "md5": "e8eb1e6fb436259de51543b1dd65c45f",
+      "ext": ".jpg",
+      "width": 2472,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Park View City (Islamabad)/Bedroom/F1 2nd bed 04.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Park View City (Islamabad)/Bedroom/F1 3rd bed 01.jpg",
+      "bytes": 1423450,
+      "md5": "ce493a9fa650676fc9e1b6c68922acf8",
+      "ext": ".jpg",
+      "width": 2022,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Park View City (Islamabad)/Bedroom/F1 3rd bed 01.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Park View City (Islamabad)/Bedroom/F1 3rd bed 02.jpg",
+      "bytes": 1164668,
+      "md5": "ffc7dc8c9b4653edcb3848d278ba60e6",
+      "ext": ".jpg",
+      "width": 1955,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Park View City (Islamabad)/Bedroom/F1 3rd bed 02.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Park View City (Islamabad)/Bedroom/F1 3rd bed 03.jpg",
+      "bytes": 1821936,
+      "md5": "3fce3be0a61515b4a20f8f1eac4eabef",
+      "ext": ".jpg",
+      "width": 3111,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Park View City (Islamabad)/Bedroom/F1 3rd bed 03.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Park View City (Islamabad)/Bedroom/F1 3rd bed 04.jpg",
+      "bytes": 1536478,
+      "md5": "1820f66acabbf24cb16af58bb63af7ec",
+      "ext": ".jpg",
+      "width": 2313,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Park View City (Islamabad)/Bedroom/F1 3rd bed 04.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Park View City (Islamabad)/Kitchen/Kitchen 01.jpg",
+      "bytes": 3903731,
+      "md5": "e29d5fef2727a606f6e2c5cfe00655bf",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Park View City (Islamabad)/Kitchen/Kitchen 01.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Park View City (Islamabad)/Kitchen/Kitchen 02.jpg",
+      "bytes": 3899286,
+      "md5": "f7da9f414e5c64536b6b95993ed1bffe",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Park View City (Islamabad)/Kitchen/Kitchen 02.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Park View City (Islamabad)/Kitchen/Kitchen 03.jpg",
+      "bytes": 3932443,
+      "md5": "9cb6b5043693fd84b766e5e2351e977d",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Park View City (Islamabad)/Kitchen/Kitchen 03.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Park View City (Islamabad)/Kitchen/Kitchen 04.jpg",
+      "bytes": 3921035,
+      "md5": "08d305811d00612726f1186beb3349a5",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Park View City (Islamabad)/Kitchen/Kitchen 04.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Park View City (Islamabad)/Lounge and Drawing room/Drawing room 01.jpg",
+      "bytes": 4610362,
+      "md5": "b1d83c644ceeafa924c4686661b2c9ca",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Park View City (Islamabad)/Lounge and Drawing room/Drawing room 01.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Park View City (Islamabad)/Lounge and Drawing room/Drawing room 02.jpg",
+      "bytes": 5045912,
+      "md5": "2930fd840b413373a1975b663f422c2b",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Park View City (Islamabad)/Lounge and Drawing room/Drawing room 02.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Park View City (Islamabad)/Lounge and Drawing room/Drawing room 03.jpg",
+      "bytes": 4886123,
+      "md5": "1b5d509f3c7379434d67062b2ba51e96",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Park View City (Islamabad)/Lounge and Drawing room/Drawing room 03.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Park View City (Islamabad)/Lounge and Drawing room/Drawing room 04.jpg",
+      "bytes": 4549112,
+      "md5": "7263b2d47c21ea75e6130dda882f8b65",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Park View City (Islamabad)/Lounge and Drawing room/Drawing room 04.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Park View City (Islamabad)/Lounge and Drawing room/Drawing room 05.jpg",
+      "bytes": 4137023,
+      "md5": "c501ddfa5ba84fefb22f55c451c612b8",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Park View City (Islamabad)/Lounge and Drawing room/Drawing room 05.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Park View City (Islamabad)/Lounge and Drawing room/Drawing room 06.jpg",
+      "bytes": 3663502,
+      "md5": "64eb6f7120a22beedd8bb41697a55a8a",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Park View City (Islamabad)/Lounge and Drawing room/Drawing room 06.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Park View City (Islamabad)/Lounge and Drawing room/Drawing room 07.jpg",
+      "bytes": 4591535,
+      "md5": "4caf6b37c4b3082a0271a6077cd21196",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Park View City (Islamabad)/Lounge and Drawing room/Drawing room 07.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Park View City (Islamabad)/Lounge and Drawing room/Drawing room 09.jpg",
+      "bytes": 3523311,
+      "md5": "94bac04580f11918eebdb7f2a287a4d0",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Park View City (Islamabad)/Lounge and Drawing room/Drawing room 09.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Park View City (Islamabad)/Lounge and Drawing room/Drawing room 10.jpg",
+      "bytes": 4944704,
+      "md5": "6cb212fa2a4cec12faef459e25700515",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Park View City (Islamabad)/Lounge and Drawing room/Drawing room 10.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Park View City (Islamabad)/Lounge and Drawing room/Drawing room 11.jpg",
+      "bytes": 4276405,
+      "md5": "0e230087c92b0b1fe5ea63349397c711",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Park View City (Islamabad)/Lounge and Drawing room/Drawing room 11.jpg"
+      ]
+    },
+    {
+      "path": "Interior/Park View City (Islamabad)/Lounge and Drawing room/Drawing room 12.jpg",
+      "bytes": 3360109,
+      "md5": "41baf326d811e0e7d69a658ee641611f",
+      "ext": ".jpg",
+      "width": 3840,
+      "height": 2160,
+      "format": "jpeg",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Interior/Park View City (Islamabad)/Lounge and Drawing room/Drawing room 12.jpg"
+      ]
+    },
+    {
+      "path": "Landscape/Mr Waseem Elevation (1).png",
+      "bytes": 2807897,
+      "md5": "100d53492735ec8ca1ee5efd0d5c0219",
+      "ext": ".png",
+      "width": 1688,
+      "height": 932,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Landscape/Mr Waseem Elevation (1).png",
+        "Landscape/Mr Waseem Elevation (2).png"
+      ]
+    },
+    {
+      "path": "Landscape/Waseem Landscape (1).png",
+      "bytes": 2870588,
+      "md5": "a51471e3a928d95b7dda0298bc14a98b",
+      "ext": ".png",
+      "width": 1673,
+      "height": 940,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Landscape/Waseem Landscape (1).png",
+        "Landscape/Waseem Landscape (5).png"
+      ]
+    },
+    {
+      "path": "Landscape/Waseem Landscape (2).png",
+      "bytes": 2699836,
+      "md5": "d0f336b057cff76a96dcaba8d38d2ea2",
+      "ext": ".png",
+      "width": 1674,
+      "height": 940,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Landscape/Waseem Landscape (2).png",
+        "Landscape/Waseem Landscape (7).png"
+      ]
+    },
+    {
+      "path": "Landscape/Waseem Landscape (3).png",
+      "bytes": 3048815,
+      "md5": "1d43ce3c5a56cde601a662dc254f69c1",
+      "ext": ".png",
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Landscape/Waseem Landscape (3).png",
+        "Landscape/Waseem Landscape (8).png"
+      ]
+    },
+    {
+      "path": "Landscape/Waseem Landscape (4).png",
+      "bytes": 2926024,
+      "md5": "f00e51c68735d45db99b3816b117390a",
+      "ext": ".png",
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Landscape/Waseem Landscape (4).png",
+        "Landscape/Waseem Landscape (9).png"
+      ]
+    },
+    {
+      "path": "Landscape/Waseem Landscape (6).png",
+      "bytes": 2924656,
+      "md5": "34aa606fb31abdd2f9b24137424db882",
+      "ext": ".png",
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Landscape/Waseem Landscape (10).png",
+        "Landscape/Waseem Landscape (6).png"
+      ]
+    },
+    {
+      "path": "Landscape/Waseem Landscape 9 (1).png",
+      "bytes": 2776339,
+      "md5": "9bb0de01e0c945a2efd713ad153f467e",
+      "ext": ".png",
+      "width": 1672,
+      "height": 940,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Landscape/Waseem Landscape 9 (1).png",
+        "Landscape/Waseem Landscape 9 (3).png"
+      ]
+    },
+    {
+      "path": "Landscape/Waseem Landscape 9 (2).png",
+      "bytes": 2720546,
+      "md5": "227a21d35950d03bab3b7ba405410d2d",
+      "ext": ".png",
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "hasAlpha": false,
+      "alphaMin": null,
+      "copies": [
+        "Landscape/Waseem Landscape 9 (2).png",
+        "Landscape/Waseem Landscape 9 (4).png"
+      ]
+    },
+    {
+      "path": "Logo/Logo Alphabets - Copy.png",
+      "bytes": 402006,
+      "md5": "80dec5db4d8036d1b3e10077d082dcd7",
+      "ext": ".png",
+      "width": 3106,
+      "height": 3108,
+      "format": "png",
+      "hasAlpha": true,
+      "alphaMin": 0,
+      "copies": [
+        "Logo/Logo Alphabets - Copy (2).png",
+        "Logo/Logo Alphabets - Copy.png"
+      ]
+    }
+  ]
+}
