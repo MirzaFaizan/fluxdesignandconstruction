@@ -32,3 +32,19 @@ export function languageAlternates(
     languages,
   };
 }
+
+export function projectLanguageAlternates(
+  slug: string,
+  locale: Locale
+): NonNullable<Metadata["alternates"]> {
+  const en = `/work/${slug}`;
+  const ur = `/ur/work/${slug}`;
+  return {
+    canonical: locale === "ur" ? ur : en,
+    languages: {
+      "x-default": en,
+      en,
+      ur,
+    },
+  };
+}
