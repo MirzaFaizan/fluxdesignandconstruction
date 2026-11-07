@@ -36,6 +36,11 @@ yarn-error.log*
 # Vercel
 .vercel
 
+# OpenNext / Wrangler
+.open-next/
+.wrangler/
+.dev.vars
+
 # Media dump — never commit masters (1.1 GB Desktop folders)
 Architecture/
 Construction/
