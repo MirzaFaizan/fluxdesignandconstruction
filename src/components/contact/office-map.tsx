@@ -61,6 +61,10 @@ export function OfficeMap({ caption, label }: OfficeMapProps) {
       await import("maplibre-gl/dist/maplibre-gl.css");
       if (cancelled || !ref.current) return;
 
+      maplibre.setWorkerUrl(
+        new URL("/maplibre/maplibre-gl-worker.mjs", window.location.origin).href
+      );
+
       const reduceMotion = window.matchMedia(
         "(prefers-reduced-motion: reduce)"
       ).matches;
