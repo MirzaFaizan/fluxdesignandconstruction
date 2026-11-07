@@ -7,6 +7,10 @@
   "workers_dev": true,
   "preview_urls": true,
   "upload_source_maps": true,
+  "routes": [
+    { "pattern": "fluxdesignandconstruction.com", "custom_domain": true },
+    { "pattern": "www.fluxdesignandconstruction.com", "custom_domain": true }
+  ],
   "assets": {
     "directory": ".open-next/assets",
     "binding": "ASSETS"
