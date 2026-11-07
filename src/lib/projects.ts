@@ -157,16 +157,16 @@ export const workProjects: WorkProject[] = [
     caption: zahidCaption,
     alt: altFromCaption(zahidCaption),
     brief: {
-      en: "A 5 marla house in PGSHF. Architecture — ask if construction was ours.",
-      ur: "PGSHF میں 5 مرلہ گھر۔ آرکیٹیکچر — تعمیر ہماری تھی یا نہیں، پوچھ لیں۔",
+      en: "A 5 marla house in PGSHF. Architecture - ask if construction was ours.",
+      ur: "PGSHF میں 5 مرلہ گھر۔ آرکیٹیکچر - تعمیر ہماری تھی یا نہیں، پوچھ لیں۔",
     },
     like: {
       en: "PGSHF · 5 marla · house",
       ur: "PGSHF · 5 مرلہ · گھر",
     },
     metaDescription: {
-      en: "A 5 marla house in PGSHF. Architecture — ask if construction was ours. Islamabad / Rawalpindi studio. WhatsApp to ask about this project.",
-      ur: "PGSHF میں 5 مرلہ گھر۔ آرکیٹیکچر — تعمیر ہماری تھی یا نہیں، پوچھ لیں۔ اسلام آباد / راولپنڈی سٹوڈیو۔ اس منصوبے کے لیے واٹس ایپ کریں۔",
+      en: "A 5 marla house in PGSHF. Architecture - ask if construction was ours. Islamabad / Rawalpindi studio. WhatsApp to ask about this project.",
+      ur: "PGSHF میں 5 مرلہ گھر۔ آرکیٹیکچر - تعمیر ہماری تھی یا نہیں، پوچھ لیں۔ اسلام آباد / راولپنڈی سٹوڈیو۔ اس منصوبے کے لیے واٹس ایپ کریں۔",
     },
     hero: launchMedia.zahid5Marla,
     gallery: [
@@ -189,16 +189,16 @@ export const workProjects: WorkProject[] = [
     caption: iqbalCaption,
     alt: altFromCaption(iqbalCaption),
     brief: {
-      en: "A 1 kanal house in PGSHF. Architecture — ask if construction was ours.",
-      ur: "PGSHF میں 1 کنال گھر۔ آرکیٹیکچر — تعمیر ہماری تھی یا نہیں، پوچھ لیں۔",
+      en: "A 1 kanal house in PGSHF. Architecture - ask if construction was ours.",
+      ur: "PGSHF میں 1 کنال گھر۔ آرکیٹیکچر - تعمیر ہماری تھی یا نہیں، پوچھ لیں۔",
     },
     like: {
       en: "PGSHF · 1 kanal · house",
       ur: "PGSHF · 1 کنال · گھر",
     },
     metaDescription: {
-      en: "A 1 kanal house in PGSHF. Architecture — ask if construction was ours. Islamabad / Rawalpindi studio. WhatsApp to ask about this project.",
-      ur: "PGSHF میں 1 کنال گھر۔ آرکیٹیکچر — تعمیر ہماری تھی یا نہیں، پوچھ لیں۔ اسلام آباد / راولپنڈی سٹوڈیو۔ اس منصوبے کے لیے واٹس ایپ کریں۔",
+      en: "A 1 kanal house in PGSHF. Architecture - ask if construction was ours. Islamabad / Rawalpindi studio. WhatsApp to ask about this project.",
+      ur: "PGSHF میں 1 کنال گھر۔ آرکیٹیکچر - تعمیر ہماری تھی یا نہیں، پوچھ لیں۔ اسلام آباد / راولپنڈی سٹوڈیو۔ اس منصوبے کے لیے واٹس ایپ کریں۔",
     },
     hero: launchMedia.iqbalPgshf,
     gallery: [
@@ -227,16 +227,16 @@ export const workProjects: WorkProject[] = [
       ur: "I-16 اسلام آباد · 5 مرلہ · ڈیزائن",
     }),
     brief: {
-      en: "A 5 marla house in I-16, Islamabad. Architecture — ask if construction was ours.",
-      ur: "اسلام آباد کے I-16 میں 5 مرلہ گھر۔ آرکیٹیکچر — تعمیر ہماری تھی یا نہیں، پوچھ لیں۔",
+      en: "A 5 marla house in I-16, Islamabad. Architecture - ask if construction was ours.",
+      ur: "اسلام آباد کے I-16 میں 5 مرلہ گھر۔ آرکیٹیکچر - تعمیر ہماری تھی یا نہیں، پوچھ لیں۔",
     },
     like: {
       en: "I-16 Islamabad · 5 marla · house",
       ur: "I-16 اسلام آباد · 5 مرلہ · گھر",
     },
     metaDescription: {
-      en: "A 5 marla house in I-16, Islamabad. Architecture — ask if construction was ours. Islamabad / Rawalpindi studio. WhatsApp to ask about this project.",
-      ur: "اسلام آباد کے I-16 میں 5 مرلہ گھر۔ آرکیٹیکچر — تعمیر ہماری تھی یا نہیں، پوچھ لیں۔ اسلام آباد / راولپنڈی سٹوڈیو۔ اس منصوبے کے لیے واٹس ایپ کریں۔",
+      en: "A 5 marla house in I-16, Islamabad. Architecture - ask if construction was ours. Islamabad / Rawalpindi studio. WhatsApp to ask about this project.",
+      ur: "اسلام آباد کے I-16 میں 5 مرلہ گھر۔ آرکیٹیکچر - تعمیر ہماری تھی یا نہیں، پوچھ لیں۔ اسلام آباد / راولپنڈی سٹوڈیو۔ اس منصوبے کے لیے واٹس ایپ کریں۔",
     },
     hero: launchMedia.i16FiveMarla,
     gallery: [
@@ -268,16 +268,16 @@ export const workProjects: WorkProject[] = [
       ur: "منڈی بہاؤالدین · 1 کنال · ڈیزائن",
     }),
     brief: {
-      en: "A 1 kanal house in Mandi Bahauddin. Architecture — ask if construction was ours.",
-      ur: "منڈی بہاؤالدین میں 1 کنال گھر۔ آرکیٹیکچر — تعمیر ہماری تھی یا نہیں، پوچھ لیں۔",
+      en: "A 1 kanal house in Mandi Bahauddin. Architecture - ask if construction was ours.",
+      ur: "منڈی بہاؤالدین میں 1 کنال گھر۔ آرکیٹیکچر - تعمیر ہماری تھی یا نہیں، پوچھ لیں۔",
     },
     like: {
       en: "Mandi Bahauddin · 1 kanal · house",
       ur: "منڈی بہاؤالدین · 1 کنال · گھر",
     },
     metaDescription: {
-      en: "A 1 kanal house in Mandi Bahauddin. Architecture — ask if construction was ours. Islamabad / Rawalpindi studio. WhatsApp to ask about this project.",
-      ur: "منڈی بہاؤالدین میں 1 کنال گھر۔ آرکیٹیکچر — تعمیر ہماری تھی یا نہیں، پوچھ لیں۔ اسلام آباد / راولپنڈی سٹوڈیو۔ اس منصوبے کے لیے واٹس ایپ کریں۔",
+      en: "A 1 kanal house in Mandi Bahauddin. Architecture - ask if construction was ours. Islamabad / Rawalpindi studio. WhatsApp to ask about this project.",
+      ur: "منڈی بہاؤالدین میں 1 کنال گھر۔ آرکیٹیکچر - تعمیر ہماری تھی یا نہیں، پوچھ لیں۔ اسلام آباد / راولپنڈی سٹوڈیو۔ اس منصوبے کے لیے واٹس ایپ کریں۔",
     },
     hero: launchMedia.annexy1Kanal,
     gallery: [
@@ -306,16 +306,16 @@ export const workProjects: WorkProject[] = [
       ur: "10 مرلہ · گھر · ڈیزائن",
     }),
     brief: {
-      en: "A 10 marla house. Architecture — ask if construction was ours.",
-      ur: "10 مرلہ گھر۔ آرکیٹیکچر — تعمیر ہماری تھی یا نہیں، پوچھ لیں۔",
+      en: "A 10 marla house. Architecture - ask if construction was ours.",
+      ur: "10 مرلہ گھر۔ آرکیٹیکچر - تعمیر ہماری تھی یا نہیں، پوچھ لیں۔",
     },
     like: {
       en: "10 marla · house",
       ur: "10 مرلہ · گھر",
     },
     metaDescription: {
-      en: "A 10 marla house. Architecture — ask if construction was ours. Islamabad / Rawalpindi studio. WhatsApp to ask about this project.",
-      ur: "10 مرلہ گھر۔ آرکیٹیکچر — تعمیر ہماری تھی یا نہیں، پوچھ لیں۔ اسلام آباد / راولپنڈی سٹوڈیو۔ اس منصوبے کے لیے واٹس ایپ کریں۔",
+      en: "A 10 marla house. Architecture - ask if construction was ours. Islamabad / Rawalpindi studio. WhatsApp to ask about this project.",
+      ur: "10 مرلہ گھر۔ آرکیٹیکچر - تعمیر ہماری تھی یا نہیں، پوچھ لیں۔ اسلام آباد / راولپنڈی سٹوڈیو۔ اس منصوبے کے لیے واٹس ایپ کریں۔",
     },
     hero: launchMedia.ahsanAftab10Marla,
     gallery: [
@@ -343,16 +343,16 @@ export const workProjects: WorkProject[] = [
       ur: "10 مرلہ · گھر · ڈیزائن",
     }),
     brief: {
-      en: "A 10 marla house. Architecture — ask if construction was ours.",
-      ur: "10 مرلہ گھر۔ آرکیٹیکچر — تعمیر ہماری تھی یا نہیں، پوچھ لیں۔",
+      en: "A 10 marla house. Architecture - ask if construction was ours.",
+      ur: "10 مرلہ گھر۔ آرکیٹیکچر - تعمیر ہماری تھی یا نہیں، پوچھ لیں۔",
     },
     like: {
       en: "10 marla · house",
       ur: "10 مرلہ · گھر",
     },
     metaDescription: {
-      en: "A 10 marla house. Architecture — ask if construction was ours. Islamabad / Rawalpindi studio. WhatsApp to ask about this project.",
-      ur: "10 مرلہ گھر۔ آرکیٹیکچر — تعمیر ہماری تھی یا نہیں، پوچھ لیں۔ اسلام آباد / راولپنڈی سٹوڈیو۔ اس منصوبے کے لیے واٹس ایپ کریں۔",
+      en: "A 10 marla house. Architecture - ask if construction was ours. Islamabad / Rawalpindi studio. WhatsApp to ask about this project.",
+      ur: "10 مرلہ گھر۔ آرکیٹیکچر - تعمیر ہماری تھی یا نہیں، پوچھ لیں۔ اسلام آباد / راولپنڈی سٹوڈیو۔ اس منصوبے کے لیے واٹس ایپ کریں۔",
     },
     hero: launchMedia.khurram10Marla,
     gallery: [

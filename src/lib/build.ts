@@ -36,8 +36,8 @@ export type BuildSiteStill = {
 
 function cgiAlt(en: string, ur: string): LocaleText {
   return {
-    en: `${en}. CGI — a render, not a photograph. FluX Design and Construction.`,
-    ur: `${ur}۔ CGI — رینڈر ہے، تصویر نہیں۔ FluX ڈیزائن اینڈ کنسٹرکشن۔`,
+    en: `${en}. CGI - a render, not a photograph. FluX Design and Construction.`,
+    ur: `${ur}۔ CGI - رینڈر ہے، تصویر نہیں۔ FluX ڈیزائن اینڈ کنسٹرکشن۔`,
   };
 }
 
@@ -60,8 +60,8 @@ export const buildComparePairs: BuildComparePair[] = [
     },
     cgiAlt: cgiAlt("Plot 352-C, PGSHF", "پلاٹ 352-C، PGSHF"),
     siteAlt: siteAlt(
-      "Plot 352-C, PGSHF, Adyala Road — grey structure",
-      "پلاٹ 352-C، PGSHF، اڈیالہ روڈ — گرے سٹرکچر",
+      "Plot 352-C, PGSHF, Adyala Road - grey structure",
+      "پلاٹ 352-C، PGSHF، اڈیالہ روڈ - گرے سٹرکچر",
     ),
   },
   {
@@ -74,7 +74,7 @@ export const buildComparePairs: BuildComparePair[] = [
       ur: "PGSHF · 629-D",
     },
     cgiAlt: cgiAlt("Plot 629-D, PGSHF", "پلاٹ 629-D، PGSHF"),
-    siteAlt: siteAlt("Plot 629-D, PGSHF — brickwork", "پلاٹ 629-D، PGSHF — اینٹوں کا کام"),
+    siteAlt: siteAlt("Plot 629-D, PGSHF - brickwork", "پلاٹ 629-D، PGSHF - اینٹوں کا کام"),
     sitePosition: "center 42%",
   },
   {
@@ -87,7 +87,7 @@ export const buildComparePairs: BuildComparePair[] = [
       ur: "PGSHF · 586-A",
     },
     cgiAlt: cgiAlt("Plot 586-A, PGSHF", "پلاٹ 586-A، PGSHF"),
-    siteAlt: siteAlt("Plot 586-A, PGSHF — on site", "پلاٹ 586-A، PGSHF — سائٹ پر"),
+    siteAlt: siteAlt("Plot 586-A, PGSHF - on site", "پلاٹ 586-A، PGSHF - سائٹ پر"),
   },
   {
     id: "iftikhar",
@@ -100,8 +100,8 @@ export const buildComparePairs: BuildComparePair[] = [
     },
     cgiAlt: cgiAlt("Iftikhar house, PGSHF", "افتخار ہاؤس، PGSHF"),
     siteAlt: siteAlt(
-      "Iftikhar house, PGSHF — grey structure",
-      "افتخار ہاؤس، PGSHF — گرے سٹرکچر",
+      "Iftikhar house, PGSHF - grey structure",
+      "افتخار ہاؤس، PGSHF - گرے سٹرکچر",
     ),
     sitePosition: "center 58%",
   },
@@ -115,7 +115,7 @@ export const buildComparePairs: BuildComparePair[] = [
       ur: "PGSHF · 644-A",
     },
     cgiAlt: cgiAlt("Plot 644-A, PGSHF", "پلاٹ 644-A، PGSHF"),
-    siteAlt: siteAlt("Plot 644-A, PGSHF — foundations", "پلاٹ 644-A، PGSHF — بنیاد"),
+    siteAlt: siteAlt("Plot 644-A, PGSHF - foundations", "پلاٹ 644-A، PGSHF - بنیاد"),
     sitePosition: "center 28%",
   },
 ];
@@ -129,8 +129,8 @@ export const buildSiteStills: BuildSiteStill[] = [
       ur: "DHA III · پلاٹ 3 سیکٹر A · سائٹ",
     },
     alt: siteAlt(
-      "DHA III, Plot 3 Sector A — pouring",
-      "DHA III، پلاٹ 3 سیکٹر A — کنکریٹ",
+      "DHA III, Plot 3 Sector A - pouring",
+      "DHA III، پلاٹ 3 سیکٹر A - کنکریٹ",
     ),
   },
   {
@@ -140,6 +140,6 @@ export const buildSiteStills: BuildSiteStill[] = [
       en: "Gulberg Green · Site",
       ur: "گلبرگ گرین · سائٹ",
     },
-    alt: siteAlt("Gulberg Green — under construction", "گلبرگ گرین — زیر تعمیر"),
+    alt: siteAlt("Gulberg Green - under construction", "گلبرگ گرین - زیر تعمیر"),
   },
 ];
