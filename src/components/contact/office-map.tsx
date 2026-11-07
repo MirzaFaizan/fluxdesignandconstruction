@@ -112,7 +112,10 @@ export function OfficeMap({ caption, label }: OfficeMapProps) {
         aria-label={label}
         className="office-map aspect-[16/9] w-full border border-border bg-background"
       />
-      <figcaption className="mt-3 text-sm leading-relaxed text-foreground/80">
+      <figcaption
+        dir="ltr"
+        className="mt-3 text-sm leading-relaxed text-foreground/80"
+      >
         {caption}
       </figcaption>
     </figure>

@@ -4,11 +4,11 @@ import { ContactForm } from "@/components/contact/contact-form";
 import { OfficeMap } from "@/components/contact/office-map";
 import { PageIntro } from "@/components/content/page-intro";
 import { StickyWhatsApp } from "@/components/home/sticky-whatsapp";
+import { LocalBusinessJsonLd } from "@/components/seo/json-ld";
 import { isLocale, routing } from "@/i18n/routing";
 import { ctaPrimary } from "@/lib/cta";
 import {
   BEHANCE_URL,
-  CITIES,
   hasOfficeAddress,
   hasOfficeHours,
   INSTAGRAM_URL,
@@ -61,6 +61,7 @@ export default async function ContactPage({ params }: PageProps) {
 
   return (
     <>
+      <LocalBusinessJsonLd />
       <main id="content">
         <article className="mx-auto w-full max-w-5xl px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
           <PageIntro kicker={t("kicker")} title={t("title")} lede={t("lede")} />
@@ -79,7 +80,9 @@ export default async function ContactPage({ params }: PageProps) {
             {hasOfficeAddress() ? (
               <div>
                 <dt className="nav-link text-foreground/70">{t("officeLabel")}</dt>
-                <dd className="mt-1">{OFFICE_ADDRESS}</dd>
+                <dd className="mt-1" dir="ltr">
+                  {OFFICE_ADDRESS}
+                </dd>
               </div>
             ) : null}
             {hasOfficeHours() ? (
@@ -164,9 +167,6 @@ export default async function ContactPage({ params }: PageProps) {
 
           <section className="mt-16 border-t border-border pt-16">
             <h2 className="nav-link text-foreground/70">{t("mapEyebrow")}</h2>
-            <p className="mt-4 max-w-xl text-pretty text-base leading-relaxed text-foreground/85">
-              {CITIES}
-            </p>
             <div className="mt-8">
               <OfficeMap caption={mapCaption} label={t("mapLabel")} />
             </div>

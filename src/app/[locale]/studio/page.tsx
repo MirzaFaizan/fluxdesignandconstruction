@@ -1,4 +1,5 @@
 import { StickyWhatsApp } from "@/components/home/sticky-whatsapp";
+import { LocalBusinessJsonLd } from "@/components/seo/json-ld";
 import { StudioView } from "@/components/studio/studio-view";
 import { isLocale, routing } from "@/i18n/routing";
 import { languageAlternates } from "@/lib/metadata";
@@ -32,6 +33,7 @@ export default async function StudioPage({ params }: PageProps) {
 
   return (
     <>
+      <LocalBusinessJsonLd />
       <main id="content" className="pb-16 md:pb-0">
         <StudioView locale={locale} />
       </main>

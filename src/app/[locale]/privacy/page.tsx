@@ -64,7 +64,11 @@ export default async function PrivacyPage({ params }: PageProps) {
             </p>
           ) : (
             <p className="mt-5 text-pretty text-base leading-relaxed text-foreground/85">
-              {t("whoFallback", { publicName: PUBLIC_NAME, cities: CITIES })}
+              {t("whoFallback", {
+                publicName: PUBLIC_NAME,
+                cities: CITIES,
+                address: hasOfficeAddress() ? OFFICE_ADDRESS : CITIES,
+              })}
             </p>
           )}
         </section>

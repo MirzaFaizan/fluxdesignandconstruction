@@ -2,7 +2,11 @@ import { Link } from "@/i18n/navigation";
 import {
   BEHANCE_URL,
   INSTAGRAM_URL,
+  OFFICE_ADDRESS,
+  OFFICE_HOURS_PKT,
   STUDIO_EMAIL,
+  hasOfficeAddress,
+  hasOfficeHours,
   isPhoneLive,
   phoneDisplay,
   telHref,
@@ -34,6 +38,14 @@ export async function SiteFooter() {
             {t("tagline")}
           </p>
           <ul className="mt-6 flex flex-col gap-2 text-sm leading-relaxed text-foreground/80">
+            {hasOfficeAddress() ? (
+              <li dir="ltr">{OFFICE_ADDRESS}</li>
+            ) : null}
+            {hasOfficeHours() ? (
+              <li dir="ltr">
+                {OFFICE_HOURS_PKT} (PKT)
+              </li>
+            ) : null}
             {isPhoneLive() && display && callHref ? (
               <li>
                 <a href={callHref} dir="ltr" className="hover:text-foreground">

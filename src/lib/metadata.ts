@@ -12,6 +12,7 @@ type AppPath =
   | "/build"
   | "/approvals"
   | "/studio"
+  | "/faq"
   | "/contact"
   | "/privacy";
 
