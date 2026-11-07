@@ -449,8 +449,8 @@ export function sketchWhatsAppText(
   const society = state.society.trim() || (locale === "ur" ? "(سوسائٹی)" : "(society)");
 
   if (locale === "ur") {
-    return `السلام علیکم، میں نے FluX پر گھر کا خاکہ بنایا ہے۔ خاکہ ${state.id}۔ پلاٹ: ${plotLabel(plot, "ur")}۔ سوسائٹی: ${society}۔ کمرے: ${rooms || "-"}۔ Ar. Adnan / Ar. Umair کے لیے پہلی بریف ہے۔`;
+    return `السلام علیکم، میں نے FluX پر گھر کا خاکہ بنایا ہے۔ خاکہ ${state.id}۔ پلاٹ: ${plotLabel(plot, "ur")}۔ سوسائٹی: ${society}۔ کمرے: ${rooms || "-"}۔ Ar. Adnan / Engr. Umair کے لیے پہلی بریف ہے۔`;
   }
 
-  return `Salaam, I sketched a house on FluX. Sketch ${state.id}. Plot: ${plotLabel(plot, "en")}. Society: ${society}. Rooms: ${rooms || "-"}. This is a first brief for Ar. Adnan / Ar. Umair.`;
+  return `Salaam, I sketched a house on FluX. Sketch ${state.id}. Plot: ${plotLabel(plot, "en")}. Society: ${society}. Rooms: ${rooms || "-"}. This is a first brief for Ar. Adnan / Engr. Umair.`;
 }
