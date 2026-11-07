@@ -419,7 +419,7 @@
     "whoBody": "This site is {domain}, operated by {legal} (public name: {publicName}). Office: {address}.",
     "whoFallback": "{publicName}, {cities}. Office: {address}. A registered legal name will appear here when it is confirmed.",
     "collectTitle": "What we collect",
-    "collectBody": "From the form: name, WhatsApp number, plot size, society, service, the city you are writing from, and your message. From WhatsApp or a call: whatever you send us about the plot. We do not run a client portal or a marketing pixel wall on this site in v1.",
+    "collectBody": "From the form: name, WhatsApp number, plot size, society, service, the city you are writing from, and your message. The form emails that enquiry to the studio. From WhatsApp or a call: whatever you send us about the plot. We do not run a client portal or a marketing pixel wall on this site in v1.",
     "useTitle": "What we use it for",
     "useBody": "To answer the enquiry, to look at the plot, and to keep a record of what was agreed. We do not sell your number. WhatsApp is Meta’s product; their terms apply to that chat.",
     "longTitle": "How long we keep it",

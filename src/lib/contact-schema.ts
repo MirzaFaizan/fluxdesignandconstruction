@@ -29,6 +29,7 @@ export const contactApiSchema = z.object({
   city: z.string().trim().min(1).max(80),
   message: z.string().trim().min(1).max(4000),
   locale: z.enum(["en", "ur"]),
+  page: z.string().trim().max(200).optional(),
 });
 
 export type ContactPayload = z.infer<typeof contactApiSchema>;

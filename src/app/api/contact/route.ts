@@ -1,3 +1,4 @@
+import { sendContactMail } from "@/lib/contact-mail";
 import { contactApiSchema } from "@/lib/contact-schema";
 import { NextResponse } from "next/server";
 
@@ -15,5 +16,11 @@ export async function POST(request: Request) {
   }
 
   console.info("[contact]", parsed.data.locale, parsed.data.service, parsed.data.city);
+
+  const result = await sendContactMail(parsed.data);
+  if (result === "failed") {
+    return NextResponse.json({ ok: false }, { status: 500 });
+  }
+
   return NextResponse.json({ ok: true });
 }
