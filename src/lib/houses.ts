@@ -27,12 +27,12 @@ function still(
 }
 
 export const housesHeroCaption = {
-  en: "Courtyard at dusk · house",
-  ur: "شام کے وقت صحن · گھر",
+  en: "PGSHF · 1 kanal · house",
+  ur: "PGSHF · 1 کنال · گھر",
 } as const;
 
 export const housesHeroAlt = altFromCaption(housesHeroCaption);
-export const housesHeroStill = launchMedia.courtyardNight;
+export const housesHeroStill = launchMedia.iqbalPgshf;
 
 export const marla5Stills: HouseStill[] = [
   still("zahid-5-marla", launchMedia.zahid5Marla, {

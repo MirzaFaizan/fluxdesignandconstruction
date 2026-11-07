@@ -1,5 +1,4 @@
 import { WhatsAppCta } from "@/components/chrome/whatsapp-cta";
-import { WhatsAppMark } from "@/components/chrome/whatsapp-mark";
 import { Link } from "@/i18n/navigation";
 import type { Locale } from "@/i18n/routing";
 import { ctaPrimary, ctaSecondary } from "@/lib/cta";
@@ -50,7 +49,6 @@ export async function HousesHero({ locale }: { locale: Locale }) {
               className={ctaPrimary}
               ariaLabel={nav("whatsappAria")}
             >
-              <WhatsAppMark className="size-4" />
               {t("enquire")}
             </WhatsAppCta>
             <Link href="/work" className={ctaSecondary}>
