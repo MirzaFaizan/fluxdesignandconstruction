@@ -4,6 +4,8 @@ import type { ContactPayload } from "./contact-schema";
 const MAIL_FROM = `FluX Design and Construction <${STUDIO_EMAIL}>`;
 const MAIL_CC = "fluxdesignstudio.info@gmail.com";
 
+export type MailResult = "sent" | "skipped" | "failed";
+
 export function contactMailText(data: ContactPayload): string {
   return [
     `Name: ${data.name}`,
@@ -18,13 +20,19 @@ export function contactMailText(data: ContactPayload): string {
   ].join("\n");
 }
 
-/** Resend HTTPS API — works on Cloudflare Workers / OpenNext. */
-export async function sendContactMail(
-  data: ContactPayload
-): Promise<"sent" | "skipped" | "failed"> {
+/**
+ * Plain-text mail to the studio inbox (To info@, CC the Gmail) via the
+ * Resend HTTPS API, which works on Cloudflare Workers / OpenNext.
+ * `tag` prefixes the log lines, e.g. "[contact]" or "[sketch]".
+ */
+export async function sendStudioMail(
+  tag: string,
+  subject: string,
+  text: string
+): Promise<MailResult> {
   const apiKey = process.env.RESEND_API_KEY?.trim() ?? "";
   if (!apiKey) {
-    console.info("[contact] mail skipped: RESEND_API_KEY is not set");
+    console.warn(`${tag} mail skipped: RESEND_API_KEY is not set`);
     return "skipped";
   }
 
@@ -39,18 +47,26 @@ export async function sendContactMail(
         from: MAIL_FROM,
         to: [STUDIO_EMAIL],
         cc: [MAIL_CC],
-        subject: `Enquiry from ${data.name.replace(/\s+/g, " ")}`,
-        text: contactMailText(data),
+        subject,
+        text,
       }),
     });
     if (!response.ok) {
-      console.error("[contact] mail failed", response.status);
+      console.error(`${tag} mail failed`, response.status);
       return "failed";
     }
-    console.info("[contact] mail sent");
+    console.info(`${tag} mail sent`);
     return "sent";
   } catch {
-    console.error("[contact] mail failed");
+    console.error(`${tag} mail failed`);
     return "failed";
   }
+}
+
+export function sendContactMail(data: ContactPayload): Promise<MailResult> {
+  return sendStudioMail(
+    "[contact]",
+    `Enquiry from ${data.name.replace(/\s+/g, " ")}`,
+    contactMailText(data)
+  );
 }

@@ -1,3 +1,4 @@
+import { sendSketchMail } from "@/lib/sketch-mail";
 import { sketchApiSchema } from "@/lib/sketch-schema";
 import { NextResponse } from "next/server";
 
@@ -22,5 +23,9 @@ export async function POST(request: Request) {
     parsed.data.city,
     parsed.data.rooms.length
   );
+
+  // The lead is only useful if the visitor still gets the PDF, so a mail
+  // failure is logged by sendStudioMail and never blocks the download.
+  await sendSketchMail(parsed.data);
   return NextResponse.json({ ok: true, sketchId: parsed.data.sketchId });
 }
