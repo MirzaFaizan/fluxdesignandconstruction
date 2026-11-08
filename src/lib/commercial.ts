@@ -1,12 +1,12 @@
 import type { Locale } from "@/i18n/routing";
-import type { StaticImageData } from "next/image";
+import type { MediaImage } from "./media";
 import { launchMedia } from "./launch-media";
 
 export type LocaleText = Record<Locale, string>;
 
 export type CommercialProject = {
   slug: string;
-  image: StaticImageData;
+  image: MediaImage;
   layout: "full" | "half";
   caption: LocaleText;
   brief: LocaleText;
@@ -22,7 +22,7 @@ function altFromCaption(caption: LocaleText): LocaleText {
 
 function project(
   slug: string,
-  image: StaticImageData,
+  image: MediaImage,
   layout: "full" | "half",
   caption: LocaleText,
   brief: LocaleText

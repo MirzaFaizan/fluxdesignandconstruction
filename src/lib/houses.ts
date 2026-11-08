@@ -1,12 +1,12 @@
 import type { Locale } from "@/i18n/routing";
-import type { StaticImageData } from "next/image";
+import type { MediaImage } from "./media";
 import { launchMedia } from "./launch-media";
 
 export type LocaleText = Record<Locale, string>;
 
 export type HouseStill = {
   id: string;
-  image: StaticImageData;
+  image: MediaImage;
   caption: LocaleText;
   alt: LocaleText;
 };
@@ -20,7 +20,7 @@ function altFromCaption(caption: LocaleText): LocaleText {
 
 function still(
   id: string,
-  image: StaticImageData,
+  image: MediaImage,
   caption: LocaleText
 ): HouseStill {
   return { id, image, caption, alt: altFromCaption(caption) };

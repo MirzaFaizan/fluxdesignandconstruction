@@ -1,25 +1,14 @@
 import type { Locale } from "@/i18n/routing";
-import type { StaticImageData } from "next/image";
-import khursheed586a from "../../web-media/launch/heroes/hero-khursheed-586a-dusk.webp";
-import proof352cCgi from "../../web-media/launch/proof/proof-352c-cgi.webp";
-import proof352cSite from "../../web-media/launch/proof/proof-352c-site.webp";
-import proof586aSite from "../../web-media/launch/proof/proof-586a-site.webp";
-import proof629dCgi from "../../web-media/launch/proof/proof-629d-cgi.webp";
-import proof629dSite from "../../web-media/launch/proof/proof-629d-site.webp";
-import proof644aCgi from "../../web-media/launch/proof/proof-644a-cgi.webp";
-import proof644aSite from "../../web-media/launch/proof/proof-644a-site.webp";
-import proofDhaIiiPour from "../../web-media/launch/proof/proof-dha-iii-pour.webp";
-import proofGulbergGreenSite from "../../web-media/launch/proof/proof-gulberg-green-site.webp";
-import proofIftikharCgi from "../../web-media/launch/proof/proof-iftikhar-cgi.webp";
-import proofIftikharSite from "../../web-media/launch/proof/proof-iftikhar-site.webp";
+import type { MediaImage } from "./media";
+import { launchMedia } from "./launch-media";
 
 export type LocaleText = Record<Locale, string>;
 
 export type BuildComparePair = {
   id: string;
   plot: string;
-  cgi: StaticImageData;
-  site: StaticImageData;
+  cgi: MediaImage;
+  site: MediaImage;
   caption: LocaleText;
   cgiAlt: LocaleText;
   siteAlt: LocaleText;
@@ -29,7 +18,7 @@ export type BuildComparePair = {
 
 export type BuildSiteStill = {
   id: string;
-  image: StaticImageData;
+  image: MediaImage;
   caption: LocaleText;
   alt: LocaleText;
 };
@@ -52,8 +41,8 @@ export const buildComparePairs: BuildComparePair[] = [
   {
     id: "352c",
     plot: "PGSHF · 352-C",
-    cgi: proof352cCgi,
-    site: proof352cSite,
+    cgi: launchMedia.proof352cCgi,
+    site: launchMedia.proof352cSite,
     caption: {
       en: "PGSHF · 352-C",
       ur: "PGSHF · 352-C",
@@ -67,8 +56,8 @@ export const buildComparePairs: BuildComparePair[] = [
   {
     id: "629d",
     plot: "PGSHF · 629-D",
-    cgi: proof629dCgi,
-    site: proof629dSite,
+    cgi: launchMedia.proof629dCgi,
+    site: launchMedia.proof629dSite,
     caption: {
       en: "PGSHF · 629-D",
       ur: "PGSHF · 629-D",
@@ -80,8 +69,8 @@ export const buildComparePairs: BuildComparePair[] = [
   {
     id: "586a",
     plot: "PGSHF · 586-A",
-    cgi: khursheed586a,
-    site: proof586aSite,
+    cgi: launchMedia.khursheed586a,
+    site: launchMedia.proof586aSite,
     caption: {
       en: "PGSHF · 586-A",
       ur: "PGSHF · 586-A",
@@ -92,8 +81,8 @@ export const buildComparePairs: BuildComparePair[] = [
   {
     id: "iftikhar",
     plot: "PGSHF · Iftikhar",
-    cgi: proofIftikharCgi,
-    site: proofIftikharSite,
+    cgi: launchMedia.proofIftikharCgi,
+    site: launchMedia.proofIftikharSite,
     caption: {
       en: "PGSHF · Iftikhar",
       ur: "PGSHF · افتخار",
@@ -108,8 +97,8 @@ export const buildComparePairs: BuildComparePair[] = [
   {
     id: "644a",
     plot: "PGSHF · 644-A",
-    cgi: proof644aCgi,
-    site: proof644aSite,
+    cgi: launchMedia.proof644aCgi,
+    site: launchMedia.proof644aSite,
     caption: {
       en: "PGSHF · 644-A",
       ur: "PGSHF · 644-A",
@@ -123,7 +112,7 @@ export const buildComparePairs: BuildComparePair[] = [
 export const buildSiteStills: BuildSiteStill[] = [
   {
     id: "dha-iii",
-    image: proofDhaIiiPour,
+    image: launchMedia.proofDhaIiiPour,
     caption: {
       en: "DHA III · Plot 3 Sector A · Site",
       ur: "DHA III · پلاٹ 3 سیکٹر A · سائٹ",
@@ -135,7 +124,7 @@ export const buildSiteStills: BuildSiteStill[] = [
   },
   {
     id: "gulberg-green",
-    image: proofGulbergGreenSite,
+    image: launchMedia.proofGulbergGreenSite,
     caption: {
       en: "Gulberg Green · Site",
       ur: "گلبرگ گرین · سائٹ",

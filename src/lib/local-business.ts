@@ -12,6 +12,7 @@ import {
   isPhoneLive,
   phoneDisplay,
 } from "@/lib/contact";
+import { launchMedia } from "@/lib/launch-media";
 
 const DAYS = [
   "Monday",
@@ -73,7 +74,7 @@ export function localBusinessJsonLd() {
     knowsLanguage: ["en", "ur"],
     image: [
       `${SITE_ORIGIN}/favicon-512.png`,
-      `${SITE_ORIGIN}/media/heroes/hero-khursheed-586a-dusk.webp`,
+      `${SITE_ORIGIN}${launchMedia.khursheed586a.src}`,
     ],
     logo: `${SITE_ORIGIN}/favicon-512.png`,
     sameAs: [INSTAGRAM_URL, BEHANCE_URL, MAPS_PLACE_URL],

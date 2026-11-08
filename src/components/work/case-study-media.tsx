@@ -1,5 +1,6 @@
 "use client";
 
+import { Picture } from "@/components/media/picture";
 import { Still } from "@/components/media/still";
 import {
   Dialog,
@@ -13,13 +14,12 @@ import { workTransitionName } from "@/lib/projects";
 import { cn } from "@/lib/utils";
 import { Dialog as DialogPrimitive } from "@base-ui/react/dialog";
 import { ChevronLeft, ChevronRight, XIcon } from "lucide-react";
-import type { StaticImageData } from "next/image";
-import Image from "next/image";
+import type { MediaImage } from "@/lib/media";
 import { ViewTransition } from "react";
 import { useEffect, useState } from "react";
 
 export type CaseStudyStill = {
-  src: StaticImageData;
+  src: MediaImage;
   alt: string;
   caption: string;
   kind: "cgi" | "site" | "interior" | "3d" | "elevation" | "landscape";
@@ -54,8 +54,8 @@ export function CaseStudyMedia({
   slug: string;
   items: CaseStudyStill[];
   compare?: {
-    cgi: StaticImageData;
-    site: StaticImageData;
+    cgi: MediaImage;
+    site: MediaImage;
     cgiAlt: string;
     siteAlt: string;
   };
@@ -197,11 +197,9 @@ export function CaseStudyMedia({
             </div>
             <div className="relative min-h-0 flex-1">
               {current ? (
-                <Image
-                  src={current.src}
+                <Picture
+                  image={current.src}
                   alt={current.alt}
-                  fill
-                  unoptimized
                   sizes="100vw"
                   className="object-contain"
                 />
