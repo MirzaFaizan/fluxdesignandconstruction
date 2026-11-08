@@ -1,4 +1,5 @@
 import { WhatsAppCta } from "@/components/chrome/whatsapp-cta";
+import { Picture } from "@/components/media/picture";
 import { Link } from "@/i18n/navigation";
 import type { Locale } from "@/i18n/routing";
 import { ctaPrimary, ctaSecondary } from "@/lib/cta";
@@ -8,7 +9,6 @@ import {
   commercialHeroStill,
 } from "@/lib/commercial";
 import { getTranslations } from "next-intl/server";
-import Image from "next/image";
 
 export async function CommercialHero({ locale }: { locale: Locale }) {
   const t = await getTranslations("Commercial");
@@ -16,14 +16,12 @@ export async function CommercialHero({ locale }: { locale: Locale }) {
 
   return (
     <section className="relative isolate min-h-[calc(100svh-3.5rem)] overflow-x-clip border-b border-border md:min-h-[calc(100svh-4rem)]">
-      <Image
-        src={commercialHeroStill}
+      <Picture
+        image={commercialHeroStill}
         alt={commercialHeroAlt[locale]}
-        fill
-        priority
-        unoptimized
         sizes="100vw"
-        className="object-cover object-center"
+        priority
+        className="object-center"
       />
       <div aria-hidden="true" className="absolute inset-0 bg-background/45" />
       <div className="relative flex min-h-[calc(100svh-3.5rem)] flex-col justify-end md:min-h-[calc(100svh-4rem)]">

@@ -1,18 +1,12 @@
 import type { Locale } from "@/i18n/routing";
-import type { StaticImageData } from "next/image";
-import parkViewKitchen from "../../web-media/launch/interiors/interior-park-view-kitchen.webp";
-import mansehraKitchen from "../../web-media/launch/interiors/interior-mansehra-kitchen.webp";
-import luxuryKitchen from "../../web-media/launch/interiors/interior-luxury-kitchen.webp";
-import attockTvWall from "../../web-media/launch/interiors/interior-attock-tv-wall.webp";
-import parkViewLounge from "../../web-media/launch/interiors/interior-park-view-drawing.webp";
-import mansehraLounge from "../../web-media/launch/interiors/interior-mansehra-lounge.webp";
-import masterBath from "../../web-media/launch/interiors/interior-bath-g.webp";
+import type { MediaImage } from "./media";
+import { launchMedia } from "./launch-media";
 
 export type LocaleText = Record<Locale, string>;
 
 export type InteriorStill = {
   id: string;
-  image: StaticImageData;
+  image: MediaImage;
   layout: "full" | "half";
   caption: LocaleText;
   alt: LocaleText;
@@ -27,7 +21,7 @@ function altFromCaption(caption: LocaleText): LocaleText {
 
 function still(
   id: string,
-  image: StaticImageData,
+  image: MediaImage,
   layout: InteriorStill["layout"],
   caption: LocaleText
 ): InteriorStill {
@@ -40,39 +34,39 @@ const parkViewKitchenCaption = {
 } as const;
 
 export const interiorsHero = {
-  image: parkViewKitchen,
+  image: launchMedia.interiorParkViewKitchen,
   caption: parkViewKitchenCaption,
   alt: altFromCaption(parkViewKitchenCaption),
 };
 
 export const kitchenStills: InteriorStill[] = [
-  still("mansehra-kitchen", mansehraKitchen, "half", {
+  still("mansehra-kitchen", launchMedia.interiorMansehraKitchen, "half", {
     en: "Mansehra · kitchen · Interior",
     ur: "مانسہرہ · کچن · انٹیریئر",
   }),
-  still("kitchen", luxuryKitchen, "half", {
+  still("kitchen", launchMedia.interiorLuxuryKitchen, "half", {
     en: "Kitchen · Interior",
     ur: "کچن · انٹیریئر",
   }),
 ];
 
 export const loungeStills: InteriorStill[] = [
-  still("attock-tv-lounge", attockTvWall, "full", {
+  still("attock-tv-lounge", launchMedia.interiorAttockTvWall, "full", {
     en: "Attock · TV lounge · Interior",
     ur: "اٹک · ٹی وی لاؤنج · انٹیریئر",
   }),
-  still("park-view-lounge", parkViewLounge, "half", {
+  still("park-view-lounge", launchMedia.interiorParkViewDrawing, "half", {
     en: "Park View City · lounge · Interior",
     ur: "پارک ویو سٹی · لاؤنج · انٹیریئر",
   }),
-  still("mansehra-lounge", mansehraLounge, "half", {
+  still("mansehra-lounge", launchMedia.interiorMansehraLounge, "half", {
     en: "Mansehra · lounge · Interior",
     ur: "مانسہرہ · لاؤنج · انٹیریئر",
   }),
 ];
 
 export const bathStills: InteriorStill[] = [
-  still("master-bath", masterBath, "full", {
+  still("master-bath", launchMedia.interiorBathG, "full", {
     en: "Master bath · Interior",
     ur: "ماسٹر باتھ · انٹیریئر",
   }),

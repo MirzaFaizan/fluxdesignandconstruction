@@ -1,5 +1,5 @@
 import type { Locale } from "@/i18n/routing";
-import type { StaticImageData } from "next/image";
+import type { MediaImage } from "./media";
 import { launchMedia } from "./launch-media";
 
 export type LocaleText = Record<Locale, string>;
@@ -23,7 +23,7 @@ export type GalleryKind =
   | "landscape";
 
 export type GalleryItem = {
-  src: StaticImageData;
+  src: MediaImage;
   kind: GalleryKind;
   caption: LocaleText;
   alt: LocaleText;
@@ -31,7 +31,7 @@ export type GalleryItem = {
 
 export type SelectedProject = {
   slug: string;
-  image: StaticImageData;
+  image: MediaImage;
   layout: "full" | "half";
   flags: ProjectFlag[];
   caption: LocaleText;
@@ -41,8 +41,8 @@ export type SelectedProject = {
 export type DesignSitePair = {
   id: string;
   society: string;
-  cgi: StaticImageData;
-  site: StaticImageData;
+  cgi: MediaImage;
+  site: MediaImage;
   cgiCaption: LocaleText;
   siteCaption: LocaleText;
 };
@@ -61,11 +61,11 @@ export type WorkProject = {
   brief: LocaleText;
   like: LocaleText;
   metaDescription: LocaleText;
-  hero: StaticImageData;
+  hero: MediaImage;
   gallery: GalleryItem[];
   compare?: {
-    cgi: StaticImageData;
-    site: StaticImageData;
+    cgi: MediaImage;
+    site: MediaImage;
     cgiCaption: LocaleText;
     siteCaption: LocaleText;
   };
@@ -80,7 +80,7 @@ function altFromCaption(caption: LocaleText): LocaleText {
 }
 
 function still(
-  src: StaticImageData,
+  src: MediaImage,
   kind: GalleryKind,
   caption: LocaleText
 ): GalleryItem {

@@ -1,10 +1,10 @@
 import { WhatsAppCta } from "@/components/chrome/whatsapp-cta";
+import { Picture } from "@/components/media/picture";
 import { Link } from "@/i18n/navigation";
 import { ctaPrimary, ctaSecondary } from "@/lib/cta";
 import { interiorsHero } from "@/lib/interiors";
 import type { Locale } from "@/i18n/routing";
 import { getTranslations } from "next-intl/server";
-import Image from "next/image";
 
 export async function InteriorsHero({ locale }: { locale: Locale }) {
   const t = await getTranslations("Interiors");
@@ -14,14 +14,12 @@ export async function InteriorsHero({ locale }: { locale: Locale }) {
   return (
     <section className="relative isolate min-h-[calc(100svh-3.5rem)] border-b border-border md:min-h-[calc(100svh-4rem)]">
       <div className="absolute inset-0 overflow-hidden">
-        <Image
-          src={interiorsHero.image}
+        <Picture
+          image={interiorsHero.image}
           alt={interiorsHero.alt[locale]}
-          fill
-          priority
-          unoptimized
           sizes="100vw"
-          className="object-cover object-center"
+          priority
+          className="object-center"
         />
         <div aria-hidden="true" className="absolute inset-0 bg-background/45" />
         <div

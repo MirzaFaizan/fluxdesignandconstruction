@@ -7,7 +7,7 @@ import { Link } from "@/i18n/navigation";
 import type { HouseStyle, PlotSize, WorkTypology } from "@/lib/projects";
 import { workTransitionName } from "@/lib/projects";
 import { cn } from "@/lib/utils";
-import type { StaticImageData } from "next/image";
+import type { MediaImage } from "@/lib/media";
 import { ViewTransition } from "react";
 import { useMemo, useState } from "react";
 
@@ -19,7 +19,7 @@ export type WorkIndexCard = {
   plotSize: PlotSize | null;
   style: HouseStyle | null;
   fromDesignToSite: boolean;
-  image: StaticImageData;
+  image: MediaImage;
   caption: string;
   alt: string;
 };

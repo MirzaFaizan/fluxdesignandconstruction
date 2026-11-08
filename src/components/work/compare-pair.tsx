@@ -3,9 +3,9 @@
 import {
   ReactCompareSlider,
   ReactCompareSliderHandle,
-  ReactCompareSliderImage,
 } from "react-compare-slider";
-import type { StaticImageData } from "next/image";
+import { Picture } from "@/components/media/picture";
+import type { MediaImage } from "@/lib/media";
 
 export function ComparePair({
   cgi,
@@ -17,8 +17,8 @@ export function ComparePair({
   cgiNote,
   ariaLabel,
 }: {
-  cgi: StaticImageData;
-  site: StaticImageData;
+  cgi: MediaImage;
+  site: MediaImage;
   cgiAlt: string;
   siteAlt: string;
   labelDesign: string;
@@ -33,7 +33,7 @@ export function ComparePair({
         onlyHandleDraggable
         itemOne={
           <div className="relative h-full w-full">
-            <ReactCompareSliderImage src={cgi.src} alt={cgiAlt} />
+            <Picture image={cgi} alt={cgiAlt} sizes="100vw" className="static block" />
             <span className="pointer-events-none absolute inset-inline-0 bottom-0 bg-background/90 px-4 py-3 text-start text-xs leading-6 text-foreground sm:text-sm sm:leading-7">
               <span className="block">{labelDesign}</span>
               <span className="block text-foreground/80">{cgiNote}</span>
@@ -42,7 +42,7 @@ export function ComparePair({
         }
         itemTwo={
           <div className="relative h-full w-full">
-            <ReactCompareSliderImage src={site.src} alt={siteAlt} />
+            <Picture image={site} alt={siteAlt} sizes="100vw" className="static block" />
             <span className="pointer-events-none absolute inset-inline-0 bottom-0 bg-background/90 px-4 py-3 text-end text-xs leading-6 text-foreground sm:text-sm sm:leading-7">
               <span className="block">{labelSite}</span>
             </span>

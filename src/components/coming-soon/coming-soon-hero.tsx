@@ -1,13 +1,7 @@
+import { Picture } from "@/components/media/picture";
 import { Link } from "@/i18n/navigation";
+import { launchMedia } from "@/lib/launch-media";
 import { getLocale, getTranslations } from "next-intl/server";
-import Image from "next/image";
-
-const HERO = {
-  avif: "/media/heroes/hero-khursheed-586a-dusk.avif",
-  webp: "/media/heroes/hero-khursheed-586a-dusk.webp",
-  width: 1536,
-  height: 1024,
-} as const;
 
 function UrduHeading({ text }: { text: string }) {
   const lines = text.split(/(?<=۔)\s+/).filter(Boolean);
@@ -30,19 +24,13 @@ export async function ComingSoonHero() {
   return (
     <section className="relative isolate min-h-[calc(100dvh-3.5rem)] border-b border-border sm:min-h-[calc(100dvh-4rem)]">
       <div className="absolute inset-0 overflow-hidden">
-        <picture>
-          <source srcSet={HERO.avif} type="image/avif" />
-          <Image
-            src={HERO.webp}
-            alt={t("heroAlt")}
-            width={HERO.width}
-            height={HERO.height}
-            priority
-            unoptimized
-            sizes="100vw"
-            className="absolute inset-0 size-full object-cover object-[center_38%]"
-          />
-        </picture>
+        <Picture
+          image={launchMedia.khursheed586a}
+          alt={t("heroAlt")}
+          sizes="100vw"
+          priority
+          className="object-[center_38%]"
+        />
       </div>
       <div
         aria-hidden="true"

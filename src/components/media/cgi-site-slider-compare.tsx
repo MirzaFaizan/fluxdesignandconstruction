@@ -4,14 +4,17 @@ import { ReactCompareSliderCssVars } from "react-compare-slider/consts";
 import {
   ReactCompareSlider,
   ReactCompareSliderHandle,
-  ReactCompareSliderImage,
 } from "react-compare-slider";
-import type { StaticImageData } from "next/image";
+import { Picture } from "@/components/media/picture";
+import type { MediaImage } from "@/lib/media";
 import type { CSSProperties } from "react";
 
+// /build sliders are capped at (100svh - 11rem) * 1.6 wide; 100vw is a safe upper bound.
+const SLIDER_SIZES = "100vw";
+
 export type CgiSiteSliderProps = {
-  cgi: StaticImageData;
-  site: StaticImageData;
+  cgi: MediaImage;
+  site: MediaImage;
   cgiAlt: string;
   siteAlt: string;
   designLabel: string;
@@ -45,17 +48,22 @@ export function CgiSiteSliderCompare({
       <ReactCompareSlider
         className="h-full w-full"
         itemOne={
-          <ReactCompareSliderImage
-            src={cgi.src}
+          <Picture
+            image={cgi}
             alt={cgiAlt}
-            fetchPriority={priority ? "high" : "auto"}
+            sizes={SLIDER_SIZES}
+            priority={priority}
+            className="static block"
             style={{ objectPosition: cgiPosition }}
           />
         }
         itemTwo={
-          <ReactCompareSliderImage
-            src={site.src}
+          <Picture
+            image={site}
             alt={siteAlt}
+            sizes={SLIDER_SIZES}
+            priority={priority}
+            className="static block"
             style={{ objectPosition: sitePosition }}
           />
         }
